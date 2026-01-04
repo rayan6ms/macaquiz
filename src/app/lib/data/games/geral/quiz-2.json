@@ -1,0 +1,136 @@
+{
+  "id": "quiz-2",
+  "title": "Conhecimentos gerais (Toda Matéria) — Jogo 2",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Indique quais as respectivas invenções dos inventores Alexander Graham Bell e Galileu Galilei.",
+      "options": {
+        "A": "Lâmpada e avião",
+        "B": "Internet e televisão",
+        "C": "Futebol e celular",
+        "D": "Telefone e termômetro",
+        "E": "Relógio e giroscópio"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-2/q11.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Nesses pares, ambos são mamíferos:",
+      "options": {
+        "A": "Baleia azul e golfinhos",
+        "B": "Morcegos e galinhas",
+        "C": "Girafas e tartarugas",
+        "D": "Porcos e pinguins",
+        "E": "Macacos e sapos"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-2/q12.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Quanto tempo o vidro demora para se decompor?",
+      "options": {
+        "A": "500 anos",
+        "B": "1000 anos",
+        "C": "4000 anos",
+        "D": "1 milhão de anos",
+        "E": "tempo indeterminado"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-2/q13.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "De que são constituídos os diamantes?",
+      "options": {
+        "A": "Grafite",
+        "B": "Rênio",
+        "C": "Carbono",
+        "D": "Ósmio",
+        "E": "Bóhrio"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-2/q14.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Qual o significado das setas do símbolo internacional da reciclagem ?",
+      "options": {
+        "A": "Fabricação, utilização e reutilização",
+        "B": "Papel, vidro e metal",
+        "C": "Papel, vidro e plástico",
+        "D": "Lixo, reaproveitamento e fabricação",
+        "E": "Coleta, separação e consumo"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-2/q15.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Em que ordem aparecem as cores do arco-íris sempre?",
+      "options": {
+        "A": "Amarelo, laranja, vermelho, azul, anil (ou índigo), verde e violeta",
+        "B": "Amarelo, violeta, laranja, verde, vermelho, anil (ou índigo) e azul",
+        "C": "Vermelho, laranja, violeta, anil (ou índigo), azul, verde e amarelo",
+        "D": "Vermelho, laranja, amarelo, branco, verde, azul e violeta",
+        "E": "Vermelho, laranja, amarelo, verde, azul, anil (ou índigo) e violeta"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-2/q16.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Qual dessas aves não voa?",
+      "options": {
+        "A": "Pinguim",
+        "B": "Galinha",
+        "C": "Cegonha",
+        "D": "Pato",
+        "E": "Peru"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-2/q17.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "A quem foi atribuído pela primeira vez o Prêmio Nobel da Paz?",
+      "options": {
+        "A": "Frédéric Passy",
+        "B": "Martin Luther King Jr.",
+        "C": "Frédéric Passy e Henry Dunant",
+        "D": "Henri Becquerel e Marie Curie",
+        "E": "Madre Teresa de Calcutá"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-2/q18.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "O que é um Papiloscopista?",
+      "options": {
+        "A": "Especialista em cópias",
+        "B": "Profissional especializado em identificação humana",
+        "C": "Indivíduo responsável por crianças órfãs",
+        "D": "Pessoa que tem uma pequena saliência cônica na língua",
+        "E": "Indivíduo que se dedica ao estudo de papiros"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-2/q19.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Qual é respectivamente o animal terrestre mais lento e o mais veloz?",
+      "options": {
+        "A": "Bicho-preguiça e guepardo",
+        "B": "Tartaruga e leão",
+        "C": "Coala e cavalo",
+        "D": "Caracol e tubarão",
+        "E": "Bicho-preguiça e libélula"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-2/q20.jpg"
+    }
+  ]
+}

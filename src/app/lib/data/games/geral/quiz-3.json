@@ -1,0 +1,136 @@
+{
+  "id": "quiz-3",
+  "title": "Conhecimentos gerais (Toda Matéria) — Jogo 3",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Método de seleção em que predomina o mérito. Essa é a definição de qual conceito da Sociologia?",
+      "options": {
+        "A": "Aristocracia",
+        "B": "Fidalguia",
+        "C": "Tirania",
+        "D": "Meritocracia",
+        "E": "Romaria"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-3/q21.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "O que é Ortorexia?",
+      "options": {
+        "A": "Obsessão pelo consumo de alimentos saudáveis",
+        "B": "Transtorno alimentar caracterizado pela perda de apetite",
+        "C": "Obsessão em falar de forma correta",
+        "D": "Preocupação exagerada em ter um corpo elegante",
+        "E": "Distúrbio alimentar que provoca a ingestão excessiva de alimentos"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-3/q22.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Qual desses autores brasileiros escreveu O Guarani e O Gaúcho ?",
+      "options": {
+        "A": "Aluísio de Azevedo",
+        "B": "José de Anchieta",
+        "C": "José de Alencar",
+        "D": "Gonçalves Dias",
+        "E": "Gonçalves de Magalhães"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-3/q23.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Qual o significado da expressão “calcanhar de Aquiles”?",
+      "options": {
+        "A": "A característica predominante das pessoas",
+        "B": "Fuga dos problemas",
+        "C": "O ponto mais vulnerável de alguém",
+        "D": "Esporão",
+        "E": "Parte em que as pessoas concentram a sua força"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-3/q24.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "O etanol é produzido através de qual fonte de energia?",
+      "options": {
+        "A": "Solar",
+        "B": "Biomassa",
+        "C": "Eólica",
+        "D": "Geotérmica",
+        "E": "Hidrelétrica"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-3/q25.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Qual destas, apesar do seu nome, não é considerada um tipo de força?",
+      "options": {
+        "A": "Força de atrito",
+        "B": "Força peso",
+        "C": "Força centrípeta",
+        "D": "Força eletromotriz",
+        "E": "Força normal"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-3/q26.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Qual desses não é um instrumento meteorológico?",
+      "options": {
+        "A": "Barógrafo",
+        "B": "Termômetro",
+        "C": "Pluviômetro",
+        "D": "Anemômetro",
+        "E": "Etilômetro"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-3/q27.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Este é um exemplo de palíndromo:",
+      "options": {
+        "A": "Roma é amor.",
+        "B": "O rato roeu a roupa do rei de Roma.",
+        "C": "Quem tem boca vai à Roma.",
+        "D": "O que é, o que é? Feito para andar e não anda?",
+        "E": "\"Uni, duni, tê, Salamê, mingüê, Um sorvete colorê, O escolhido foi você!\""
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-3/q28.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Homem Vitruviano é um desenho de qual artista famoso?",
+      "options": {
+        "A": "Michelangelo",
+        "B": "Donatello",
+        "C": "William Shakespeare",
+        "D": "Van Gogh",
+        "E": "Leonardo da Vinci"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-3/q29.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Em qual das alternativas constam apenas maravilhas do mundo?",
+      "options": {
+        "A": "Estátua de Zeus em Olímpia, Cristo Redentor, Centro Histórico de Ouro Preto",
+        "B": "Pirâmides do Egito, Coliseu de Roma, Cristo Redentor",
+        "C": "Muralha da China, Taj Mahal, Pirâmide do Sol",
+        "D": "Torre Eiffel, Machu Picchu, Colosso de Rodes",
+        "E": "Big Ben, Torre de Pisa, Jardins Suspensos da Babilônia"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-3/q30.jpg"
+    }
+  ]
+}

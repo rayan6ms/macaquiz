@@ -1,0 +1,267 @@
+{
+  "id": "quiz-4",
+  "title": "Conhecimentos gerais (Toda Matéria) — Jogo 4",
+  "source": "https://www.todamateria.com.br/perguntas-e-respostas-de-conhecimentos-gerais/",
+  "questions": [
+    {
+      "id": "q61",
+      "title": "Em que oceano fica Madagascar?",
+      "options": {
+        "A": "Oceano Índico",
+        "B": "Oceano Antártico",
+        "C": "Oceano Atlântico",
+        "D": "Oceano Pacífico",
+        "E": "Oceano Ártico"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-4/q61.jpg"
+    },
+    {
+      "id": "q62",
+      "title": "Que artista é conhecido como um dos expoentes máximos do Ready-Mades ?",
+      "options": {
+        "A": "Pablo Picasso",
+        "B": "Salvador Dalí",
+        "C": "Marcel Duchamp",
+        "D": "Van Gogh",
+        "E": "Leonardo da Vinci"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-4/q62.jpg"
+    },
+    {
+      "id": "q63",
+      "title": "Qual o metal cujo símbolo químico é o Au?",
+      "options": {
+        "A": "Cobre",
+        "B": "Prata",
+        "C": "Mercúrio",
+        "D": "Ouro",
+        "E": "Manganês"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-4/q63.jpg"
+    },
+    {
+      "id": "q64",
+      "title": "Em que século o continente europeu foi devastado pela peste bubônica?",
+      "options": {
+        "A": "No século X",
+        "B": "No século XI",
+        "C": "No século XII",
+        "D": "No século XIII",
+        "E": "No século XIV"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-4/q64.jpg"
+    },
+    {
+      "id": "q65",
+      "title": "Quem viveu, segundo a Bíblia, 969 anos?",
+      "options": {
+        "A": "Jesus Cristo",
+        "B": "Noé",
+        "C": "Matusalém",
+        "D": "Benjamim",
+        "E": "Abel"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-4/q65.jpg"
+    },
+    {
+      "id": "q66",
+      "title": "Em que cidade ocorreu a Eco-92, a Conferência das Nações Unidas sobre ambiente e desenvolvimento?",
+      "options": {
+        "A": "Buenos Aires",
+        "B": "Rio de Janeiro",
+        "C": "Montevidéu",
+        "D": "Assunção",
+        "E": "Caracas"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-4/q66.jpg"
+    },
+    {
+      "id": "q67",
+      "title": "Quem pintou o teto da capela sistina?",
+      "options": {
+        "A": "Michelangelo",
+        "B": "Leonardo da Vinci",
+        "C": "Rafael",
+        "D": "Sandro Botticelli",
+        "E": "Donatello"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-4/q67.jpg"
+    },
+    {
+      "id": "q68",
+      "title": "Quantos graus são necessários para que dois ângulos sejam complementares?",
+      "options": {
+        "A": "45",
+        "B": "60",
+        "C": "90",
+        "D": "180",
+        "E": "360"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-4/q68.jpg"
+    },
+    {
+      "id": "q69",
+      "title": "Quem foi o criador da tragédia grega?",
+      "options": {
+        "A": "Homero",
+        "B": "Eurípedes",
+        "C": "Plutarco",
+        "D": "Ésquilo",
+        "E": "Sófocles"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-4/q69.jpg"
+    },
+    {
+      "id": "q70",
+      "title": "Jim Morrison era vocalista de que grupo?",
+      "options": {
+        "A": "The Police",
+        "B": "The Doors",
+        "C": "Pink Floyd",
+        "D": "Nirvana",
+        "E": "AC/DC"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-4/q70.jpg"
+    },
+    {
+      "id": "q71",
+      "title": "Qual destas obras arquitetônicas brasileiras é uma das Sete Maravilhas do Mundo Moderno?",
+      "options": {
+        "A": "Elevador Lacerda",
+        "B": "Cristo Redentor",
+        "C": "Estação da Luz",
+        "D": "One Tower",
+        "E": "Palácio da Alvorada"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-4/q71.jpg"
+    },
+    {
+      "id": "q72",
+      "title": "Em que ano e quem foi eleito o primeiro presidente do Brasil?",
+      "options": {
+        "A": "1891, Deodoro da Fonseca",
+        "B": "1890, Floriano Peixoto",
+        "C": "1889, Hermes da Fonseca",
+        "D": "1930, Getúlio Vargas",
+        "E": "1822, Deodoro da Fonseca"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-4/q72.jpg"
+    },
+    {
+      "id": "q73",
+      "title": "As obras Abaporu, Operários e Antropofagia foram pintadas por qual artista brasileiro?",
+      "options": {
+        "A": "Di Cavalcanti",
+        "B": "Anita Malfatti",
+        "C": "Candido Potinari",
+        "D": "Tarsila do Amaral",
+        "E": "Romero Britto"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-4/q73.jpg"
+    },
+    {
+      "id": "q74",
+      "title": "Em que país nasceu Clarice Lispector?",
+      "options": {
+        "A": "Portugal",
+        "B": "Rússia",
+        "C": "Brasil",
+        "D": "Ucrânia",
+        "E": "França"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-4/q74.jpg"
+    },
+    {
+      "id": "q75",
+      "title": "Complete o provérbio “A cavalo dado …”",
+      "options": {
+        "A": "sai caro",
+        "B": "tem medo de água fria",
+        "C": "não se olha o rabo",
+        "D": "bonito lhe parece",
+        "E": "não se olha os dentes"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-4/q75.jpg"
+    },
+    {
+      "id": "q76",
+      "title": "Quais dos órgãos abaixo pertencem ao sistema respiratório?",
+      "options": {
+        "A": "Laringe e traqueia",
+        "B": "Pulmões e faringe",
+        "C": "Esôfago e brônquios",
+        "D": "Tireoide e hipófise",
+        "E": "Pâncreas e vasos sanguíneos"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-4/q76.jpg"
+    },
+    {
+      "id": "q77",
+      "title": "O que é filantropo?",
+      "options": {
+        "A": "Pessoa que tem excesso de confiança",
+        "B": "Pessoa egoísta",
+        "C": "Pessoa que pratica a caridade",
+        "D": "Canto gregoriano",
+        "E": "Poema de quatro versos"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-4/q77.jpg"
+    },
+    {
+      "id": "q78",
+      "title": "Em que ano e onde aconteceu o maior acidente aéreo da história do Brasil?",
+      "options": {
+        "A": "Ano 2007, em São Paulo",
+        "B": "Ano 2006, no Mato Grosso",
+        "C": "Ano 1982, no Ceará",
+        "D": "Ano 1996, em São Paulo",
+        "E": "Ano 1952, na Floresta Amazônica"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-4/q78.jpg"
+    },
+    {
+      "id": "q79",
+      "title": "Duas das afirmações abaixo estão erradas:",
+      "options": {
+        "A": "1 e 2",
+        "B": "2 e 3",
+        "C": "5 e 4",
+        "D": "1 e 3",
+        "E": "2 e 5"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-4/q79.jpg"
+    },
+    {
+      "id": "q80",
+      "title": "Qual das alternativas contém apenas vacinas contra a covid-19?",
+      "options": {
+        "A": "VIP/VOP e AstraZeneca",
+        "B": "CoronaVac e AstraZeneca",
+        "C": "HPV e BioNTech",
+        "D": "Pentavalente (DTPa) e Sputnik V",
+        "E": "Rotavírus e CoronaVac"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-4/q80.jpg"
+    }
+  ]
+}

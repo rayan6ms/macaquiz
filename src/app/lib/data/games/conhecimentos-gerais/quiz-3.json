@@ -1,0 +1,267 @@
+{
+  "id": "quiz-3",
+  "title": "Conhecimentos gerais (Toda Matéria) — Jogo 3",
+  "source": "https://www.todamateria.com.br/perguntas-e-respostas-de-conhecimentos-gerais/",
+  "questions": [
+    {
+      "id": "q41",
+      "title": "Qual o tema do famoso discurso Eu Tenho um Sonho, de Martin Luther King?",
+      "options": {
+        "A": "Igualdade das raças",
+        "B": "Justiça para os menos favorecidos",
+        "C": "Intolerância religiosa",
+        "D": "Prêmio Nobel da Paz",
+        "E": "Luta contra o Apartheid"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-3/q41.jpg"
+    },
+    {
+      "id": "q42",
+      "title": "Que líder mundial ficou conhecida como “Dama de Ferro”?",
+      "options": {
+        "A": "Dilma Rousseff",
+        "B": "Angela Merkel",
+        "C": "Margaret Thatcher",
+        "D": "Hillary Clinton",
+        "E": "Christine Lagarde"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-3/q42.jpg"
+    },
+    {
+      "id": "q43",
+      "title": "O que são Acordo de Paris e Tríplice Aliança respectivamente?",
+      "options": {
+        "A": "Acordo ortográfico entre países cuja língua oficial é o francês e Acordo de cooperação financeira internacional entre as três maiores potências mundiais",
+        "B": "Acordo entre países europeus acerca da imigração e Acordo econômico entre Inglaterra, Rússia a França",
+        "C": "Acordo entre vários países acerca das consequências do aquecimento global e Acordo de cooperação financeira internacional entre as três maiores potências mundiais",
+        "D": "Acordo de cooperação financeira internacional entre as três maiores potências mundiais e Acordo entre vários países acerca das consequências do aquecimento global",
+        "E": "Acordo entre vários países acerca das consequências do aquecimento global e Acordo entre Alemanha, império Austro-Húngaro e Itália acerca de apoio em caso de guerra"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-3/q43.jpg"
+    },
+    {
+      "id": "q44",
+      "title": "Quais os nomes dos três Reis Magos?",
+      "options": {
+        "A": "Gaspar, Nicolau e Natanael",
+        "B": "Belchior, Gaspar e Baltazar",
+        "C": "Belchior, Gaspar e Nataniel",
+        "D": "Gabriel, Benjamim e Melchior",
+        "E": "Melchior, Noé e Galileu"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-3/q44.jpg"
+    },
+    {
+      "id": "q45",
+      "title": "Quais os principais heterônimos de Fernando Pessoa?",
+      "options": {
+        "A": "Alberto Caeiro, Ricardo Reis e Álvaro de Campos",
+        "B": "Ariano Suassuna, Raul Bopp e Quincas Borba",
+        "C": "Bento Teixeira, Ricardo Reis e Haroldo de Campos",
+        "D": "Alberto Caeiro, Ricardo Leite e Augusto de Campos",
+        "E": "Bento Teixeira, Ricardo Reis e Augusto de Campos"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-3/q45.jpg"
+    },
+    {
+      "id": "q46",
+      "title": "Qual a religião monoteísta que conta com o maior número de adeptos no mundo?",
+      "options": {
+        "A": "Judaísmo",
+        "B": "Zoroastrismo",
+        "C": "Islamismo",
+        "D": "Cristianismo",
+        "E": "Hinduísmo"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-3/q46.jpg"
+    },
+    {
+      "id": "q47",
+      "title": "Qual desses filmes foi baseado na obra de Shakespeare?",
+      "options": {
+        "A": "Muito Barulho por Nada (2012)",
+        "B": "Capitães de Areia (2011)",
+        "C": "A Dama das Camélias (1936)",
+        "D": "A Revolução dos Bichos (1954)",
+        "E": "Excalibur (1981)"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-3/q47.jpg"
+    },
+    {
+      "id": "q48",
+      "title": "Quem foi o primeiro homem a pisar na Lua? Em que ano aconteceu?",
+      "options": {
+        "A": "Yuri Gagarin, em 1961",
+        "B": "Buzz Aldrin, em 1969",
+        "C": "Charles Conrad, em 1969",
+        "D": "Charles Duke, em 1971",
+        "E": "Neil Armstrong, em 1969."
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-3/q48.jpg"
+    },
+    {
+      "id": "q49",
+      "title": "Qual o nome do cientista que descobriu o processo de pasteurização e a vacina contra a raiva?",
+      "options": {
+        "A": "Marie Curie",
+        "B": "Blaise Pascal",
+        "C": "Louis Pasteur",
+        "D": "Antoine Lavoisier",
+        "E": "Charles Darwin"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-3/q49.jpg"
+    },
+    {
+      "id": "q50",
+      "title": "As pessoas de qual tipo sanguíneo são consideradas doadores universais?",
+      "options": {
+        "A": "Tipo A",
+        "B": "Tipo B",
+        "C": "Tipo O",
+        "D": "Tipo AB",
+        "E": "Tipo ABO"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-3/q50.jpg"
+    },
+    {
+      "id": "q51",
+      "title": "Quais são os cromossomos que determinam o sexo masculino?",
+      "options": {
+        "A": "Os V",
+        "B": "Os X",
+        "C": "Os Y",
+        "D": "Os W",
+        "E": "Os Z"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-3/q51.jpg"
+    },
+    {
+      "id": "q52",
+      "title": "Em que estado australiano fica situada a cidade de Sydney?",
+      "options": {
+        "A": "Nova Gales do Sul",
+        "B": "Victoria",
+        "C": "Tasmânia",
+        "D": "Queensland",
+        "E": "Norfolk"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-3/q52.jpg"
+    },
+    {
+      "id": "q53",
+      "title": "Que organização juvenil foi fundado por Baden-Powell?",
+      "options": {
+        "A": "A juventude socialista",
+        "B": "O escotismo",
+        "C": "O clube dos aventureiros",
+        "D": "A associação juvenil",
+        "E": "A Organização mundial da juventude"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-3/q53.jpg"
+    },
+    {
+      "id": "q54",
+      "title": "Quem amamentou os gêmeos Rômulo e Remo?",
+      "options": {
+        "A": "uma cabra",
+        "B": "uma vaca",
+        "C": "uma ovelha",
+        "D": "uma gata",
+        "E": "uma loba"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-3/q54.jpg"
+    },
+    {
+      "id": "q55",
+      "title": "No exterior de que famoso edifício francês foi construída uma enorme pirâmide de vidro em 1989?",
+      "options": {
+        "A": "Torre Eiffel",
+        "B": "Petit Palais",
+        "C": "Grand Palais",
+        "D": "Museu do Louvre",
+        "E": "Arco do Triunfo"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-3/q55.jpg"
+    },
+    {
+      "id": "q56",
+      "title": "Como se chamam os vasos que transportam sangue do coração para a periferia do corpo?",
+      "options": {
+        "A": "veias",
+        "B": "átrios",
+        "C": "ventrículos",
+        "D": "artérias",
+        "E": "aurículos"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-3/q56.jpg"
+    },
+    {
+      "id": "q57",
+      "title": "Com que dois países faz fronteira o Equador?",
+      "options": {
+        "A": "com o Brasil e com a Colômbia",
+        "B": "com a Colômbia e com a Venezuela",
+        "C": "com a Colômbia e com o Peru",
+        "D": "com o Peru e com o Equador",
+        "E": "com o Equador e o Brasil"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-3/q57.jpg"
+    },
+    {
+      "id": "q58",
+      "title": "Que animal gruguleja?",
+      "options": {
+        "A": "o pavão",
+        "B": "a garça",
+        "C": "o papagaio",
+        "D": "a cacatua",
+        "E": "o peru"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-3/q58.jpg"
+    },
+    {
+      "id": "q59",
+      "title": "Qual é o maior arquipélago da Terra?",
+      "options": {
+        "A": "a Filipinas",
+        "B": "a Indonésia",
+        "C": "as Bahamas",
+        "D": "a Finlândia",
+        "E": "as Maldivas"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-3/q59.jpg"
+    },
+    {
+      "id": "q60",
+      "title": "Que substância é absorvida pelas plantas e expirada por todos os seres vivos?",
+      "options": {
+        "A": "o oxigênio",
+        "B": "o nitrogênio",
+        "C": "o nitrato de sódio",
+        "D": "o dióxido de ferro",
+        "E": "o dióxido de carbono"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-3/q60.jpg"
+    }
+  ]
+}

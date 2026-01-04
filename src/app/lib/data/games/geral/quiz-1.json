@@ -1,0 +1,136 @@
+{
+  "id": "quiz-1",
+  "title": "Conhecimentos gerais (Toda Matéria) — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Quantos planetas Terra cabem dentro do Sol?",
+      "options": {
+        "A": "Um milhão",
+        "B": "Cem",
+        "C": "Seiscentos",
+        "D": "Cento e cinquenta",
+        "E": "Dois milhões"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Em que lugar vivem mais cangurus do que pessoas?",
+      "options": {
+        "A": "Indonésia",
+        "B": "Nova Zelândia",
+        "C": "Austrália",
+        "D": "Papua-Nova Guiné",
+        "E": "África do Sul"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Quantos olhos a maior parte das aranhas têm?",
+      "options": {
+        "A": "Dois",
+        "B": "Quatro",
+        "C": "Quatro pares",
+        "D": "Seis",
+        "E": "Um"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "O que mede a Escala Mercalli?",
+      "options": {
+        "A": "A intensidade dos ventos",
+        "B": "A intensidade sísmica de acordo com os danos provocados",
+        "C": "A resistência dos minerais",
+        "D": "A magnitude de um terremoto",
+        "E": "A eletronegatividade"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Qual das alternativas contém apenas nomes de rios?",
+      "options": {
+        "A": "São Francisco, Douro, Antártico",
+        "B": "Nilo, Amazonas, Mississipi",
+        "C": "Cáspio, Vermelho, Reno",
+        "D": "Tocantins, Bering, Ganges",
+        "E": "Danúbio, Jordão, Morto"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Quanto mede uma girafa?",
+      "options": {
+        "A": "Entre 4,8 e 5,5 metros",
+        "B": "2 metros",
+        "C": "Entre 5 e 6 metros",
+        "D": "2,5 metros",
+        "E": "4 metros"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Qual a ciência que estuda a atmosfera da Terra e a climatologia?",
+      "options": {
+        "A": "Astronomia",
+        "B": "Metereologia",
+        "C": "Dispersão atmosférica",
+        "D": "Meteorologia",
+        "E": "Horologia"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Quantos braços tem um polvo?",
+      "options": {
+        "A": "Seis",
+        "B": "Oito",
+        "C": "Dez",
+        "D": "Sete",
+        "E": "Três"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Qual das alternativas contém apenas animais cujos esqueletos são externos?",
+      "options": {
+        "A": "Caracóis, caranguejos e lagostas",
+        "B": "Besouros, peixes e formigas",
+        "C": "Caracóis, lulas e aranhas",
+        "D": "Borboletas, caranguejos e peixes",
+        "E": "Lagostas, polvos e escorpiões"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Qual das alternativas traz apenas nomes de grandes inventores?",
+      "options": {
+        "A": "Alfred Nobel, José Bonifácio, Leonardo da Vinci",
+        "B": "Machado de Assis, Oscar Niemeyer e Dmitri Mendeleiev",
+        "C": "Evangelista Torricelli, Thomas Edison, Pablo Picasso",
+        "D": "Stephen Poplawski, Tarsila do Amaral, Amalie Auguste Melitta Bentz",
+        "E": "Alexander Graham Bell, Bartolomeu de Gusmão, Galileu Galilei"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-1/q10.jpg"
+    }
+  ]
+}

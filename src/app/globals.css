@@ -1,0 +1,140 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.confetti-burst {
+  position: absolute;
+  top: -16px;
+  width: 220px;
+  height: 220px;
+  pointer-events: none;
+  overflow: visible;
+}
+
+.confetti-burst::before,
+.confetti-burst::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 10px;
+  height: 14px;
+  border-radius: 2px;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  animation-duration: 2.9s;
+  animation-timing-function: cubic-bezier(0.22, 0.61, 0.36, 1);
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  will-change: transform, opacity;
+}
+
+.confetti-burst::before {
+  background: #fca5a5;
+  box-shadow:
+    12px -22px #fbbf24,
+    -20px -8px #34d399,
+    24px 6px #60a5fa,
+    -8px 26px #f472b6,
+    30px 24px #fcd34d,
+    -26px 20px #22d3ee,
+    0px 34px #a78bfa,
+    22px -30px #fb7185,
+    -30px -24px #facc15,
+    34px -8px #4ade80,
+    -10px 38px #38bdf8,
+    40px 18px #fda4af;
+}
+
+.confetti-burst::after {
+  background: #fde047;
+  box-shadow:
+    12px 16px #38bdf8,
+    -24px 8px #fb7185,
+    26px -12px #34d399,
+    -10px -28px #facc15,
+    16px -24px #a78bfa,
+    -28px -16px #fda4af,
+    6px 32px #22d3ee,
+    -34px 28px #fbbf24,
+    36px 20px #4ade80,
+    -6px 40px #fb7185,
+    40px -6px #22d3ee;
+  animation-delay: 0.35s;
+  animation-duration: 3.2s;
+}
+
+.confetti-left {
+  left: -12px;
+}
+
+.confetti-right {
+  right: -12px;
+}
+
+.confetti-left::before,
+.confetti-left::after {
+  animation-name: confetti-pop-left;
+}
+
+.confetti-right::before,
+.confetti-right::after {
+  animation-name: confetti-pop-right;
+}
+
+@keyframes confetti-pop-left {
+  0% {
+    transform: translate(-50%, -50%) scale(0.7) rotate(0deg);
+    opacity: 0;
+  }
+  12% {
+    opacity: 1;
+  }
+  70% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate(-130px, 170px) scale(1) rotate(220deg);
+    opacity: 0;
+  }
+}
+
+@keyframes confetti-pop-right {
+  0% {
+    transform: translate(-50%, -50%) scale(0.7) rotate(0deg);
+    opacity: 0;
+  }
+  12% {
+    opacity: 1;
+  }
+  70% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate(130px, 170px) scale(1) rotate(-220deg);
+    opacity: 0;
+  }
+}

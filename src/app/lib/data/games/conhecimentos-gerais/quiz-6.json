@@ -1,0 +1,201 @@
+{
+  "id": "quiz-6",
+  "title": "Conhecimentos gerais (Toda Matéria) — Jogo 6",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Quanto tempo durou a erupção do vulcão nas ilhas Canárias em 2021 e alguns dos danos causados?",
+      "options": {
+        "A": "Cerca de três meses e destruiu residências e plantações",
+        "B": "Cerca de três semanas e aproximadamente 50 tremores de terra",
+        "C": "Cerca de seis meses e a morte de mais de 10 mil pessoas",
+        "D": "Cerca de três meses e um tsunami que atingiu a costa brasileira",
+        "E": "Cerca de 19 dias e destruição de metade dos municípios da Ilha"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-6/q101.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Em outubro de 2017 um crime em Goiânia chocou o Brasil. O que aconteceu?",
+      "options": {
+        "A": "Chacina da Candelária",
+        "B": "Um segurança ateou fogo em crianças de uma creche, provocando a morte de pelo menos 5",
+        "C": "Um adolescente disparou contra colegas em uma sala de aula, dois dos quais morreram",
+        "D": "Crime que ficou conhecido como Massacre de Realengo",
+        "E": "Um índio foi queimado enquanto dormia em um ponto de ônibus"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-6/q102.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Quais as consequências para o Brasil decorrentes da crise na Venezuela?",
+      "options": {
+        "A": "Sobrecarregamento no sistema público de saúde em Roraima",
+        "B": "Fortalecimento do Mercosul",
+        "C": "Aumento de mão-de-obra",
+        "D": "Crescimento de investimentos estrangeiros",
+        "E": "Melhoria nos serviços sociais a fim de atender os imigrantes venezuelanos"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-6/q103.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Em 2018 foi o centenário da morte de que importante poeta brasileiro?",
+      "options": {
+        "A": "Monteiro Lobato",
+        "B": "Machado de Assis",
+        "C": "Aluísio de Azevedo",
+        "D": "Olavo Bilac",
+        "E": "Carlos Heitor Cony"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-6/q104.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Quem é o autor do famoso discurso \"Eu tenho um sonho\"?",
+      "options": {
+        "A": "Nelson Mandela",
+        "B": "Martin Luther King",
+        "C": "Zumbi dos Palmares",
+        "D": "Barack Obama",
+        "E": "Carlota Joaquina"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-6/q105.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Que acontecimento importante para a história da humanidade teve lugar em 20 de julho de 1969?",
+      "options": {
+        "A": "Chegada do homem à Lua",
+        "B": "Fim do Apartheid",
+        "C": "Lançamento das bombas atômicas em Hiroshima e Nagasaki",
+        "D": "Lançamento do álbum dos Beatles Abbey Road",
+        "E": "Envio do primeiro e-mail da história"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-6/q106.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Quais as maiores pandemias da história?",
+      "options": {
+        "A": "Gripe espanhola e câncer",
+        "B": "Varíola e hipertensão",
+        "C": "Peste negra e covid-19",
+        "D": "Cólera e colesterol",
+        "E": "Asma e Gripe espanhola"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-6/q107.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Qual das alternativas apresenta os motivos de cancelamento das Olimpíadas de 1916, 1940 e 1944?",
+      "options": {
+        "A": "Atrasos nas obras dos estádios",
+        "B": "Roubo da tocha olímpica",
+        "C": "Primeira Guerra Mundial e coronavírus",
+        "D": "Primeira e Segunda guerras mundiais",
+        "E": "Falta de financiamento"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-6/q108.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Quem é Abraham Weintraub?",
+      "options": {
+        "A": "Ministro da Educação do Brasil entre 2019 e 2020",
+        "B": "Compositor de origem judaica",
+        "C": "Ex-agente secreto israelense",
+        "D": "Sociólogo e ativista brasileiro",
+        "E": "Rabino israelense"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-6/q109.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Quais são, respectivamente, os países onde o primeiro caso de covid-19 foi detectado e a primeira pessoa foi vacinada contra o vírus?",
+      "options": {
+        "A": "Estados Unidos e Brasil",
+        "B": "China e Inglaterra",
+        "C": "Índia e Inglaterra",
+        "D": "China e Estados Unidos",
+        "E": "China e Japão"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-6/q110.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "É um dos maiores nomes da literatura brasileira. Ucraniana, em 2020 faria 100 anos. De quem estamos falando?",
+      "options": {
+        "A": "Lygia Fagundes Telles",
+        "B": "Clarice Lispector",
+        "C": "Cecília Meireles",
+        "D": "Rachel de Queiroz",
+        "E": "Svetlana Aleksiévitch"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-6/q111.jpg"
+    },
+    {
+      "id": "q12",
+      "title": "Que acontecimento histórico comemorou 30 anos em 9 de novembro de 2019?",
+      "options": {
+        "A": "Queda da Bastilha",
+        "B": "Grande depressão",
+        "C": "Transferência da soberania de Macau à China",
+        "D": "Queda do muro de Berlim",
+        "E": "Revolução cubana"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-6/q112.jpg"
+    },
+    {
+      "id": "q13",
+      "title": "Quem é a primeira santa nascida no Brasil, canonizada em 2019?",
+      "options": {
+        "A": "Santa Dulce dos Pobres",
+        "B": "Nossa Senhora Aparecida",
+        "C": "Madre Teresa de Calcutá",
+        "D": "Rainha Santa Isabel",
+        "E": "Nossa Senhora de Guadalupe"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-6/q113.jpg"
+    },
+    {
+      "id": "q14",
+      "title": "Em qual das alternativas os dois filmes tem como tema a Segunda Guerra Mundial?",
+      "options": {
+        "A": "Sonho de uma Noite de Verão, de Michael Hoffman (1999) e Macbeth: Ambição e Guerra, de Justin Kurzel (2015)",
+        "B": "A Batalha de Passchendaele, de Paul Gross (2008) e Cavalo de Guerra, de Steven Spielberg (2011)",
+        "C": "O Império do Sol, de Steven Spielberg (1987) e A vida é bela, de Roberto Benini (1997)",
+        "D": "Anti-herói, de Dito Montiel (2003) e Meia-noite em Paris, Woody Allen (2011)",
+        "E": "Estrelas além do tempo, de Theodore Melfi (2016) e Pantera negra, de Ryan Coogler (2018)"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-6/q114.jpg"
+    },
+    {
+      "id": "q15",
+      "title": "Indique o nome da canção de onde foi tirada a estrofe abaixo.",
+      "options": {
+        "A": "Construção, de Chico Buarque",
+        "B": "Paratodos, de Chico Buarque",
+        "C": "Tropicália, de Caetano Veloso",
+        "D": "Asa Branca, de Luiz Gonzaga e Humberto Teixeira",
+        "E": "Aquarela do Brasil, de Ary Barroso"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-6/q115.jpg"
+    }
+  ]
+}

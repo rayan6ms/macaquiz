@@ -1,0 +1,267 @@
+{
+  "id": "quiz-5",
+  "title": "Conhecimentos gerais (Toda Matéria) — Jogo 5",
+  "source": "https://www.todamateria.com.br/perguntas-e-respostas-de-conhecimentos-gerais/",
+  "questions": [
+    {
+      "id": "q81",
+      "title": "Qual o motivo da condenação de Luís Inácio Lula da Silva em 2018?",
+      "options": {
+        "A": "Recebimento de apartamento de luxo no Guarujá (SP) como propina na Operação Lava Jato",
+        "B": "Corrupção e lavagem de dinheiro na Operação Lava Jato",
+        "C": "Tráfico de influência internacional na Operação Janus",
+        "D": "Obstrução da justiça na Operação Lava Jato",
+        "E": "Formação de quadrilha na Operação Lava Jato"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-5/q81.jpg"
+    },
+    {
+      "id": "q82",
+      "title": "Quais destes acontecimentos fez 20 e 30 anos em 2021?",
+      "options": {
+        "A": "Primavera árabe e Atentados de 11 de setembro",
+        "B": "Fim da Guerra no Golfo e Coroação de Dom Pedro II no Brasil",
+        "C": "Fim da Guerra no Golfo e Fim da Guerra Fria",
+        "D": "Atentado de 11 de setembro e Fim da Guerra do Golfo",
+        "E": "Primavera árabe e Atentados de 11 de setembro"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-5/q82.jpg"
+    },
+    {
+      "id": "q83",
+      "title": "Em janeiro de 2021, o Capitólio, prédio em que se encontra o Congresso dos Estados Unidos, foi invadido por manifestantes fazendo 5 mortos. Que evento estava acontecendo?",
+      "options": {
+        "A": "A tomada de posse de Joe Biden como presidentes dos Estados Unidos",
+        "B": "A ratificação da vitória de Joe Biden para a presidência dos Estados Unidos",
+        "C": "O Segundo Congresso Continental da Filadélfia",
+        "D": "Sessão especial de homenagem a Martin Luther King Jr.",
+        "E": "A tomada de posse de Donald Trump como presidentes dos Estados Unidos"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-5/q83.jpg"
+    },
+    {
+      "id": "q84",
+      "title": "Qual das alternativas traz uma das medidas do presidente Trump, anunciada em 2017, que causou polêmica?",
+      "options": {
+        "A": "Construção de um muro na fronteira com o Canadá",
+        "B": "Cessação de Acordo de Comércio Livre (ACL) entre os Estados Unidos e Israel",
+        "C": "Saída do Acordo de Paris",
+        "D": "Saída da OTAN - Organização do Tratado do Atlântico Norte",
+        "E": "Reconciliação dos EUA com Cuba"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-5/q84.jpg"
+    },
+    {
+      "id": "q85",
+      "title": "O que é Pix?",
+      "options": {
+        "A": "Meio de pagamento instantâneo criado pelo Banco Central do Brasil",
+        "B": "Plano de investimento de baixo risco do Banco do Brasil",
+        "C": "Conjunto de formas de pagamento realizados por subadquirentes",
+        "D": "Forma de pagamento online",
+        "E": "Produtos de investimento financeiro criados pelo Banco Central do Brasil"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-5/q85.jpg"
+    },
+    {
+      "id": "q86",
+      "title": "Que país tem realizado testes nucleares e, em 2017, ameaçou principalmente os Estados Unidos da América?",
+      "options": {
+        "A": "Síria",
+        "B": "Israel",
+        "C": "China",
+        "D": "Paquistão",
+        "E": "Coreia do Norte"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-5/q86.jpg"
+    },
+    {
+      "id": "q87",
+      "title": "O que é Brexit?",
+      "options": {
+        "A": "Saída do Reino Unido da Zona Euro",
+        "B": "Saída do Reino Unido da União Europeia",
+        "C": "Saída da Inglaterra do Reino Unido",
+        "D": "Fim da monarquia no Reino Unido",
+        "E": "Mudança do sistema de governo no Reino Unido"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-5/q87.jpg"
+    },
+    {
+      "id": "q88",
+      "title": "Sobre a personagem Mafalda, do cartunista argentino Quino (falecido em 2020), é correto afirmar.",
+      "options": {
+        "A": "Foi criada para uma campanha de alfabetização argentina na década de 60",
+        "B": "As tirinhas de Mafalda foram traduzidas apenas para português e inglês",
+        "C": "Sua criação foi inspirada na filha de Quino",
+        "D": "Seu maior desejo era ser igual à sua mãe",
+        "E": "Foi criada para fazer publicidades de eletrodomésticos"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-5/q88.jpg"
+    },
+    {
+      "id": "q89",
+      "title": "O que é o Acordo de Paris?",
+      "options": {
+        "A": "Acordo internacional que trata da restrição de imigrantes em Paris",
+        "B": "Acordo internacional que trata da proteção da França dos atentados terroristas",
+        "C": "Acordo internacional que trata do Desenvolvimento Sustentável",
+        "D": "Acordo internacional que trata da poluição radioativa",
+        "E": "Acordo internacional que trata do aquecimento global"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-5/q89.jpg"
+    },
+    {
+      "id": "q90",
+      "title": "O discurso de Jair Bolsonaro na Assembleia Geral da ONU em setembro de 2021 foi alvo de críticas. Quais dos temas abaixo estavam nesse discurso?",
+      "options": {
+        "A": "Direitos humanos e desenvolvimento social",
+        "B": "Proteção ambiental e atentados terroristas",
+        "C": "Proteção ambiental e missões de paz",
+        "D": "Crise financeira internacional e desenvolvimento social",
+        "E": "Pandemia e proteção ambiental"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-5/q90.jpg"
+    },
+    {
+      "id": "q91",
+      "title": "Durante quantos anos Fidel Castro, um dos governantes que esteve mais tempo no poder, esteve à frente de Cuba?",
+      "options": {
+        "A": "39 anos",
+        "B": "32 anos",
+        "C": "40 anos",
+        "D": "49 anos",
+        "E": "46 anos"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-5/q91.jpg"
+    },
+    {
+      "id": "q92",
+      "title": "Qual a função da ONU?",
+      "options": {
+        "A": "Zelar pela cultura em todas as nações",
+        "B": "Unir as nações com o objetivo de manter a paz e a segurança mundial",
+        "C": "Financiar países em desenvolvimento",
+        "D": "Regular o funcionamento do sistema financeiro a nível internacional",
+        "E": "Gerenciar acordos de comércio entre os países"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-5/q92.jpg"
+    },
+    {
+      "id": "q93",
+      "title": "Eva Braun era o nome da esposa de qual dessas personalidades conhecidas pela sua crueldade?",
+      "options": {
+        "A": "Vladimir Lenin",
+        "B": "Benito Mussolini",
+        "C": "Josef Stalin",
+        "D": "Augusto Pinochet",
+        "E": "Adolf Hitler"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-5/q93.jpg"
+    },
+    {
+      "id": "q94",
+      "title": "Em que governo brasileiro foi sancionada a lei das cotas para o ensino superior?",
+      "options": {
+        "A": "Governo de Dilma Rousseff",
+        "B": "Governo de José Sarney",
+        "C": "Governo de Fernando Henrique",
+        "D": "Governo de Tancredo Neves",
+        "E": "Governo de Luís Inácio Lula da Silva"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-5/q94.jpg"
+    },
+    {
+      "id": "q95",
+      "title": "Chernobyl e Césio-137 fazem parte dos maiores acidentes nucleares da história. Em que países aconteceram?",
+      "options": {
+        "A": "Rússia e Espanha",
+        "B": "Ucrânia e Brasil",
+        "C": "Estados Unidos e Ucrânia",
+        "D": "Japão e Brasil",
+        "E": "Taiwan e Alemanha"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-5/q95.jpg"
+    },
+    {
+      "id": "q96",
+      "title": "Como morreu Saddam Hussein?",
+      "options": {
+        "A": "Vítima de câncer",
+        "B": "Suicídio",
+        "C": "Ataque cardíaco",
+        "D": "Enforcado",
+        "E": "Decapitado"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-5/q96.jpg"
+    },
+    {
+      "id": "q97",
+      "title": "Países Baixos, Mianmar e Irã são países que mudaram de nomes. Antes eram chamados respectivamente de:",
+      "options": {
+        "A": "Holanda, Ceilão e Pérsia",
+        "B": "Birmânia, Pérsia e Holanda",
+        "C": "Holanda, Birmânia e Pérsia",
+        "D": "Suazilândia, Birmânia e Pérsia",
+        "E": "Holanda, Birmânia e Sião"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-5/q97.jpg"
+    },
+    {
+      "id": "q98",
+      "title": "Qual das alternativas contém apenas invenções criadas no Brasil?",
+      "options": {
+        "A": "Urna eletrônica, soro antiofídico (antídoto contra picada veneno das cobras) e chuveiro elétrico",
+        "B": "Lâmpada elétrica, chuveiro elétrico e internet",
+        "C": "Telefone, internet e urna eletrónica",
+        "D": "Facebook, automóvel e paraquedas",
+        "E": "Urna eletrônica, soro antiofídico (antídoto contra picada veneno das cobras) e paraquedas"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-5/q98.jpg"
+    },
+    {
+      "id": "q99",
+      "title": "Como forma de resistir às tradições do Halloween, qual a data comemorativa foi instituída no Brasil para ser celebrada no dia 31 de outubro?",
+      "options": {
+        "A": "Dia das bruxas",
+        "B": "Dia do folclore",
+        "C": "Dia da poupança",
+        "D": "Dia da música popular brasileira",
+        "E": "Dia do Saci"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-5/q99.jpg"
+    },
+    {
+      "id": "q100",
+      "title": "Em que país se localizava Auschwitz, o maior campo de concentração nazi?",
+      "options": {
+        "A": "Alemanha",
+        "B": "Polônia",
+        "C": "Estados Unidos",
+        "D": "Áustria",
+        "E": "Japão"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-5/q100.jpg"
+    }
+  ]
+}

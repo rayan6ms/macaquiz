@@ -1,0 +1,136 @@
+{
+  "id": "quiz-4",
+  "title": "Conhecimentos gerais (Toda Matéria) — Jogo 4",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Palavra “paz” soletrada através do alfabeto fonético da Otan:",
+      "options": {
+        "A": "Pá - amor - zuuum",
+        "B": "Pisces - alfa - zelo",
+        "C": "Paz - Aurélio - zulu",
+        "D": "Papa - alfa - zulu",
+        "E": "Delta - Charlie - ômega"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-4/q31.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "O Dia do Fico é anualmente celebrado em que data?",
+      "options": {
+        "A": "7 de setembro",
+        "B": "19 de abril",
+        "C": "19 de novembro",
+        "D": "9 de janeiro",
+        "E": "1º de maio"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-4/q32.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Listras azuis e brancas intercaladas e um sol no canto superior esquerdo caracterizam a bandeira de qual país da América do Sul?",
+      "options": {
+        "A": "Argentina",
+        "B": "Brasil",
+        "C": "Uruguai",
+        "D": "Namíbia",
+        "E": "Japão"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-4/q33.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Complete a frase: ___ ao vencedor!",
+      "options": {
+        "A": "Quimeras",
+        "B": "Cócoras",
+        "C": "Oblações",
+        "D": "Alvíssaras",
+        "E": "Apupos"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-4/q34.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "As cantigas de Escárnio e Maldizer pertencem a qual escola literária?",
+      "options": {
+        "A": "Modernismo",
+        "B": "Classicismo",
+        "C": "Barroco",
+        "D": "Quinhentismo",
+        "E": "Trovadorismo"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-4/q35.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Quantos dias, aproximadamente, a Lua demora para dar uma volta à Terra?",
+      "options": {
+        "A": "365 dias",
+        "B": "366 dias",
+        "C": "28 dias",
+        "D": "31 dias",
+        "E": "1 dia"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-4/q36.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "O português é a língua oficial nesses três países:",
+      "options": {
+        "A": "Guiné-Bissau, África do Sul e Brasil",
+        "B": "Guiné Equatorial, Cabo Verde e Angola",
+        "C": "Venezuela, Angola e Portugal",
+        "D": "Macau, Timor-Leste e Moçambique",
+        "E": "Argentina, São Tomé e Príncipe e Guiné Equatorial"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-4/q37.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Qual a unidade que mede a intensidade do som?",
+      "options": {
+        "A": "Decibel",
+        "B": "Frequência",
+        "C": "Hertz",
+        "D": "Compasso",
+        "E": "Ruído"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-4/q38.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Em que país nasceu o Conde Drácula?",
+      "options": {
+        "A": "Polônia",
+        "B": "Irlanda",
+        "C": "Escócia",
+        "D": "Transilvânia",
+        "E": "Rússia"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-4/q39.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Que tipo de tempestade é um haboob?",
+      "options": {
+        "A": "tempestade de neve",
+        "B": "tempestade de granizo",
+        "C": "tempestade de areia",
+        "D": "tempestade de raios",
+        "E": "tempestade de relâmpagos"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-4/q40.jpg"
+    }
+  ]
+}

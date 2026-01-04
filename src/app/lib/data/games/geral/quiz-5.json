@@ -1,0 +1,136 @@
+{
+  "id": "quiz-5",
+  "title": "Conhecimentos gerais (Toda Matéria) — Jogo 5",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Que capital asiática tem uma Cidade Imperial e uma Cidade Proibida?",
+      "options": {
+        "A": "Nova Delhi",
+        "B": "Pequim",
+        "C": "Tóquio",
+        "D": "Cingapura",
+        "E": "Seul"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-5/q41.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Que autor da antiguidade clássica escreveu As Bacantes ?",
+      "options": {
+        "A": "Homero",
+        "B": "Sófocles",
+        "C": "Ésquilo",
+        "D": "Plutarco",
+        "E": "Eurípides"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-5/q42.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Que país foi dividido em 1949?",
+      "options": {
+        "A": "Bélgica",
+        "B": "Alemanha",
+        "C": "Polônia",
+        "D": "Áustria",
+        "E": "Dinamarca"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-5/q43.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Que povo foi o primeiro a utilizar a bússola?",
+      "options": {
+        "A": "gregos",
+        "B": "romanos",
+        "C": "chineses",
+        "D": "mesopotâmicos",
+        "E": "egípcios"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-5/q44.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Segundo Pitágoras, a que é igual A2 + B2?",
+      "options": {
+        "A": "AB",
+        "B": "B3",
+        "C": "B4",
+        "D": "C2",
+        "E": "C4"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-5/q45.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Qual era o deus romano do amor?",
+      "options": {
+        "A": "Eros",
+        "B": "Apolo",
+        "C": "Baco",
+        "D": "Cupido",
+        "E": "Júpiter"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-5/q46.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Que personagem da mitologia grega era metade homem metade cavalo?",
+      "options": {
+        "A": "Centauro",
+        "B": "Sátiro",
+        "C": "Górgona",
+        "D": "Gigante",
+        "E": "Tártaro"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-5/q47.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Segundo que meridiano acertamos os nossos relógios?",
+      "options": {
+        "A": "Meridiano Central",
+        "B": "Meridiano do Equador",
+        "C": "Meridiano de Greenwich",
+        "D": "Meridiano da Terra",
+        "E": "Meridiano Internacional"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-5/q48.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Como se chama o passarinho amarelo amigo de Snoopy?",
+      "options": {
+        "A": "Bobby",
+        "B": "Daffy",
+        "C": "Woodstock",
+        "D": "Magoo",
+        "E": "Wile"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-5/q49.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Que número se repete 3 vezes quando se menciona a altura em metros, do Monte Everest?",
+      "options": {
+        "A": "o 4",
+        "B": "o 5",
+        "C": "o 6",
+        "D": "o 7",
+        "E": "o 8"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-5/q50.jpg"
+    }
+  ]
+}

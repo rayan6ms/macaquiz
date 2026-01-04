@@ -1,0 +1,267 @@
+{
+  "id": "quiz-2",
+  "title": "Conhecimentos gerais (Toda Matéria) — Jogo 2",
+  "source": "https://www.todamateria.com.br/perguntas-e-respostas-de-conhecimentos-gerais/",
+  "questions": [
+    {
+      "id": "q21",
+      "title": "Em que ordem surgiram os modelos atômicos?",
+      "options": {
+        "A": "Thomson, Dalton, Rutherford, Rutherford-Bohr",
+        "B": "Rutherford-Bohr, Rutherford, Thomson, Dalton",
+        "C": "Dalton, Rutherford-Bohr, Thomson, Rutherford",
+        "D": "Dalton, Thomson, Rutherford-Bohr, Rutherford",
+        "E": "Dalton, Thomson, Rutherford, Rutherford-Bohr"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-2/q21.jpg"
+    },
+    {
+      "id": "q22",
+      "title": "Qual personagem folclórico costuma ser agradado pelos caçadores com a oferta de fumo?",
+      "options": {
+        "A": "Caipora",
+        "B": "Saci",
+        "C": "Lobisomem",
+        "D": "Boitatá",
+        "E": "Negrinho do Pastoreio"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-2/q22.jpg"
+    },
+    {
+      "id": "q23",
+      "title": "Em que período da pré-história o fogo foi descoberto?",
+      "options": {
+        "A": "Neolítico",
+        "B": "Paleolítico",
+        "C": "Idade dos Metais",
+        "D": "Período da Pedra Polida",
+        "E": "Idade Média"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-2/q23.jpg"
+    },
+    {
+      "id": "q24",
+      "title": "Qual das alternativas abaixo apenas contêm classes de palavras?",
+      "options": {
+        "A": "Vogais, semivogais e consoantes",
+        "B": "Artigo, verbo transitivo e verbo intransitivo",
+        "C": "Fonologia, Morfologia e Sintaxe",
+        "D": "Hiatos, ditongos e tritongos",
+        "E": "Substantivo, verbo e preposição"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-2/q24.jpg"
+    },
+    {
+      "id": "q25",
+      "title": "Qual a montanha mais alta do Brasil?",
+      "options": {
+        "A": "Pico da Neblina",
+        "B": "Pico Paraná",
+        "C": "Monte Roraima",
+        "D": "Pico Maior de Friburgo",
+        "E": "Pico da Bandeira"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-2/q25.jpg"
+    },
+    {
+      "id": "q26",
+      "title": "Qual a velocidade da luz?",
+      "options": {
+        "A": "300 000 000 metros por segundo (m/s)",
+        "B": "150 000 000 metros por segundo (m/s)",
+        "C": "199 792 458 metros por segundo (m/s)",
+        "D": "299 792 458 metros por segundo (m/s)",
+        "E": "30 000 000 metros por segundo (m/s)"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-2/q26.jpg"
+    },
+    {
+      "id": "q27",
+      "title": "Em qual local da Ásia o português é língua oficial?",
+      "options": {
+        "A": "Índia",
+        "B": "Filipinas",
+        "C": "Moçambique",
+        "D": "Macau",
+        "E": "Portugal"
+      },
+      "correct": "D",
+      "image": "/images/games/quiz-2/q27.jpg"
+    },
+    {
+      "id": "q28",
+      "title": "“ It is six twenty\" ou \"twenty past six ”. Que horas são em inglês?",
+      "options": {
+        "A": "12:06",
+        "B": "6:20",
+        "C": "2:20",
+        "D": "6:02",
+        "E": "12:20"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-2/q28.jpg"
+    },
+    {
+      "id": "q29",
+      "title": "Quem é o autor de “O Príncipe”?",
+      "options": {
+        "A": "Maquiavel",
+        "B": "Antoine de Saint-Exupéry",
+        "C": "Montesquieu",
+        "D": "Thomas Hobbes",
+        "E": "Rousseau"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-2/q29.jpg"
+    },
+    {
+      "id": "q30",
+      "title": "Como é a conjugação do verbo caber na 1.ª pessoa do singular do presente do indicativo?",
+      "options": {
+        "A": "Eu caibo",
+        "B": "Ele cabe",
+        "C": "Que eu caiba",
+        "D": "Eu cabo",
+        "E": "Nenhuma das alternativas"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-2/q30.jpg"
+    },
+    {
+      "id": "q31",
+      "title": "Quais destas construções famosas ficam nos Estados Unidos?",
+      "options": {
+        "A": "Estátua da Liberdade, Golden Gate Bridge e Empire State Building",
+        "B": "Estátua da Liberdade, Big Ben e The High Line",
+        "C": "Angkor Wat, Taj Mahal e Skywalk no Grand Canyon",
+        "D": "Lincoln Memorial, Sidney Opera House e Burj Khalifa",
+        "E": "30 St Mary Axe, The High Line e Residencial 148 Spruce Street"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-2/q31.jpg"
+    },
+    {
+      "id": "q32",
+      "title": "Quais destas doenças são sexualmente transmissíveis?",
+      "options": {
+        "A": "Aids, tricomoníase e ebola",
+        "B": "Chikungunya, aids e herpes genital",
+        "C": "Gonorreia, clamídia e sífilis",
+        "D": "Botulismo, cistite e gonorreia",
+        "E": "Hepatite B, febre tifoide e hanseníase"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-2/q32.jpg"
+    },
+    {
+      "id": "q33",
+      "title": "Qual destes países é transcontinental?",
+      "options": {
+        "A": "Rússia",
+        "B": "Filipinas",
+        "C": "Marrocos",
+        "D": "Groenlândia",
+        "E": "Tanzânia"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-2/q33.jpg"
+    },
+    {
+      "id": "q34",
+      "title": "Em qual das orações abaixo a palavra foi empregada incorretamente?",
+      "options": {
+        "A": "Mais uma vez, portou-se mal.",
+        "B": "É um homem mal.",
+        "C": "Esse é o mal de todos.",
+        "D": "Mal falou nele, o fulano apareceu.",
+        "E": "É um mau vendedor."
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-2/q34.jpg"
+    },
+    {
+      "id": "q35",
+      "title": "Qual foi o recurso utilizado inicialmente pelo homem para explicar a origem das coisas?",
+      "options": {
+        "A": "A Filosofia",
+        "B": "A Biologia",
+        "C": "A Matemática",
+        "D": "A Astronomia",
+        "E": "A Mitologia"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-2/q35.jpg"
+    },
+    {
+      "id": "q36",
+      "title": "Qual das alternativas menciona apenas símbolos nacionais?",
+      "options": {
+        "A": "Bandeira insígnia da presidência, bandeira nacional, brasão, hinos e selo",
+        "B": "Bandeira nacional, armas nacionais, hino nacional e selo nacional",
+        "C": "Bandeira nacional, brasão, hino nacional e hino da independência",
+        "D": "Bandeira nacional, cores nacionais, hino nacional e hino da independência",
+        "E": "Bandeira insígnia da presidência, brasão flora e fauna e hinos"
+      },
+      "correct": "B",
+      "image": "/images/games/quiz-2/q36.jpg"
+    },
+    {
+      "id": "q37",
+      "title": "Quais os planetas do sistema solar?",
+      "options": {
+        "A": "Terra, Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio",
+        "B": "Júpiter, Marte, Mercúrio, Netuno, Plutão, Saturno, Terra, Urano, Vênus",
+        "C": "Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio",
+        "D": "Júpiter, Marte, Mercúrio, Netuno, Plutão, Saturno, Sol, Terra, Urano, Vênus",
+        "E": "Terra, Vênus, Saturno, Júpiter, Marte, Netuno, Mercúrio"
+      },
+      "correct": "A",
+      "image": "/images/games/quiz-2/q37.jpg"
+    },
+    {
+      "id": "q38",
+      "title": "Qual era o nome de Aleijadinho?",
+      "options": {
+        "A": "Alexandrino Francisco Lisboa",
+        "B": "Manuel Francisco Lisboa",
+        "C": "Alex Francisco Lisboa",
+        "D": "Francisco Antônio Lisboa",
+        "E": "Antônio Francisco Lisboa"
+      },
+      "correct": "E",
+      "image": "/images/games/quiz-2/q38.jpg"
+    },
+    {
+      "id": "q39",
+      "title": "Júpiter e Plutão são os correlatos romanos de quais deuses gregos?",
+      "options": {
+        "A": "Ares e Hermes",
+        "B": "Cronos e Apolo",
+        "C": "Zeus e Hades",
+        "D": "Dionísio e Deméter",
+        "E": "Zeus e Ares"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-2/q39.jpg"
+    },
+    {
+      "id": "q40",
+      "title": "Qual o maior animal terrestre?",
+      "options": {
+        "A": "Baleia Azul",
+        "B": "Dinossauro",
+        "C": "Elefante africano",
+        "D": "Tubarão Branco",
+        "E": "Girafa"
+      },
+      "correct": "C",
+      "image": "/images/games/quiz-2/q40.jpg"
+    }
+  ]
+}
