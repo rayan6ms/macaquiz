@@ -5,6 +5,7 @@ import type { OptionKey, PublicState } from "../lib/types";
 import TimerPill from "./TimerPill";
 import Scoreboard from "./Scoreboard";
 import GamePicker from "./GamePicker";
+import QuestionImage from "./QuestionImage";
 import ConfettiRain from "./ConfettiRain";
 import {
   FiChevronLeft,
@@ -489,14 +490,10 @@ export default function HostView(props: {
               <div className="mt-2 text-2xl font-semibold leading-tight break-words">
                 {q ? q.title : "Aguardando um jogo..."}
               </div>
-              {q?.image && (
-                <img
-                  src={q.image}
-                  alt=""
-                  className="mt-4 w-full max-h-72 rounded-2xl border border-white/10 bg-black/20 object-contain"
-                  loading="lazy"
-                />
-              )}
+              <QuestionImage
+                src={q?.image}
+                className="mt-4 w-full max-h-72 rounded-2xl border border-white/10 bg-black/20 object-contain"
+              />
 
               {q && (
                 <div className="mt-4 grid gap-3 sm:grid-cols-2">

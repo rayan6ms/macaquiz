@@ -2,6 +2,7 @@
 
 import type { OptionKey, PublicState } from "../lib/types";
 import Scoreboard from "./Scoreboard";
+import QuestionImage from "./QuestionImage";
 
 const OPTION_STYLES: Record<OptionKey, string> = {
   A: "bg-rose-500/25 border-rose-400/40",
@@ -112,14 +113,10 @@ export default function PlayerView(props: {
             {q.title}
           </div>
         </div>
-        {q.image && (
-          <img
-            src={q.image}
-            alt=""
-            className="mt-4 w-full max-h-64 rounded-2xl border border-white/10 object-cover"
-            loading="lazy"
-          />
-        )}
+        <QuestionImage
+          src={q.image}
+          className="mt-4 w-full max-h-64 rounded-2xl border border-white/10 object-cover"
+        />
 
         {myResult && (
           <div

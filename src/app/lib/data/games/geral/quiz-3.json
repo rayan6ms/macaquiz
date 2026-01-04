@@ -13,7 +13,7 @@
         "E": "Romaria"
       },
       "correct": "D",
-      "image": "/images/games/quiz-3/q21.jpg"
+      "image": "/images/games/geral/quiz-3/q1.jpg"
     },
     {
       "id": "q2",
@@ -26,7 +26,7 @@
         "E": "Distúrbio alimentar que provoca a ingestão excessiva de alimentos"
       },
       "correct": "A",
-      "image": "/images/games/quiz-3/q22.jpg"
+      "image": "/images/games/geral/quiz-3/q2.jpg"
     },
     {
       "id": "q3",
@@ -39,7 +39,7 @@
         "E": "Gonçalves de Magalhães"
       },
       "correct": "C",
-      "image": "/images/games/quiz-3/q23.jpg"
+      "image": "/images/games/geral/quiz-3/q3.jpg"
     },
     {
       "id": "q4",
@@ -52,7 +52,7 @@
         "E": "Parte em que as pessoas concentram a sua força"
       },
       "correct": "C",
-      "image": "/images/games/quiz-3/q24.jpg"
+      "image": "/images/games/geral/quiz-3/q4.jpg"
     },
     {
       "id": "q5",
@@ -65,7 +65,7 @@
         "E": "Hidrelétrica"
       },
       "correct": "B",
-      "image": "/images/games/quiz-3/q25.jpg"
+      "image": "/images/games/geral/quiz-3/q5.jpg"
     },
     {
       "id": "q6",
@@ -78,7 +78,7 @@
         "E": "Força normal"
       },
       "correct": "D",
-      "image": "/images/games/quiz-3/q26.jpg"
+      "image": "/images/games/geral/quiz-3/q6.jpg"
     },
     {
       "id": "q7",
@@ -91,7 +91,7 @@
         "E": "Etilômetro"
       },
       "correct": "E",
-      "image": "/images/games/quiz-3/q27.jpg"
+      "image": "/images/games/geral/quiz-3/q7.jpg"
     },
     {
       "id": "q8",
@@ -104,7 +104,7 @@
         "E": "\"Uni, duni, tê, Salamê, mingüê, Um sorvete colorê, O escolhido foi você!\""
       },
       "correct": "A",
-      "image": "/images/games/quiz-3/q28.jpg"
+      "image": "/images/games/geral/quiz-3/q8.jpg"
     },
     {
       "id": "q9",
@@ -117,7 +117,7 @@
         "E": "Leonardo da Vinci"
       },
       "correct": "E",
-      "image": "/images/games/quiz-3/q29.jpg"
+      "image": "/images/games/geral/quiz-3/q9.jpg"
     },
     {
       "id": "q10",
@@ -130,7 +130,7 @@
         "E": "Big Ben, Torre de Pisa, Jardins Suspensos da Babilônia"
       },
       "correct": "B",
-      "image": "/images/games/quiz-3/q30.jpg"
+      "image": "/images/games/geral/quiz-3/q10.jpg"
     }
   ]
 }

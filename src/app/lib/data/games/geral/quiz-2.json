@@ -13,7 +13,7 @@
         "E": "Relógio e giroscópio"
       },
       "correct": "D",
-      "image": "/images/games/quiz-2/q11.jpg"
+      "image": "/images/games/geral/quiz-2/q1.jpg"
     },
     {
       "id": "q2",
@@ -26,7 +26,7 @@
         "E": "Macacos e sapos"
       },
       "correct": "A",
-      "image": "/images/games/quiz-2/q12.jpg"
+      "image": "/images/games/geral/quiz-2/q2.jpg"
     },
     {
       "id": "q3",
@@ -39,7 +39,7 @@
         "E": "tempo indeterminado"
       },
       "correct": "E",
-      "image": "/images/games/quiz-2/q13.jpg"
+      "image": "/images/games/geral/quiz-2/q3.jpg"
     },
     {
       "id": "q4",
@@ -52,7 +52,7 @@
         "E": "Bóhrio"
       },
       "correct": "C",
-      "image": "/images/games/quiz-2/q14.jpg"
+      "image": "/images/games/geral/quiz-2/q4.jpg"
     },
     {
       "id": "q5",
@@ -65,7 +65,7 @@
         "E": "Coleta, separação e consumo"
       },
       "correct": "A",
-      "image": "/images/games/quiz-2/q15.jpg"
+      "image": "/images/games/geral/quiz-2/q5.jpg"
     },
     {
       "id": "q6",
@@ -78,7 +78,7 @@
         "E": "Vermelho, laranja, amarelo, verde, azul, anil (ou índigo) e violeta"
       },
       "correct": "E",
-      "image": "/images/games/quiz-2/q16.jpg"
+      "image": "/images/games/geral/quiz-2/q6.jpg"
     },
     {
       "id": "q7",
@@ -91,7 +91,7 @@
         "E": "Peru"
       },
       "correct": "A",
-      "image": "/images/games/quiz-2/q17.jpg"
+      "image": "/images/games/geral/quiz-2/q7.jpg"
     },
     {
       "id": "q8",
@@ -104,7 +104,7 @@
         "E": "Madre Teresa de Calcutá"
       },
       "correct": "C",
-      "image": "/images/games/quiz-2/q18.jpg"
+      "image": "/images/games/geral/quiz-2/q8.jpg"
     },
     {
       "id": "q9",
@@ -117,7 +117,7 @@
         "E": "Indivíduo que se dedica ao estudo de papiros"
       },
       "correct": "B",
-      "image": "/images/games/quiz-2/q19.jpg"
+      "image": "/images/games/geral/quiz-2/q9.jpg"
     },
     {
       "id": "q10",
@@ -130,7 +130,7 @@
         "E": "Bicho-preguiça e libélula"
       },
       "correct": "A",
-      "image": "/images/games/quiz-2/q20.jpg"
+      "image": "/images/games/geral/quiz-2/q10.jpg"
     }
   ]
 }

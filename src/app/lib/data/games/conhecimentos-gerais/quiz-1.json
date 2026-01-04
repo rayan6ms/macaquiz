@@ -14,7 +14,7 @@
         "E": "Tem 0,5 litros. São retirados 0,5 litros"
       },
       "correct": "B",
-      "image": "/images/games/quiz-1/q1.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q1.jpg"
     },
     {
       "id": "q2",
@@ -27,7 +27,7 @@
         "E": "Francis Bacon"
       },
       "correct": "C",
-      "image": "/images/games/quiz-1/q2.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q2.jpg"
     },
     {
       "id": "q3",
@@ -40,7 +40,7 @@
         "E": "Itália"
       },
       "correct": "C",
-      "image": "/images/games/quiz-1/q3.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q3.jpg"
     },
     {
       "id": "q4",
@@ -53,7 +53,7 @@
         "E": "São Marino e Índia"
       },
       "correct": "A",
-      "image": "/images/games/quiz-1/q4.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q4.jpg"
     },
     {
       "id": "q5",
@@ -66,7 +66,7 @@
         "E": "João Goulart"
       },
       "correct": "E",
-      "image": "/images/games/quiz-1/q5.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q5.jpg"
     },
     {
       "id": "q6",
@@ -79,7 +79,7 @@
         "E": "Asterisco, beneficiente, metereologia, entretido"
       },
       "correct": "B",
-      "image": "/images/games/quiz-1/q6.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q6.jpg"
     },
     {
       "id": "q7",
@@ -92,7 +92,7 @@
         "E": "Um Conto de Duas Cidades"
       },
       "correct": "B",
-      "image": "/images/games/quiz-1/q7.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q7.jpg"
     },
     {
       "id": "q8",
@@ -105,7 +105,7 @@
         "E": "Milhares"
       },
       "correct": "C",
-      "image": "/images/games/quiz-1/q8.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q8.jpg"
     },
     {
       "id": "q9",
@@ -118,7 +118,7 @@
         "E": "92"
       },
       "correct": "D",
-      "image": "/images/games/quiz-1/q9.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q9.jpg"
     },
     {
       "id": "q10",
@@ -131,7 +131,7 @@
         "E": "Estados Unidos e Angola"
       },
       "correct": "A",
-      "image": "/images/games/quiz-1/q10.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q10.jpg"
     },
     {
       "id": "q11",
@@ -144,7 +144,7 @@
         "E": "Legendário"
       },
       "correct": "D",
-      "image": "/images/games/quiz-1/q11.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q11.jpg"
     },
     {
       "id": "q12",
@@ -157,7 +157,7 @@
         "E": "7"
       },
       "correct": "E",
-      "image": "/images/games/quiz-1/q12.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q12.jpg"
     },
     {
       "id": "q13",
@@ -170,7 +170,7 @@
         "E": "Álvares de Azevedo, Gregório de Matos e Bento Teixeira"
       },
       "correct": "A",
-      "image": "/images/games/quiz-1/q13.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q13.jpg"
     },
     {
       "id": "q14",
@@ -183,7 +183,7 @@
         "E": "Black Friday e Dia da Árvore"
       },
       "correct": "B",
-      "image": "/images/games/quiz-1/q14.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q14.jpg"
     },
     {
       "id": "q15",
@@ -196,7 +196,7 @@
         "E": "Salvador Dalí"
       },
       "correct": "B",
-      "image": "/images/games/quiz-1/q15.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q15.jpg"
     },
     {
       "id": "q16",
@@ -209,7 +209,7 @@
         "E": "12 segundos"
       },
       "correct": "D",
-      "image": "/images/games/quiz-1/q16.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q16.jpg"
     },
     {
       "id": "q17",
@@ -222,7 +222,7 @@
         "E": "Fabiano rasgou seu paletó antes de cair"
       },
       "correct": "C",
-      "image": "/images/games/quiz-1/q17.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q17.jpg"
     },
     {
       "id": "q18",
@@ -235,7 +235,7 @@
         "E": "Argentina"
       },
       "correct": "E",
-      "image": "/images/games/quiz-1/q18.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q18.jpg"
     },
     {
       "id": "q19",
@@ -248,7 +248,7 @@
         "E": "Leão, tubarão branco e urso cinzento"
       },
       "correct": "C",
-      "image": "/images/games/quiz-1/q19.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q19.jpg"
     },
     {
       "id": "q20",
@@ -261,7 +261,7 @@
         "E": "2,43 m e 2,24 m"
       },
       "correct": "E",
-      "image": "/images/games/quiz-1/q20.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-1/q20.jpg"
     }
   ]
 }

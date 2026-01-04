@@ -14,7 +14,7 @@
         "E": "Oceano Ártico"
       },
       "correct": "A",
-      "image": "/images/games/quiz-4/q61.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q1.jpg"
     },
     {
       "id": "q62",
@@ -27,7 +27,7 @@
         "E": "Leonardo da Vinci"
       },
       "correct": "C",
-      "image": "/images/games/quiz-4/q62.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q2.jpg"
     },
     {
       "id": "q63",
@@ -40,7 +40,7 @@
         "E": "Manganês"
       },
       "correct": "D",
-      "image": "/images/games/quiz-4/q63.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q3.jpg"
     },
     {
       "id": "q64",
@@ -53,7 +53,7 @@
         "E": "No século XIV"
       },
       "correct": "E",
-      "image": "/images/games/quiz-4/q64.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q4.jpg"
     },
     {
       "id": "q65",
@@ -66,7 +66,7 @@
         "E": "Abel"
       },
       "correct": "C",
-      "image": "/images/games/quiz-4/q65.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q5.jpg"
     },
     {
       "id": "q66",
@@ -79,7 +79,7 @@
         "E": "Caracas"
       },
       "correct": "B",
-      "image": "/images/games/quiz-4/q66.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q6.jpg"
     },
     {
       "id": "q67",
@@ -92,7 +92,7 @@
         "E": "Donatello"
       },
       "correct": "A",
-      "image": "/images/games/quiz-4/q67.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q7.jpg"
     },
     {
       "id": "q68",
@@ -105,7 +105,7 @@
         "E": "360"
       },
       "correct": "C",
-      "image": "/images/games/quiz-4/q68.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q8.jpg"
     },
     {
       "id": "q69",
@@ -118,7 +118,7 @@
         "E": "Sófocles"
       },
       "correct": "D",
-      "image": "/images/games/quiz-4/q69.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q9.jpg"
     },
     {
       "id": "q70",
@@ -131,7 +131,7 @@
         "E": "AC/DC"
       },
       "correct": "B",
-      "image": "/images/games/quiz-4/q70.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q10.jpg"
     },
     {
       "id": "q71",
@@ -144,7 +144,7 @@
         "E": "Palácio da Alvorada"
       },
       "correct": "B",
-      "image": "/images/games/quiz-4/q71.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q11.jpg"
     },
     {
       "id": "q72",
@@ -157,7 +157,7 @@
         "E": "1822, Deodoro da Fonseca"
       },
       "correct": "A",
-      "image": "/images/games/quiz-4/q72.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q12.jpg"
     },
     {
       "id": "q73",
@@ -170,7 +170,7 @@
         "E": "Romero Britto"
       },
       "correct": "D",
-      "image": "/images/games/quiz-4/q73.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q13.jpg"
     },
     {
       "id": "q74",
@@ -183,7 +183,7 @@
         "E": "França"
       },
       "correct": "D",
-      "image": "/images/games/quiz-4/q74.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q14.jpg"
     },
     {
       "id": "q75",
@@ -196,7 +196,7 @@
         "E": "não se olha os dentes"
       },
       "correct": "E",
-      "image": "/images/games/quiz-4/q75.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q15.jpg"
     },
     {
       "id": "q76",
@@ -209,7 +209,7 @@
         "E": "Pâncreas e vasos sanguíneos"
       },
       "correct": "A",
-      "image": "/images/games/quiz-4/q76.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q16.jpg"
     },
     {
       "id": "q77",
@@ -222,7 +222,7 @@
         "E": "Poema de quatro versos"
       },
       "correct": "C",
-      "image": "/images/games/quiz-4/q77.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q17.jpg"
     },
     {
       "id": "q78",
@@ -235,7 +235,7 @@
         "E": "Ano 1952, na Floresta Amazônica"
       },
       "correct": "A",
-      "image": "/images/games/quiz-4/q78.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q18.jpg"
     },
     {
       "id": "q79",
@@ -248,7 +248,7 @@
         "E": "2 e 5"
       },
       "correct": "E",
-      "image": "/images/games/quiz-4/q79.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q19.jpg"
     },
     {
       "id": "q80",
@@ -261,7 +261,7 @@
         "E": "Rotavírus e CoronaVac"
       },
       "correct": "B",
-      "image": "/images/games/quiz-4/q80.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-4/q20.jpg"
     }
   ]
 }
