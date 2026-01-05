@@ -1,6 +1,8 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
+import { FiImage } from "react-icons/fi";
+import QuestionImage from "../components/QuestionImage";
 import { isSlug, slugify } from "../lib/slug";
 
 type TopicSummary = {
@@ -59,6 +61,9 @@ export default function AddPage() {
   const [imageFiles, setImageFiles] = useState<Array<File | null>>([]);
   const [imagePreviews, setImagePreviews] = useState<string[]>([]);
   const previewsRef = useRef<string[]>([]);
+  const [revealedAnswers, setRevealedAnswers] = useState<Record<string, boolean>>(
+    {}
+  );
 
   const [isSaving, setIsSaving] = useState(false);
   const [saveError, setSaveError] = useState<string | null>(null);
@@ -131,6 +136,7 @@ export default function AddPage() {
     setQuizTitle("");
     setQuizFile(null);
     setQuizData(null);
+    setRevealedAnswers({});
     setImageFiles([]);
     clearPreviews();
   }
@@ -145,6 +151,7 @@ export default function AddPage() {
     setQuizTitle("");
     setQuizFile(null);
     setQuizData(null);
+    setRevealedAnswers({});
     setImageFiles([]);
     clearPreviews();
   }
@@ -175,6 +182,7 @@ export default function AddPage() {
           image: (question as ParsedQuestion).image,
         })),
       });
+      setRevealedAnswers({});
       setImageFiles(new Array(data.quiz.questions.length).fill(null));
       clearPreviews();
     } catch (err) {
@@ -189,6 +197,7 @@ export default function AddPage() {
     setQuizFile(file);
     setQuizError(null);
     setQuizData(null);
+    setRevealedAnswers({});
     if (!file) return;
 
     try {
@@ -215,6 +224,7 @@ export default function AddPage() {
       });
 
       setQuizData({ title: parsed.title, questions: normalized });
+      setRevealedAnswers({});
       setImageFiles(new Array(normalized.length).fill(null));
       clearPreviews();
     } catch (err) {
@@ -287,6 +297,7 @@ export default function AddPage() {
       setQuizTitle("");
       setQuizFile(null);
       setQuizData(null);
+      setRevealedAnswers({});
       setImageFiles([]);
       clearPreviews();
 
@@ -467,6 +478,7 @@ export default function AddPage() {
                       setQuizTitle("");
                       setQuizFile(null);
                       setQuizData(null);
+                      setRevealedAnswers({});
                       setImageFiles([]);
                       clearPreviews();
                     }}
@@ -488,6 +500,7 @@ export default function AddPage() {
                       setQuizTitle("");
                       setQuizFile(null);
                       setQuizData(null);
+                      setRevealedAnswers({});
                       setImageFiles([]);
                       clearPreviews();
                     }}
@@ -659,6 +672,8 @@ export default function AddPage() {
               {quizData.questions.map((question, idx) => {
                 const preview = imagePreviews[idx];
                 const existingImage = question.image;
+                const isAnswerRevealed = Boolean(revealedAnswers[question.id]);
+                const selectedImageName = imageFiles[idx]?.name ?? null;
                 return (
                   <div
                     key={question.id}
@@ -674,10 +689,6 @@ export default function AddPage() {
                           Arquivo: q{idx + 1}.jpg
                         </div>
                       </div>
-                      <div className="text-xs opacity-70">
-                        Resposta correta:{" "}
-                        <span className="font-semibold">{question.correct}</span>
-                      </div>
                     </div>
 
                     <div className="mt-3 grid gap-2 sm:grid-cols-2 lg:grid-cols-5">
@@ -686,7 +697,7 @@ export default function AddPage() {
                           key={key}
                           className={[
                             "rounded-xl border px-3 py-2 text-xs",
-                            key === question.correct
+                            key === question.correct && isAnswerRevealed
                               ? "border-emerald-300/70 bg-emerald-500/20"
                               : "border-white/10 bg-white/5",
                           ].join(" ")}
@@ -721,35 +732,21 @@ export default function AddPage() {
                           }}
                           className="hidden"
                         />
-                        <div className="text-xs opacity-70">
-                          {imageFiles[idx]?.name ?? "Nenhum arquivo selecionado"}
+                        <div
+                          className="max-w-[220px] truncate text-xs opacity-70"
+                          title={selectedImageName ?? undefined}
+                        >
+                          {selectedImageName ?? "Nenhum arquivo selecionado"}
                         </div>
                       </div>
-                      {preview || existingImage ? (
-                        <img
-                          src={preview || existingImage}
-                          alt=""
-                          className="h-20 w-32 rounded-xl object-cover"
-                        />
-                      ) : (
-                        <div className="flex h-20 w-32 flex-col items-center justify-center gap-1 rounded-xl border border-white/10 bg-gradient-to-br from-white/10 via-white/5 to-transparent text-[11px] text-white/70">
-                          <svg
-                            viewBox="0 0 24 24"
-                            className="h-6 w-6 text-white/60"
-                            fill="none"
-                            stroke="currentColor"
-                            strokeWidth="1.5"
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                            aria-hidden="true"
-                          >
-                            <rect x="3" y="4" width="18" height="16" rx="3" />
-                            <circle cx="9" cy="10" r="2" />
-                            <path d="M21 16l-5.5-5.5L6 20" />
-                          </svg>
-                          <span>Sem imagem</span>
-                        </div>
-                      )}
+                      <QuestionImage
+                        src={preview || existingImage}
+                        alt=""
+                        className="h-20 w-32 rounded-xl object-cover"
+                        placeholderLabel="Imagem ausente"
+                        placeholderIcon={<FiImage className="h-6 w-6 text-white/80" />}
+                        placeholderClassName="bg-gradient-to-br from-sky-500/30 via-blue-500/20 to-slate-950/20 text-white/80 border-sky-200/20"
+                      />
                       {imageFiles[idx] && (
                         <button
                           type="button"
@@ -767,6 +764,27 @@ export default function AddPage() {
                       {!existingImage && !imageFiles[idx] && (
                         <div className="text-xs opacity-70">Sem imagem.</div>
                       )}
+                    </div>
+
+                    <div className="mt-3 flex flex-wrap items-center gap-2">
+                      {isAnswerRevealed && (
+                        <div className="text-xs text-emerald-200">
+                          Resposta correta:{" "}
+                          <span className="font-semibold">{question.correct}</span>
+                        </div>
+                      )}
+                      <button
+                        type="button"
+                        onClick={() =>
+                          setRevealedAnswers((prev) => ({
+                            ...prev,
+                            [question.id]: !prev[question.id],
+                          }))
+                        }
+                        className="ml-auto rounded-xl bg-white/10 px-3 py-1 text-xs font-semibold hover:bg-white/20 transition"
+                      >
+                        {isAnswerRevealed ? "Ocultar resposta" : "Mostrar resposta"}
+                      </button>
                     </div>
                   </div>
                 );
