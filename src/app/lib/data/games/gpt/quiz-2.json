@@ -1,0 +1,136 @@
+{
+  "id": "quiz-2",
+  "title": "GPT (deficiently curated) — Jogo 2",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Qual destes é um filme da Pixar?",
+      "options": {
+        "A": "Titanic",
+        "B": "Toy Story",
+        "C": "Matrix",
+        "D": "O Poderoso Chefão",
+        "E": "Gladiador"
+      },
+      "correct": "B",
+      "image": "/images/games/gpt/quiz-2/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Qual número é primo?",
+      "options": {
+        "A": "9",
+        "B": "15",
+        "C": "21",
+        "D": "13",
+        "E": "25"
+      },
+      "correct": "D",
+      "image": "/images/games/gpt/quiz-2/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Qual unidade mede temperatura no Sistema internacional de unidades?",
+      "options": {
+        "A": "Kelvin",
+        "B": "Watt",
+        "C": "Newton",
+        "D": "Joule",
+        "E": "Pascal"
+      },
+      "correct": "A",
+      "image": "/images/games/gpt/quiz-2/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Quem foi o primeiro presidente do Brasil?",
+      "options": {
+        "A": "Getúlio Vargas",
+        "B": "Deodoro da Fonseca",
+        "C": "Juscelino Kubitschek",
+        "D": "Dom Pedro II",
+        "E": "Floriano Peixoto"
+      },
+      "correct": "B",
+      "image": "/images/games/gpt/quiz-2/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Qual é o maior continente em área?",
+      "options": {
+        "A": "Europa",
+        "B": "África",
+        "C": "América",
+        "D": "Ásia",
+        "E": "Oceania"
+      },
+      "correct": "D",
+      "image": "/images/games/gpt/quiz-2/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "O que é um “navegador” na internet?",
+      "options": {
+        "A": "Um tipo de antivírus",
+        "B": "Um app para acessar sites",
+        "C": "Um cabo de rede",
+        "D": "Um arquivo de texto",
+        "E": "Um componente do computador"
+      },
+      "correct": "B",
+      "image": "/images/games/gpt/quiz-2/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Quanto é 25% de 200?",
+      "options": {
+        "A": "25",
+        "B": "40",
+        "C": "50",
+        "D": "75",
+        "E": "60"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-2/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Qual é o maior rio do Brasil em volume de água?",
+      "options": {
+        "A": "Rio São Francisco",
+        "B": "Rio Amazonas",
+        "C": "Rio Paraná",
+        "D": "Rio Tocantins",
+        "E": "Rio Parnaíba"
+      },
+      "correct": "B",
+      "image": "/images/games/gpt/quiz-2/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Qual movimento é mais associado a formas geométricas e à representação de vários ângulos ao mesmo tempo?",
+      "options": {
+        "A": "Surrealismo",
+        "B": "Expressionismo",
+        "C": "Cubismo",
+        "D": "Impressionismo",
+        "E": "Realismo"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-2/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "A Segunda Guerra Mundial terminou em:",
+      "options": {
+        "A": "1918",
+        "B": "1939",
+        "C": "1945",
+        "D": "1964",
+        "E": "1950"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-2/q10.jpg"
+    }
+  ]
+}

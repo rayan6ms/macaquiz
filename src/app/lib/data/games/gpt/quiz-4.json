@@ -1,0 +1,126 @@
+{
+  "id": "quiz-4",
+  "title": "GPT (deficiently curated) — Jogo 4",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Qual é o maior deserto do mundo por área (incluindo desertos frios)?",
+      "options": {
+        "A": "Kalahari",
+        "B": "Antártida",
+        "C": "Gobi",
+        "D": "Saara"
+      },
+      "correct": "B",
+      "image": "/images/games/gpt/quiz-4/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Qual destes movimentos artísticos está mais ligado a Salvador Dalí?",
+      "options": {
+        "A": "Realismo",
+        "B": "Impressionismo",
+        "C": "Cubismo",
+        "D": "Surrealismo"
+      },
+      "correct": "D",
+      "image": "/images/games/gpt/quiz-4/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Em uma tempestade, por que vemos o relâmpago antes de ouvir o trovão?",
+      "options": {
+        "A": "A luz viaja mais rápido que o som",
+        "B": "O som não se propaga na chuva",
+        "C": "O trovão acontece sempre depois do relâmpago",
+        "D": "O relâmpago “puxa” o som para trás"
+      },
+      "correct": "A",
+      "image": "/images/games/gpt/quiz-4/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "No futebol, o que é impedimento, de forma simplificada?",
+      "options": {
+        "A": "Cometer falta por trás do adversário",
+        "B": "Tocar a bola com a mão dentro da área",
+        "C": "Receber a bola à frente do penúltimo defensor no passe",
+        "D": "Chutar a bola para fora da área"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-4/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Em qual alternativa o uso de “por que/porque/por quê/porquê” está correto?",
+      "options": {
+        "A": "Não sei porquê você veio.",
+        "B": "Ele não veio, por quê estava doente.",
+        "C": "Você fez isso porque? Não entendi.",
+        "D": "Por que você não foi? Porque não quis."
+      },
+      "correct": "D",
+      "image": "/images/games/gpt/quiz-4/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Qual cordilheira influencia fortemente o clima e a hidrografia da América do Sul?",
+      "options": {
+        "A": "Andes",
+        "B": "Alpes",
+        "C": "Apalaches",
+        "D": "Atlas"
+      },
+      "correct": "A",
+      "image": "/images/games/gpt/quiz-4/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Qual instrumento é típico do choro, em uma versão popular com 7 cordas?",
+      "options": {
+        "A": "Viola caipira",
+        "B": "Violão de 7 cordas",
+        "C": "Cavaquinho",
+        "D": "Bandolim"
+      },
+      "correct": "B",
+      "image": "/images/games/gpt/quiz-4/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Qual é a capital da África do Sul considerada sede do governo?",
+      "options": {
+        "A": "Durban",
+        "B": "Cidade do Cabo",
+        "C": "Joanesburgo",
+        "D": "Pretória"
+      },
+      "correct": "D",
+      "image": "/images/games/gpt/quiz-4/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "A “Rota da Seda” ficou mais famosa por conectar principalmente:",
+      "options": {
+        "A": "África e Oceania",
+        "B": "Ásia e Europa",
+        "C": "América do Sul e Ásia",
+        "D": "Europa e América do Norte"
+      },
+      "correct": "B",
+      "image": "/images/games/gpt/quiz-4/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Em corrida de rua, “pace” se refere a:",
+      "options": {
+        "A": "Ritmo por distância",
+        "B": "Frequência cardíaca máxima",
+        "C": "Ritmo de respiração",
+        "D": "Altura do tênis"
+      },
+      "correct": "A",
+      "image": "/images/games/gpt/quiz-4/q10.jpg"
+    }
+  ]
+}

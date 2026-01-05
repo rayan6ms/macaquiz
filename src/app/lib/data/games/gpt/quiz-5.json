@@ -1,0 +1,186 @@
+{
+  "id": "quiz-5",
+  "title": "GPT (deficiently curated) — Jogo 5",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "O estreito de Gibraltar separa:",
+      "options": {
+        "A": "Espanha e Marrocos",
+        "B": "Inglaterra e França",
+        "C": "Itália e Grécia",
+        "D": "Japão e Coreia"
+      },
+      "correct": "A",
+      "image": "/images/games/gpt/quiz-5/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Qual estrutura celular é mais diretamente ligada à produção de energia (ATP) na respiração?",
+      "options": {
+        "A": "Complexo de Golgi",
+        "B": "Ribossomo",
+        "C": "Núcleo",
+        "D": "Mitocôndria"
+      },
+      "correct": "D",
+      "image": "/images/games/gpt/quiz-5/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "“Guernica”, obra famosa sobre a guerra, foi pintada por:",
+      "options": {
+        "A": "Picasso",
+        "B": "Monet",
+        "C": "Van Gogh",
+        "D": "Dalí"
+      },
+      "correct": "A",
+      "image": "/images/games/gpt/quiz-5/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Qual frase está com a concordância mais adequada?",
+      "options": {
+        "A": "Haviam muitas pessoas na sala.",
+        "B": "Existia muitas opções no cardápio.",
+        "C": "Faz dois anos que não viajo.",
+        "D": "Fazem dois anos que não viajo."
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-5/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "A “Magna Carta” (1215) é mais associada a:",
+      "options": {
+        "A": "Portugal",
+        "B": "Espanha",
+        "C": "França",
+        "D": "Inglaterra"
+      },
+      "correct": "D",
+      "image": "/images/games/gpt/quiz-5/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Como se chama o efeito que faz a Lua parecer maior perto do horizonte?",
+      "options": {
+        "A": "Paralaxe estelar",
+        "B": "Refração atmosférica",
+        "C": "Ilusão lunar",
+        "D": "Efeito Doppler"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-5/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Qual é o maior órgão do corpo humano?",
+      "options": {
+        "A": "Fígado",
+        "B": "Pele",
+        "C": "Pulmões",
+        "D": "Intestino delgado"
+      },
+      "correct": "B",
+      "image": "/images/games/gpt/quiz-5/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Em que século a família real portuguesa chegou ao Brasil?",
+      "options": {
+        "A": "Século XVI",
+        "B": "Século XVII",
+        "C": "Século XVIII",
+        "D": "Século XIX"
+      },
+      "correct": "D",
+      "image": "/images/games/gpt/quiz-5/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "O que a escala Richter mede em um terremoto?",
+      "options": {
+        "A": "A magnitude",
+        "B": "A duração do tremor",
+        "C": "A profundidade do epicentro",
+        "D": "A temperatura do solo"
+      },
+      "correct": "A",
+      "image": "/images/games/gpt/quiz-5/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Em qual frase o uso da crase está correto?",
+      "options": {
+        "A": "Entreguei o trabalho à João.",
+        "B": "Entreguei a carta à ela.",
+        "C": "Vou à praia no sábado.",
+        "D": "Assisti à o filme ontem."
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-5/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "Qual queijo é o mais tradicional na salada caprese?",
+      "options": {
+        "A": "Gorgonzola",
+        "B": "Muçarela de búfala",
+        "C": "Parmesão",
+        "D": "Provolone"
+      },
+      "correct": "B",
+      "image": "/images/games/gpt/quiz-5/q11.jpg"
+    },
+    {
+      "id": "q12",
+      "title": "Considerando também seus territórios ultramarinos, qual país costuma ter mais fusos horários oficiais?",
+      "options": {
+        "A": "Rússia",
+        "B": "Estados Unidos",
+        "C": "China",
+        "D": "França"
+      },
+      "correct": "D",
+      "image": "/images/games/gpt/quiz-5/q12.jpg"
+    },
+    {
+      "id": "q13",
+      "title": "Por que o ferro tende a enferrujar mais rápido em ambiente úmido?",
+      "options": {
+        "A": "Porque a água impede o contato com o oxigênio",
+        "B": "Porque o ferro se transforma imediatamente em pó",
+        "C": "Porque a umidade acelera a oxidação na presença de oxigênio",
+        "D": "Porque a umidade neutraliza o metal e o torna inerte"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-5/q13.jpg"
+    },
+    {
+      "id": "q14",
+      "title": "Quem compôs a obra musical conhecida como \"As Quatro Estações\"?",
+      "options": {
+        "A": "Johann Sebastian Bach",
+        "B": "Wolfgang Amadeus Mozart",
+        "C": "George Frideric Handel",
+        "D": "Antonio Vivaldi"
+      },
+      "correct": "D",
+      "image": "/images/games/gpt/quiz-5/q14.jpg"
+    },
+    {
+      "id": "q15",
+      "title": "Se 5 máquinas fazem 5 peças em 5 minutos, quanto tempo 10 máquinas levam para fazer 10 peças?",
+      "options": {
+        "A": "2 minutos e 30 segundos",
+        "B": "5 minutos",
+        "C": "10 minutos",
+        "D": "20 minutos"
+      },
+      "correct": "B",
+      "image": "/images/games/gpt/quiz-5/q15.jpg"
+    }
+  ]
+}

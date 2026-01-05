@@ -1,0 +1,126 @@
+{
+  "id": "quiz-7",
+  "title": "GPT (deficiently curated) — Jogo 7",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Qual país tem a maior fronteira terrestre com o Brasil?",
+      "options": {
+        "A": "Venezuela",
+        "B": "Colômbia",
+        "C": "Bolívia",
+        "D": "Peru"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-7/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Em música, “andamento” se refere principalmente a:",
+      "options": {
+        "A": "Afinação da orquestra",
+        "B": "Quantidade de instrumentos na música",
+        "C": "Velocidade/tempo da execução",
+        "D": "Timbre do instrumento"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-7/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Qual gás é mais associado às emissões humanas que intensificam o efeito estufa?",
+      "options": {
+        "A": "Metano (CH₄)",
+        "B": "Vapor d’água",
+        "C": "Dióxido de carbono (CO₂)",
+        "D": "Ozônio (O₃)"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-7/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "O termo “Renascimento” está mais ligado a:",
+      "options": {
+        "A": "Revalorização de artes e ideias clássicas",
+        "B": "Expansão do feudalismo",
+        "C": "Nascimento das cidades industriais",
+        "D": "Início da agricultura"
+      },
+      "correct": "A",
+      "image": "/images/games/gpt/quiz-7/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Qual palavra também é paroxítona terminada em X, como “tórax”?",
+      "options": {
+        "A": "público",
+        "B": "café",
+        "C": "fênix",
+        "D": "vírus"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-7/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "O que é “umami”?",
+      "options": {
+        "A": "Um gosto associado ao sabor “saboroso”",
+        "B": "Um método de cozimento lento",
+        "C": "Um aroma cítrico",
+        "D": "Um tipo de pimenta ardida"
+      },
+      "correct": "A",
+      "image": "/images/games/gpt/quiz-7/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Qual país tem território na Europa e na Ásia e é dividido pelo Estreito de Bósforo?",
+      "options": {
+        "A": "Geórgia",
+        "B": "Turquia",
+        "C": "Cazaquistão",
+        "D": "Rússia"
+      },
+      "correct": "B",
+      "image": "/images/games/gpt/quiz-7/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Qual é o principal motivo de os astronautas “flutuarem” em órbita?",
+      "options": {
+        "A": "O oxigênio do traje empurra o corpo para cima",
+        "B": "Eles estão em queda livre ao redor da Terra",
+        "C": "A gravidade deixa de existir acima das nuvens",
+        "D": "O campo magnético anula o peso"
+      },
+      "correct": "B",
+      "image": "/images/games/gpt/quiz-7/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Por que links encurtados podem ser arriscados?",
+      "options": {
+        "A": "Porque desativam o antivírus do navegador",
+        "B": "Porque impedem abrir em celular",
+        "C": "Porque ocultam o destino real",
+        "D": "Porque consomem mais dados móveis automaticamente"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-7/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Qual movimento literário brasileiro é mais associado à ruptura formal e ao marco de 1922?",
+      "options": {
+        "A": "Barroco",
+        "B": "Romantismo",
+        "C": "Modernismo",
+        "D": "Arcadismo"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-7/q10.jpg"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "quiz-6",
+  "title": "GPT (deficiently curated) — Jogo 6",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Qual destes é um romance de Machado de Assis?",
+      "options": {
+        "A": "Vidas Secas",
+        "B": "O Guarani",
+        "C": "Dom Casmurro",
+        "D": "Capitães da Areia"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-6/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Qual destes países NÃO faz fronteira com o Brasil?",
+      "options": {
+        "A": "Colômbia",
+        "B": "Guiana",
+        "C": "Suriname",
+        "D": "Equador"
+      },
+      "correct": "D",
+      "image": "/images/games/gpt/quiz-6/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Em fotografia, aumentar o ISO geralmente provoca qual efeito?",
+      "options": {
+        "A": "Diminui a sensibilidade à luz",
+        "B": "Aumenta a sensibilidade à luz",
+        "C": "Aumenta a profundidade de campo automaticamente",
+        "D": "Elimina ruído em baixa luz"
+      },
+      "correct": "B",
+      "image": "/images/games/gpt/quiz-6/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Qual civilização é mais associada às cidades de Machu Picchu e Cusco?",
+      "options": {
+        "A": "Olmeca",
+        "B": "Asteca",
+        "C": "Maia",
+        "D": "Inca"
+      },
+      "correct": "D",
+      "image": "/images/games/gpt/quiz-6/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Por que o céu costuma parecer azul em dias limpos?",
+      "options": {
+        "A": "A luz do Sol é naturalmente azul",
+        "B": "Partículas de poeira deixam o ar azulado",
+        "C": "Reflexo dos oceanos",
+        "D": "O espalhamento da luz na atmosfera favorece o azul"
+      },
+      "correct": "D",
+      "image": "/images/games/gpt/quiz-6/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Em uma sequência, cada termo é o dobro do anterior: 3, 6, 12, 24… Qual é o próximo?",
+      "options": {
+        "A": "42",
+        "B": "48",
+        "C": "54",
+        "D": "36"
+      },
+      "correct": "B",
+      "image": "/images/games/gpt/quiz-6/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Qual ingrediente é base do pesto tradicional genovês?",
+      "options": {
+        "A": "Manjericão",
+        "B": "Salsinha",
+        "C": "Coentro",
+        "D": "Rúcula"
+      },
+      "correct": "A",
+      "image": "/images/games/gpt/quiz-6/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Qual destes animais é um mamífero que põe ovos?",
+      "options": {
+        "A": "Tamanduá",
+        "B": "Coala",
+        "C": "Ornitorrinco",
+        "D": "Canguru"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-6/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Qual é a finalidade do “modo avião” no celular?",
+      "options": {
+        "A": "Aumentar a qualidade de áudio em chamadas",
+        "B": "Ativar o GPS com maior precisão",
+        "C": "Desativar comunicações sem fio do aparelho",
+        "D": "Bloquear apenas notificações de aplicativos"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-6/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "O que significa a expressão “Guerra Fria”?",
+      "options": {
+        "A": "Disputa esportiva entre países do hemisfério norte",
+        "B": "Uma guerra travada principalmente no mar",
+        "C": "Conflito político-ideológico marcado por tensões, sem confronto direto",
+        "D": "Conflito militar contínuo em regiões de clima frio"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-6/q10.jpg"
+    }
+  ]
+}

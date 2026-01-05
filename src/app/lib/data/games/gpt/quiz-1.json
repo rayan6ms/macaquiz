@@ -1,0 +1,136 @@
+{
+  "id": "quiz-1",
+  "title": "GPT (deficiently curated) — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Em que ano o Brasil proclamou a República?",
+      "options": {
+        "A": "1500",
+        "B": "1822",
+        "C": "1889",
+        "D": "1930",
+        "E": "1964"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Qual destas palavras é um substantivo?",
+      "options": {
+        "A": "Rapidamente",
+        "B": "Bonito",
+        "C": "Correr",
+        "D": "Casa",
+        "E": "Ontem"
+      },
+      "correct": "D",
+      "image": "/images/games/gpt/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Qual personagem vive em uma “casa de abacaxi” no fundo do mar?",
+      "options": {
+        "A": "Nemo",
+        "B": "Bob Esponja",
+        "C": "Mickey",
+        "D": "Shrek",
+        "E": "Pato Donald"
+      },
+      "correct": "B",
+      "image": "/images/games/gpt/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Qual é o planeta mais próximo do Sol?",
+      "options": {
+        "A": "Vênus",
+        "B": "Marte",
+        "C": "Mercúrio",
+        "D": "Júpiter",
+        "E": "Saturno"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Quantos jogadores um time de futebol tem em campo?",
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "12",
+        "E": "7"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Qual é o maior oceano do mundo?",
+      "options": {
+        "A": "Atlântico",
+        "B": "Índico",
+        "C": "Ártico",
+        "D": "Pacífico",
+        "E": "Antártico"
+      },
+      "correct": "D",
+      "image": "/images/games/gpt/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "A água ferve, ao nível do mar, em aproximadamente:",
+      "options": {
+        "A": "50°C",
+        "B": "80°C",
+        "C": "100°C",
+        "D": "120°C",
+        "E": "90°C"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Quem escreveu “Dom Casmurro”?",
+      "options": {
+        "A": "Machado de Assis",
+        "B": "Clarice Lispector",
+        "C": "José de Alencar",
+        "D": "Carlos Drummond de Andrade",
+        "E": "Jorge Amado"
+      },
+      "correct": "A",
+      "image": "/images/games/gpt/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Qual é o gás mais abundante na atmosfera terrestre?",
+      "options": {
+        "A": "Oxigênio",
+        "B": "Nitrogênio",
+        "C": "Gás carbônico",
+        "D": "Hélio",
+        "E": "Hidrogênio"
+      },
+      "correct": "B",
+      "image": "/images/games/gpt/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Qual é o símbolo químico do oxigênio?",
+      "options": {
+        "A": "Ox",
+        "B": "O",
+        "C": "Og",
+        "D": "Xo",
+        "E": "Oo"
+      },
+      "correct": "B",
+      "image": "/images/games/gpt/quiz-1/q10.jpg"
+    }
+  ]
+}

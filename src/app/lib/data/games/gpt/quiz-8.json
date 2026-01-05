@@ -1,0 +1,126 @@
+{
+  "id": "quiz-8",
+  "title": "GPT (deficiently curated) — Jogo 8",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "O que a escala de pH mede?",
+      "options": {
+        "A": "Quantidade de sal",
+        "B": "Temperatura",
+        "C": "Viscosidade",
+        "D": "Acidez/alcalinidade"
+      },
+      "correct": "D",
+      "image": "/images/games/gpt/quiz-8/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "No café, uma torra mais escura tende a:",
+      "options": {
+        "A": "Deixar o café sempre mais doce, sem amargor",
+        "B": "Aumentar a acidez e reduzir o amargor",
+        "C": "Reduzir a acidez percebida e acentuar o amargor",
+        "D": "Eliminar completamente a cafeína"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-8/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Qual é o oceano que banha a maior parte do litoral brasileiro?",
+      "options": {
+        "A": "Oceano Índico",
+        "B": "Oceano Ártico",
+        "C": "Oceano Pacífico",
+        "D": "Oceano Atlântico"
+      },
+      "correct": "D",
+      "image": "/images/games/gpt/quiz-8/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Em cinema, o que é um “plano-sequência”?",
+      "options": {
+        "A": "Cena feita apenas com fotos estáticas",
+        "B": "Cena longa filmada sem cortes aparentes",
+        "C": "Montagem com muitos cortes rápidos",
+        "D": "Filme sem trilha sonora"
+      },
+      "correct": "B",
+      "image": "/images/games/gpt/quiz-8/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "O que melhor descreve um “antibiótico”?",
+      "options": {
+        "A": "Remédio específico contra vírus",
+        "B": "Analgésico para dores musculares",
+        "C": "Substância que combate bactérias ou impede sua multiplicação",
+        "D": "Vacina pronta para qualquer doença"
+      },
+      "correct": "C",
+      "image": "/images/games/gpt/quiz-8/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "“Odisseia” é tradicionalmente atribuída a:",
+      "options": {
+        "A": "Homero",
+        "B": "Sófocles",
+        "C": "Heródoto",
+        "D": "Virgílio"
+      },
+      "correct": "A",
+      "image": "/images/games/gpt/quiz-8/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "O que é “2FA” (autenticação de dois fatores)?",
+      "options": {
+        "A": "Um bloqueio que depende só de biometria",
+        "B": "Um tipo de antivírus para e-mail",
+        "C": "Um modo de economia de bateria",
+        "D": "Uma camada extra de verificação para entrar em uma conta"
+      },
+      "correct": "D",
+      "image": "/images/games/gpt/quiz-8/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Em qual região surgiu o sistema de escrita conhecido como “cuneiforme”?",
+      "options": {
+        "A": "Mesopotâmia",
+        "B": "China",
+        "C": "Grécia",
+        "D": "Egito"
+      },
+      "correct": "A",
+      "image": "/images/games/gpt/quiz-8/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "O que significa “al dente” em massas?",
+      "options": {
+        "A": "Cozida, porém ainda firme ao morder",
+        "B": "Tostada por fora",
+        "C": "Crua no centro",
+        "D": "Bem mole, desmanchando"
+      },
+      "correct": "A",
+      "image": "/images/games/gpt/quiz-8/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Qual opção é um palíndromo (lê-se igual de trás para frente)?",
+      "options": {
+        "A": "Radar",
+        "B": "Anagrama",
+        "C": "Sociedade",
+        "D": "Travesseiro"
+      },
+      "correct": "A",
+      "image": "/images/games/gpt/quiz-8/q10.jpg"
+    }
+  ]
+}
