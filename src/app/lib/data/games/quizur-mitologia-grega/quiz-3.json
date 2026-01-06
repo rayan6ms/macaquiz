@@ -1,0 +1,186 @@
+{
+  "id": "quiz-3",
+  "title": "Quizur - Mitologia Grega — Jogo 3",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Herói da Guerra de Troia:",
+      "options": {
+        "A": "Jasão",
+        "B": "Aquiles",
+        "C": "Hércules",
+        "D": "Perseu"
+      },
+      "correct": "B",
+      "image": "/images/games/quizur-mitologia-grega/quiz-3/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Ponto fraco de Aquiles:",
+      "options": {
+        "A": "Coração",
+        "B": "Cabeça",
+        "C": "Costas",
+        "D": "Calcanhar"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-3/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "O Cavalo de Troia foi uma estratégia dos:",
+      "options": {
+        "A": "Gregos",
+        "B": "Romanos",
+        "C": "Troianos",
+        "D": "Espartanos"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-3/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Poeta da Ilíada e da Odisseia:",
+      "options": {
+        "A": "Hesíodo",
+        "B": "Homero",
+        "C": "Eurípides",
+        "D": "Sófocles"
+      },
+      "correct": "B",
+      "image": "/images/games/quizur-mitologia-grega/quiz-3/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Quem enfrentou o canto das sereias?",
+      "options": {
+        "A": "Ulisses (Odysseus)",
+        "B": "Perseu",
+        "C": "Jasão",
+        "D": "Heitor"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-3/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Rei de Ítaca:",
+      "options": {
+        "A": "Ulisses (Odysseus)",
+        "B": "Ajax",
+        "C": "Agamenon",
+        "D": "Menelau"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-3/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "As Harpias eram:",
+      "options": {
+        "A": "Monstros alados",
+        "B": "Ninfas",
+        "C": "Titãs",
+        "D": "Deusas"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-3/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "A Hidra foi morta por:",
+      "options": {
+        "A": "Aquiles",
+        "B": "Teseu",
+        "C": "Perseu",
+        "D": "Hércules"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-3/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Quantas cabeças tinha a Hidra?",
+      "options": {
+        "A": "Cinco",
+        "B": "Sete",
+        "C": "Três",
+        "D": "Variava conforme eram cortadas"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-3/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Deusa das colheitas:",
+      "options": {
+        "A": "Ártemis",
+        "B": "Deméter",
+        "C": "Hera",
+        "D": "Perséfone"
+      },
+      "correct": "B",
+      "image": "/images/games/quizur-mitologia-grega/quiz-3/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "Perséfone é esposa de:",
+      "options": {
+        "A": "Apolo",
+        "B": "Ares",
+        "C": "Hades",
+        "D": "Zeus"
+      },
+      "correct": "C",
+      "image": "/images/games/quizur-mitologia-grega/quiz-3/q11.jpg"
+    },
+    {
+      "id": "q12",
+      "title": "Quem desceu ao submundo por amor?",
+      "options": {
+        "A": "Hércules",
+        "B": "Perseu",
+        "C": "Jasão",
+        "D": "Orfeu"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-3/q12.jpg"
+    },
+    {
+      "id": "q13",
+      "title": "Instrumento musical de Orfeu:",
+      "options": {
+        "A": "Flauta",
+        "B": "Lira",
+        "C": "Tambor",
+        "D": "Harpa"
+      },
+      "correct": "B",
+      "image": "/images/games/quizur-mitologia-grega/quiz-3/q13.jpg"
+    },
+    {
+      "id": "q14",
+      "title": "As Erínias também são chamadas de:",
+      "options": {
+        "A": "Ninfas",
+        "B": "Moiras",
+        "C": "Górgonas",
+        "D": "Fúrias"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-3/q14.jpg"
+    },
+    {
+      "id": "q15",
+      "title": "Criatura com corpo de leão e cabeça humana:",
+      "options": {
+        "A": "Grifo",
+        "B": "Quimera",
+        "C": "Mantícora",
+        "D": "Esfinge"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-3/q15.jpg"
+    }
+  ]
+}

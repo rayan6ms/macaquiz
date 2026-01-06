@@ -1,0 +1,138 @@
+{
+  "id": "quiz-7",
+  "title": "Quizur - Mitologia Grega — Jogo 7",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Os filhos de Nix representavam:",
+      "options": {
+        "A": "Apenas deuses",
+        "B": "Gigantes",
+        "C": "Conceitos abstratos",
+        "D": "Humanos"
+      },
+      "correct": "C",
+      "image": "/images/games/quizur-mitologia-grega/quiz-7/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Érebo representa:",
+      "options": {
+        "A": "As trevas",
+        "B": "A luz",
+        "C": "O amor",
+        "D": "A vida"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-7/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Quem criou Pandora?",
+      "options": {
+        "A": "Hefesto",
+        "B": "Zeus",
+        "C": "Hermes",
+        "D": "Atena"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-7/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Pandora abriu:",
+      "options": {
+        "A": "Um jarro",
+        "B": "Uma caixa",
+        "C": "Um portal",
+        "D": "Um templo"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-7/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "O último elemento que restou no jarro de Pandora:",
+      "options": {
+        "A": "A dor",
+        "B": "A morte",
+        "C": "O ódio",
+        "D": "A esperança"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-7/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Deus do pânico:",
+      "options": {
+        "A": "Pan",
+        "B": "Ares",
+        "C": "Dionísio",
+        "D": "Hermes"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-7/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Caríbdis causava:",
+      "options": {
+        "A": "Tempestades",
+        "B": "Erupções",
+        "C": "Redemoinhos",
+        "D": "Terremotos"
+      },
+      "correct": "C",
+      "image": "/images/games/quizur-mitologia-grega/quiz-7/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "O rio do esquecimento no submundo:",
+      "options": {
+        "A": "Lete",
+        "B": "Estige",
+        "C": "Flegetonte",
+        "D": "Aqueronte"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-7/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Os deuses juravam pelo rio:",
+      "options": {
+        "A": "Aqueronte",
+        "B": "Estige",
+        "C": "Cócito",
+        "D": "Lete"
+      },
+      "correct": "B",
+      "image": "/images/games/quizur-mitologia-grega/quiz-7/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "A mitologia grega influenciou fortemente:",
+      "options": {
+        "A": "Apenas a literatura",
+        "B": "Apenas a arte",
+        "C": "Apenas a religião",
+        "D": "A cultura ocidental"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-7/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "(Bônus) Os deuses primordiais surgiram do:",
+      "options": {
+        "A": "Caos",
+        "B": "Érebo",
+        "C": "Olimpo",
+        "D": "Tártaro"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-7/q11.jpg"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "quiz-2",
+  "title": "Quizur - Mitologia Grega — Jogo 2",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Criatura metade homem, metade cavalo:",
+      "options": {
+        "A": "Centauro",
+        "B": "Sátiro",
+        "C": "Minotauro",
+        "D": "Fauno"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-2/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Quem é o pai de Zeus?",
+      "options": {
+        "A": "Cronos",
+        "B": "Urano",
+        "C": "Atlas",
+        "D": "Hades"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-2/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Deus do sol:",
+      "options": {
+        "A": "Ares",
+        "B": "Hélio",
+        "C": "Hermes",
+        "D": "Apolo"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-2/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Qual animal é símbolo de Atena?",
+      "options": {
+        "A": "Coruja",
+        "B": "Águia",
+        "C": "Leão",
+        "D": "Cobra"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-2/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Onde ficava o Labirinto do Minotauro?",
+      "options": {
+        "A": "Tebas",
+        "B": "Esparta",
+        "C": "Atenas",
+        "D": "Creta"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-2/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "O Minotauro era filho de:",
+      "options": {
+        "A": "Poseidon",
+        "B": "Zeus",
+        "C": "Minos",
+        "D": "Hades"
+      },
+      "correct": "C",
+      "image": "/images/games/quizur-mitologia-grega/quiz-2/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Quem matou o Minotauro?",
+      "options": {
+        "A": "Hércules",
+        "B": "Jasão",
+        "C": "Perseu",
+        "D": "Teseu"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-2/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Fio usado para sair do labirinto:",
+      "options": {
+        "A": "Fio de Atena",
+        "B": "Fio de Ártemis",
+        "C": "Fio de Medusa",
+        "D": "Fio de Ariadne"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-2/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "As Moiras eram responsáveis por:",
+      "options": {
+        "A": "O amor",
+        "B": "As colheitas",
+        "C": "A guerra",
+        "D": "O destino"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-2/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Quem roubou o fogo dos deuses?",
+      "options": {
+        "A": "Hermes",
+        "B": "Epimeteu",
+        "C": "Atlas",
+        "D": "Prometeu"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-2/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "Castigo de Prometeu:",
+      "options": {
+        "A": "Afogado",
+        "B": "Enviado ao Tártaro",
+        "C": "Transformado em pedra",
+        "D": "Preso ao Cáucaso"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-2/q11.jpg"
+    },
+    {
+      "id": "q12",
+      "title": "Deus da morte no campo de batalha:",
+      "options": {
+        "A": "Hélio",
+        "B": "Hades",
+        "C": "Ares",
+        "D": "Tânatos"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-2/q12.jpg"
+    },
+    {
+      "id": "q13",
+      "title": "Três juízes do submundo:",
+      "options": {
+        "A": "Minos, Radamanto e Éaco",
+        "B": "Hades, Zeus e Poseidon",
+        "C": "Cérbero, Caronte e Tânatos",
+        "D": "Orfeu, Eurídice e Perséfone"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-2/q13.jpg"
+    },
+    {
+      "id": "q14",
+      "title": "Barqueiro do submundo:",
+      "options": {
+        "A": "Érebo",
+        "B": "Cérbero",
+        "C": "Hades",
+        "D": "Caronte"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-2/q14.jpg"
+    },
+    {
+      "id": "q15",
+      "title": "Guardião do submundo:",
+      "options": {
+        "A": "Cérbero",
+        "B": "Esfinge",
+        "C": "Quimera",
+        "D": "Hidra"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-2/q15.jpg"
+    }
+  ]
+}

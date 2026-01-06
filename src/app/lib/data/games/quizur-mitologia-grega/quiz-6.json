@@ -1,0 +1,186 @@
+{
+  "id": "quiz-6",
+  "title": "Quizur - Mitologia Grega — Jogo 6",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Criaturas femininas que encantavam marinheiros:",
+      "options": {
+        "A": "Sereias",
+        "B": "Musas",
+        "C": "Harpias",
+        "D": "Ninfas"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-6/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "As ninfas eram:",
+      "options": {
+        "A": "Espíritos da natureza",
+        "B": "Deusas maiores",
+        "C": "Monstros",
+        "D": "Titãs"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-6/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Deusa primordial da noite:",
+      "options": {
+        "A": "Nix",
+        "B": "Érebo",
+        "C": "Caos",
+        "D": "Cronos"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-6/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Oceano era:",
+      "options": {
+        "A": "Um mar",
+        "B": "Um herói",
+        "C": "Um monstro",
+        "D": "Um deus titã"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-6/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Quem sobreviveu ao dilúvio grego?",
+      "options": {
+        "A": "Atlas",
+        "B": "Perseu",
+        "C": "Orfeu",
+        "D": "Deucalião"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-6/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Esposa de Hades:",
+      "options": {
+        "A": "Nix",
+        "B": "Hécate",
+        "C": "Hera",
+        "D": "Perséfone"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-6/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Quem enganou Cronos para salvar Zeus?",
+      "options": {
+        "A": "Atena",
+        "B": "Réia",
+        "C": "Hera",
+        "D": "Gaia"
+      },
+      "correct": "B",
+      "image": "/images/games/quizur-mitologia-grega/quiz-6/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Gaia é:",
+      "options": {
+        "A": "Uma titã",
+        "B": "Uma musa",
+        "C": "A deusa da guerra",
+        "D": "A deusa da Terra"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-6/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Urano representa:",
+      "options": {
+        "A": "O céu",
+        "B": "O mar",
+        "C": "O fogo",
+        "D": "A morte"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-6/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Deus do tempo destrutivo:",
+      "options": {
+        "A": "Zeus",
+        "B": "Aion",
+        "C": "Kairós",
+        "D": "Cronos"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-6/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "Quantas Górgonas existiam?",
+      "options": {
+        "A": "Duas",
+        "B": "Uma",
+        "C": "Cinco",
+        "D": "Três"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-6/q11.jpg"
+    },
+    {
+      "id": "q12",
+      "title": "Única Górgona mortal:",
+      "options": {
+        "A": "Nenhuma",
+        "B": "Euríale",
+        "C": "Esteno",
+        "D": "Medusa"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-6/q12.jpg"
+    },
+    {
+      "id": "q13",
+      "title": "Pégaso nasceu de:",
+      "options": {
+        "A": "Medusa",
+        "B": "Zeus",
+        "C": "Afrodite",
+        "D": "Hera"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-6/q13.jpg"
+    },
+    {
+      "id": "q14",
+      "title": "Pégaso simboliza:",
+      "options": {
+        "A": "Guerra",
+        "B": "Morte",
+        "C": "Inspiração",
+        "D": "Sabedoria"
+      },
+      "correct": "C",
+      "image": "/images/games/quizur-mitologia-grega/quiz-6/q14.jpg"
+    },
+    {
+      "id": "q15",
+      "title": "Deusa da justiça divina:",
+      "options": {
+        "A": "Hera",
+        "B": "Nêmesis",
+        "C": "Atena",
+        "D": "Têmis"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-6/q15.jpg"
+    }
+  ]
+}

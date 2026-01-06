@@ -1,0 +1,186 @@
+{
+  "id": "quiz-1",
+  "title": "Quizur - Mitologia Grega — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Quem é o rei dos deuses do Olimpo?",
+      "options": {
+        "A": "Zeus",
+        "B": "Apolo",
+        "C": "Poseidon",
+        "D": "Hades"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Deus do mar na mitologia grega:",
+      "options": {
+        "A": "Hefesto",
+        "B": "Hermes",
+        "C": "Ares",
+        "D": "Poseidon"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Deusa do amor e da beleza:",
+      "options": {
+        "A": "Atena",
+        "B": "Hera",
+        "C": "Ártemis",
+        "D": "Afrodite"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Deus da guerra:",
+      "options": {
+        "A": "Ares",
+        "B": "Dionísio",
+        "C": "Hermes",
+        "D": "Apolo"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Deusa da sabedoria:",
+      "options": {
+        "A": "Perséfone",
+        "B": "Deméter",
+        "C": "Hera",
+        "D": "Atena"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Quem é o mensageiro dos deuses?",
+      "options": {
+        "A": "Hermes",
+        "B": "Apolo",
+        "C": "Ares",
+        "D": "Hades"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Deus do submundo:",
+      "options": {
+        "A": "Poseidon",
+        "B": "Hades",
+        "C": "Cronos",
+        "D": "Zeus"
+      },
+      "correct": "B",
+      "image": "/images/games/quizur-mitologia-grega/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Deus do fogo e da forja:",
+      "options": {
+        "A": "Atlas",
+        "B": "Hefesto",
+        "C": "Apolo",
+        "D": "Prometeu"
+      },
+      "correct": "B",
+      "image": "/images/games/quizur-mitologia-grega/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Monte onde vivem os deuses:",
+      "options": {
+        "A": "Olimpo",
+        "B": "Parnaso",
+        "C": "Ida",
+        "D": "Etna"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Herói que matou a Medusa:",
+      "options": {
+        "A": "Hércules",
+        "B": "Teseu",
+        "C": "Aquiles",
+        "D": "Perseu"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-1/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "Medusa era um(a):",
+      "options": {
+        "A": "Harpia",
+        "B": "Deusa",
+        "C": "Ninfa",
+        "D": "Górgona"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-1/q11.jpg"
+    },
+    {
+      "id": "q12",
+      "title": "Deus do vinho e das festas:",
+      "options": {
+        "A": "Pan",
+        "B": "Dionísio",
+        "C": "Apolo",
+        "D": "Hermes"
+      },
+      "correct": "B",
+      "image": "/images/games/quizur-mitologia-grega/quiz-1/q12.jpg"
+    },
+    {
+      "id": "q13",
+      "title": "Hércules é famoso por:",
+      "options": {
+        "A": "Os 12 Trabalhos",
+        "B": "Criar o Olimpo",
+        "C": "Governar Esparta",
+        "D": "Escrever a Ilíada"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-1/q13.jpg"
+    },
+    {
+      "id": "q14",
+      "title": "Deusa do casamento:",
+      "options": {
+        "A": "Hera",
+        "B": "Héstia",
+        "C": "Afrodite",
+        "D": "Deméter"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-1/q14.jpg"
+    },
+    {
+      "id": "q15",
+      "title": "Quem é a deusa da caça?",
+      "options": {
+        "A": "Hera",
+        "B": "Atena",
+        "C": "Ártemis",
+        "D": "Perséfone"
+      },
+      "correct": "C",
+      "image": "/images/games/quizur-mitologia-grega/quiz-1/q15.jpg"
+    }
+  ]
+}

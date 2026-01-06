@@ -1,0 +1,185 @@
+{
+  "id": "quiz-4",
+  "title": "Quizur - Mitologia Grega — Jogo 4",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Quem decifrou o enigma da Esfinge?",
+      "options": {
+        "A": "Hércules",
+        "B": "Teseu",
+        "C": "Perseu",
+        "D": "Édipo"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-4/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Titã que sustentava o céu:",
+      "options": {
+        "A": "Atlas",
+        "B": "Cronos",
+        "C": "Prometeu",
+        "D": "Oceano"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-4/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Quem castrou Urano?",
+      "options": {
+        "A": "Cronos",
+        "B": "Zeus",
+        "C": "Atlas",
+        "D": "Hades"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-4/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Deusa virgem do lar:",
+      "options": {
+        "A": "Héstia",
+        "B": "Hera",
+        "C": "Atena",
+        "D": "Ártemis"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-4/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "A Quimera era formada por:",
+      "options": {
+        "A": "Leão, cabra e serpente",
+        "B": "Leão e águia",
+        "C": "Cobra e homem",
+        "D": "Cavalo e homem"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-4/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Quem matou a Quimera?",
+      "options": {
+        "A": "Hércules",
+        "B": "Perseu",
+        "C": "Belerofonte",
+        "D": "Jasão"
+      },
+      "correct": "C",
+      "image": "/images/games/quizur-mitologia-grega/quiz-4/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Monte associado às Musas:",
+      "options": {
+        "A": "Parnaso",
+        "B": "Olimpo",
+        "C": "Etna",
+        "D": "Ida"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-4/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Quantas Musas existem?",
+      "options": {
+        "A": "Sete",
+        "B": "Nove",
+        "C": "Doze",
+        "D": "Três"
+      },
+      "correct": "B",
+      "image": "/images/games/quizur-mitologia-grega/quiz-4/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Deusa da discórdia:",
+      "options": {
+        "A": "Hera",
+        "B": "Éris",
+        "C": "Nêmesis",
+        "D": "Hécate"
+      },
+      "correct": "B",
+      "image": "/images/games/quizur-mitologia-grega/quiz-4/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "O pomo da discórdia causou:",
+      "options": {
+        "A": "O Dilúvio",
+        "B": "A Guerra de Troia",
+        "C": "A Gigantomaquia",
+        "D": "A Titanomaquia"
+      },
+      "correct": "B",
+      "image": "/images/games/quizur-mitologia-grega/quiz-4/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "Quem julgou o concurso de beleza entre as deusas?",
+      "options": {
+        "A": "Zeus",
+        "B": "Páris",
+        "C": "Menelau",
+        "D": "Aquiles"
+      },
+      "correct": "B",
+      "image": "/images/games/quizur-mitologia-grega/quiz-4/q11.jpg"
+    },
+    {
+      "id": "q12",
+      "title": "Deusa da vingança divina:",
+      "options": {
+        "A": "Hécate",
+        "B": "Perséfone",
+        "C": "Nêmesis",
+        "D": "Éris"
+      },
+      "correct": "C",
+      "image": "/images/games/quizur-mitologia-grega/quiz-4/q12.jpg"
+    },
+    {
+      "id": "q13",
+      "title": "Hécate é deusa de:",
+      "options": {
+        "A": "Magia e encruzilhadas",
+        "B": "Amor",
+        "C": "Guerra",
+        "D": "Colheitas"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-4/q13.jpg"
+    },
+    {
+      "id": "q14",
+      "title": "O Tártaro é mais conhecido por ser:",
+      "options": {
+        "A": "Um abismo",
+        "B": "Uma ilha",
+        "C": "Um deus",
+        "D": "Um titã"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-4/q14.jpg"
+    },
+    {
+      "id": "q15",
+      "title": "Quem guiava as almas ao submundo?",
+      "options": {
+        "A": "Tânatos",
+        "B": "Hades",
+        "C": "Hermes Psicopompo"
+      },
+      "correct": "C",
+      "image": "/images/games/quizur-mitologia-grega/quiz-4/q15.jpg"
+    }
+  ]
+}

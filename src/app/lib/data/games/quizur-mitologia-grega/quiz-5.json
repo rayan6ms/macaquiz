@@ -1,0 +1,186 @@
+{
+  "id": "quiz-5",
+  "title": "Quizur - Mitologia Grega — Jogo 5",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Os Gigantes lutaram contra:",
+      "options": {
+        "A": "Os titãs",
+        "B": "Os centauros",
+        "C": "Os deuses olímpicos",
+        "D": "Os humanos"
+      },
+      "correct": "C",
+      "image": "/images/games/quizur-mitologia-grega/quiz-5/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "A Gigantomaquia é:",
+      "options": {
+        "A": "A guerra entre titãs",
+        "B": "A guerra entre humanos",
+        "C": "A guerra entre deuses",
+        "D": "A guerra entre deuses e gigantes"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-5/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "O Velocino de Ouro foi buscado por:",
+      "options": {
+        "A": "Jasão",
+        "B": "Perseu",
+        "C": "Hércules",
+        "D": "Teseu"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-5/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "O grupo liderado por Jasão chamava-se:",
+      "options": {
+        "A": "Argonautas",
+        "B": "Espartanos",
+        "C": "Olímpicos",
+        "D": "Troianos"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-5/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Medeia era:",
+      "options": {
+        "A": "Sacerdotisa e feiticeira",
+        "B": "Deusa",
+        "C": "Ninfa",
+        "D": "Musa"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-5/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Monstro marinho morto por Perseu:",
+      "options": {
+        "A": "Caríbdis",
+        "B": "Hidra",
+        "C": "Ceto",
+        "D": "Scylla"
+      },
+      "correct": "C",
+      "image": "/images/games/quizur-mitologia-grega/quiz-5/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Scylla e Caríbdis eram:",
+      "options": {
+        "A": "Monstros marinhos",
+        "B": "Deusas",
+        "C": "Ninfas",
+        "D": "Titãs"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-5/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Qual herói grego foi condenado a rolar eternamente uma pedra montanha acima no submundo?",
+      "options": {
+        "A": "Sísifo",
+        "B": "Tântalo",
+        "C": "Íxion",
+        "D": "Prometeu"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-5/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Deusa associada à lua:",
+      "options": {
+        "A": "Ártemis",
+        "B": "Atena",
+        "C": "Hera",
+        "D": "Afrodite"
+      },
+      "correct": "A",
+      "image": "/images/games/quizur-mitologia-grega/quiz-5/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Pan é deus de:",
+      "options": {
+        "A": "Amor",
+        "B": "Pastores e da natureza",
+        "C": "Guerra",
+        "D": "Morte"
+      },
+      "correct": "B",
+      "image": "/images/games/quizur-mitologia-grega/quiz-5/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "Os sátiros eram associados a:",
+      "options": {
+        "A": "Ares",
+        "B": "Apolo",
+        "C": "Atena",
+        "D": "Dionísio"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-5/q11.jpg"
+    },
+    {
+      "id": "q12",
+      "title": "O oráculo mais famoso da Grécia ficava em:",
+      "options": {
+        "A": "Atenas",
+        "B": "Esparta",
+        "C": "Tebas",
+        "D": "Delfos"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-5/q12.jpg"
+    },
+    {
+      "id": "q13",
+      "title": "Sacerdotisa do Oráculo de Delfos:",
+      "options": {
+        "A": "Sibila",
+        "B": "Pítia",
+        "C": "Héstia",
+        "D": "Hera"
+      },
+      "correct": "B",
+      "image": "/images/games/quizur-mitologia-grega/quiz-5/q13.jpg"
+    },
+    {
+      "id": "q14",
+      "title": "Deus da profecia:",
+      "options": {
+        "A": "Dionísio",
+        "B": "Zeus",
+        "C": "Hermes",
+        "D": "Apolo"
+      },
+      "correct": "D",
+      "image": "/images/games/quizur-mitologia-grega/quiz-5/q14.jpg"
+    },
+    {
+      "id": "q15",
+      "title": "O destino de Édipo envolvia:",
+      "options": {
+        "A": "Imortalidade",
+        "B": "Incesto e parricídio",
+        "C": "Guerra",
+        "D": "Traição"
+      },
+      "correct": "B",
+      "image": "/images/games/quizur-mitologia-grega/quiz-5/q15.jpg"
+    }
+  ]
+}
