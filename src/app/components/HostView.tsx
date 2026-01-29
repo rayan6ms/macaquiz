@@ -23,6 +23,7 @@ const MUSIC_SRC = `https://www.youtube.com/embed/${YT_VIDEO_ID}?autoplay=1&loop=
 const MUSIC_VOLUME_MIN = 0;
 const MUSIC_VOLUME_MAX = 100;
 const MUSIC_VOLUME_STEP = 10;
+const MUSIC_STARTS = [12, 38, 64, 92, 128, 156];
 
 const OPTION_COLORS: Record<OptionKey, string> = {
   A: "bg-rose-500/25 border-rose-400/40",
@@ -75,7 +76,19 @@ export default function HostView(props: {
   const { state } = props;
 
   const q = state.question;
+  const optionEntries = q
+    ? Object.entries(q.options).reduce((acc, [key, value]) => {
+        if (typeof value === "string") {
+          acc.push([key as OptionKey, value]);
+        }
+        return acc;
+      }, [] as Array<[OptionKey, string]>)
+    : [];
   const showCorrect = state.phase === "reveal" || state.phase === "scoreboard";
+  const isSparseOptions = optionEntries.length > 0 && optionEntries.length < 5;
+  const optionPaddingClass = isSparseOptions ? "p-5" : "p-4";
+  const optionLabelClass = isSparseOptions ? "text-base" : "text-sm";
+  const optionTextClass = isSparseOptions ? "text-xl" : "text-lg";
   const allAnswered = state.playersCount > 0 && state.answersCount >= state.playersCount;
   const shouldPlayMusic =
     state.phase === "question" || state.phase === "lockin" || state.phase === "reveal";
@@ -108,6 +121,7 @@ export default function HostView(props: {
   const [musicVolume, setMusicVolume] = useState(60);
   const audioRef = useRef<Record<string, HTMLAudioElement> | null>(null);
   const musicIframeRef = useRef<HTMLIFrameElement | null>(null);
+  const musicStartRef = useRef<number | null>(null);
   const prevStateRef = useRef<PublicState | null>(null);
   const nextQuestionTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const nextQuestionSfxKeyRef = useRef<string | null>(null);
@@ -255,7 +269,7 @@ export default function HostView(props: {
     };
   }, []);
 
-  const sendMusicCommand = (command: string, args: (number | string)[] = []) => {
+  const sendMusicCommand = (command: string, args: (number | string | boolean)[] = []) => {
     const iframe = musicIframeRef.current;
     if (!iframe?.contentWindow) return;
     iframe.contentWindow.postMessage(
@@ -286,9 +300,15 @@ export default function HostView(props: {
   };
 
   const handleMusicIframeLoad = () => {
+    const startAt =
+      MUSIC_STARTS[Math.floor(Math.random() * MUSIC_STARTS.length)] ?? 0;
+    musicStartRef.current = startAt;
+    sendMusicCommand("seekTo", [startAt, true]);
     sendMusicCommand("setVolume", [musicVolume]);
     if (state.paused) {
       sendMusicCommand("pauseVideo");
+    } else {
+      sendMusicCommand("playVideo");
     }
   };
 
@@ -497,22 +517,27 @@ export default function HostView(props: {
 
               {q && (
                 <div className="mt-4 grid gap-3 sm:grid-cols-2">
-                  {(Object.keys(q.options) as OptionKey[]).map((k, idx, all) => {
+                  {optionEntries.map(([k, value], idx, all) => {
                     const correct = state.correctOption === k;
                     const isCenter = all.length === 5 && idx === 2;
                     return (
                       <div
                         key={k}
                         className={[
-                          "rounded-2xl border p-4",
+                          "rounded-2xl border",
+                          optionPaddingClass,
                           OPTION_COLORS[k],
                           showCorrect && correct ? "ring-2 ring-emerald-300" : "",
                           showCorrect && !correct ? "opacity-70" : "",
                           isCenter ? "sm:col-span-2 sm:justify-self-center sm:w-[70%]" : "",
                         ].join(" ")}
                       >
-                        <div className="mb-1 text-sm font-semibold opacity-80">Opção {k}</div>
-                        <div className="text-lg leading-snug break-words">{q.options[k]}</div>
+                        <div className={["mb-1 font-semibold opacity-80", optionLabelClass].join(" ")}>
+                          Opção {k}
+                        </div>
+                        <div className={[optionTextClass, "leading-snug break-words"].join(" ")}>
+                          {value}
+                        </div>
                         {showCorrect && correct && (
                           <div className="mt-2 text-sm font-semibold text-emerald-200">Correta</div>
                         )}

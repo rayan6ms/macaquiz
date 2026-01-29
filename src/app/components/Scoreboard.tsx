@@ -140,7 +140,12 @@ export default function Scoreboard(props: {
 
                       {(hot || cold) && (
                         <span className="inline-flex items-center gap-1">
-                          <FaFire className={cold ? "text-sky-300" : "text-orange-300"} />
+                          <FaFire
+                            className={[
+                              "text-lg",
+                              cold ? "text-sky-300" : "text-orange-300",
+                            ].join(" ")}
+                          />
                           <span className="text-xs opacity-80">x{streakAbs}</span>
                         </span>
                       )}

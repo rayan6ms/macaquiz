@@ -1,0 +1,201 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - Literatura — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Quem é o autor de \"Memórias Póstumas de Brás Cubas\"?",
+      "options": {
+        "A": "Graciliano Ramos",
+        "B": "Machado de Assis",
+        "C": "José de Alencar",
+        "D": "João Ubaldo Ribeiro",
+        "E": "Jorge Amado"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-literatura/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "A cachorra \"Baleia\" é personagem do romance:",
+      "options": {
+        "A": "\"O Mulo\" de Darcy Ribeiro",
+        "B": "\"O Quinze\" de Raquel de Queiroz",
+        "C": "\"Menino de Engenho\" de José Lins do Rego",
+        "D": "\"Vidas Secas\" de Graciliano Ramos",
+        "E": "\"Terras do Sem-Fim\" de Jorge Amado"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-literatura/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Escrita no fim do século XIX e publicada em 1902, é dividida em três partes: \"A Terra\", \"O Homem\" e \"A Luta\". Estamos falando da obra:",
+      "options": {
+        "A": "\"Suor\" de Jorge Amado",
+        "B": "\"Fogo Morto\" de José Lins do Rego",
+        "C": "\"Os Sertões\" de Euclides da Cunha",
+        "D": "\"O Tempo e o Vento\" de Érico Veríssimo",
+        "E": "\"O Mulato\" de Aluísio de Azevedo"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-literatura/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "A obra \"A Escrava Isaura\", que foi várias vezes adaptada para a televisão, é de qual autor?",
+      "options": {
+        "A": "Bernardo Guimarães",
+        "B": "José de Alencar",
+        "C": "José Cândido de Carvalho",
+        "D": "Dias Gomes",
+        "E": "Mário de Andrade"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-literatura/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Teve o poema \"Os Sapos\" declamado na Semana de Arte Moderna de 1922. Ao descobrir-se tuberculoso, abandonou os estudos e, temendo uma morte precoce, dedicou-se a uma extensa obra poética. Viveu, porém, até os 82 anos. Trata-se do poeta:",
+      "options": {
+        "A": "Álvares de Azevedo",
+        "B": "Patativa do Assaré",
+        "C": "Carlos Drummond de Andrade",
+        "D": "João Cabral de Melo Neto",
+        "E": "Manuel Bandeira"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-literatura/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "A obra \"Capitães da Areia\", que retrata a vida de meninos em situação de rua em Salvador na década de 1930, foi escrita por:",
+      "options": {
+        "A": "João Guimarães Rosa",
+        "B": "Jorge Amado",
+        "C": "Machado de Assis",
+        "D": "Manuel Antônio de Almeida",
+        "E": "Clarice Lispector"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-literatura/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "\"Riobaldo\" é o personagem principal de qual obra?",
+      "options": {
+        "A": "\"Morte e Vida Severina\" — João Cabral de Melo Neto",
+        "B": "\"Cacau\" — Jorge Amado",
+        "C": "\"Grande Sertão: Veredas\" — João Guimarães Rosa",
+        "D": "\"Viva o Povo Brasileiro\" — João Ubaldo Ribeiro",
+        "E": "\"Incidente em Antares\" — Érico Veríssimo"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-literatura/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Qual poeta possui o epíteto \"O Poeta dos Escravos\"?",
+      "options": {
+        "A": "Gonçalves Dias",
+        "B": "Basílio da Gama",
+        "C": "Casimiro de Abreu",
+        "D": "Castro Alves",
+        "E": "Olavo Bilac"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-literatura/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Os poetas brasileiros influenciados por Lord Byron, a chamada geração do \"Mal do Século\", pertencem a:",
+      "options": {
+        "A": "Primeira Geração Romântica",
+        "B": "Segunda Geração Romântica",
+        "C": "Terceira Geração Romântica",
+        "D": "Primeira Geração Modernista",
+        "E": "Segunda Geração Modernista"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-literatura/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "O romance \"Olhai os Lírios do Campo\" foi escrito por qual autor?",
+      "options": {
+        "A": "Luís Fernando Veríssimo",
+        "B": "José de Alencar",
+        "C": "Eça de Queiroz",
+        "D": "Lígia Fagundes Telles",
+        "E": "Érico Veríssimo"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-literatura/quiz-1/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "Quem foi a esposa de Jorge Amado?",
+      "options": {
+        "A": "Raquel de Queiroz",
+        "B": "Clarice Lispector",
+        "C": "Zélia Gattai",
+        "D": "Lígia Fagundes Telles",
+        "E": "Ana Maria Machado"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-literatura/quiz-1/q11.jpg"
+    },
+    {
+      "id": "q12",
+      "title": "Quais poetas são, respectivamente, chamados de \"Boca do Inferno\" e \"O Poetinha\"?",
+      "options": {
+        "A": "Augusto dos Anjos e Casimiro de Abreu",
+        "B": "Cruz e Sousa e Olavo Bilac",
+        "C": "Alphonsus Guimaraens e Tomás Antônio Gonzaga",
+        "D": "Gregório de Matos e Vinícius de Moraes",
+        "E": "Gonçalves Dias e Oswald de Andrade"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-literatura/quiz-1/q12.jpg"
+    },
+    {
+      "id": "q13",
+      "title": "Qual é o único escritor abaixo que já faleceu?",
+      "options": {
+        "A": "Fernando Sabino",
+        "B": "Conceição Evaristo",
+        "C": "Ana Maria Gonçalves",
+        "D": "Ignácio de Loyola Brandão",
+        "E": "Marcelo Rubens Paiva"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-literatura/quiz-1/q13.jpg"
+    },
+    {
+      "id": "q14",
+      "title": "O livro \"Estrela da Vida Inteira\" reúne a obra poética de qual autor?",
+      "options": {
+        "A": "Castro Alves",
+        "B": "Carlos Drummond de Andrade",
+        "C": "Manuel Bandeira",
+        "D": "Vinícius de Moraes",
+        "E": "Olavo Bilac"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-literatura/quiz-1/q14.jpg"
+    },
+    {
+      "id": "q15",
+      "title": "Quem foi considerado o principal romancista do Romantismo brasileiro?",
+      "options": {
+        "A": "Graciliano Ramos",
+        "B": "Machado de Assis",
+        "C": "Joaquim Manuel de Macedo",
+        "D": "Aluísio de Azevedo",
+        "E": "José de Alencar"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-literatura/quiz-1/q15.jpg"
+    }
+  ]
+}

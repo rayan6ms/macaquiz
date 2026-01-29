@@ -1,0 +1,201 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - Pontos Turísticos — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Em que cidade brasileira fica localizado o Elevador Lacerda?",
+      "options": {
+        "A": "São Paulo",
+        "B": "Salvador",
+        "C": "Rio de Janeiro",
+        "D": "Curitiba",
+        "E": "Brasília"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-pontos-turisticos/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Em que cidade fica localizado o Museu do Louvre?",
+      "options": {
+        "A": "Rio de Janeiro",
+        "B": "Londres",
+        "C": "Paris",
+        "D": "Nova York",
+        "E": "Roma"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-pontos-turisticos/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Em que cidade fica localizada a Estátua da Liberdade?",
+      "options": {
+        "A": "Londres",
+        "B": "Paris",
+        "C": "Washington",
+        "D": "Chicago",
+        "E": "Nova York"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-pontos-turisticos/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Em que cidade está localizado o Taj Mahal?",
+      "options": {
+        "A": "Mumbai (antiga Bombaim)",
+        "B": "Nova Délhi",
+        "C": "Agra",
+        "D": "Calcutá (Kolkata)",
+        "E": "Islamabad"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-pontos-turisticos/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Em que país estão localizadas as pirâmides de Gizé (Quéops, Quéfren e Miquerinos)?",
+      "options": {
+        "A": "Grécia",
+        "B": "França",
+        "C": "Peru",
+        "D": "Egito",
+        "E": "Turquia"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-pontos-turisticos/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Em que cidade fica localizada a Sydney Opera House, que é um símbolo do país?",
+      "options": {
+        "A": "Oslo, na Noruega",
+        "B": "Sydney, na Austrália",
+        "C": "Berlim, na Alemanha",
+        "D": "Liverpool, na Inglaterra",
+        "E": "Las Vegas, nos Estados Unidos"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-pontos-turisticos/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "As famosas Ilhas Galápagos, com uma fauna exuberante, pertencem a que país?",
+      "options": {
+        "A": "Equador",
+        "B": "Estados Unidos",
+        "C": "Canadá",
+        "D": "Chile",
+        "E": "Argentina"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-pontos-turisticos/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "A Ilha de Páscoa (Rapa Nui), onde há esculturas de pedra (moais) que intriga historiadores e arqueólogos quanto à sua origem, pertence a que país?",
+      "options": {
+        "A": "Peru",
+        "B": "Austrália",
+        "C": "Argentina",
+        "D": "Espanha",
+        "E": "Chile"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-pontos-turisticos/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "O Arquipélago de Fernando de Noronha, no Brasil, pertence a que estado?",
+      "options": {
+        "A": "Pernambuco",
+        "B": "Ceará",
+        "C": "Rio Grande do Norte",
+        "D": "Alagoas",
+        "E": "Piauí"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-pontos-turisticos/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Em que país ficam a Praça Vermelha e o Kremlin?",
+      "options": {
+        "A": "Bulgária",
+        "B": "Alemanha",
+        "C": "Rússia",
+        "D": "Itália",
+        "E": "França"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-pontos-turisticos/quiz-1/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "Veneza, conhecida por seus canais e paisagens românticas, fica localizada em que país?",
+      "options": {
+        "A": "França",
+        "B": "Itália",
+        "C": "Turquia",
+        "D": "Inglaterra",
+        "E": "Grécia"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-pontos-turisticos/quiz-1/q11.jpg"
+    },
+    {
+      "id": "q12",
+      "title": "O Vesúvio é um vulcão ativo. Em que país ele se localiza?",
+      "options": {
+        "A": "França",
+        "B": "Itália",
+        "C": "Japão",
+        "D": "Chile",
+        "E": "Grécia"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-pontos-turisticos/quiz-1/q12.jpg"
+    },
+    {
+      "id": "q13",
+      "title": "Em que país se localiza o Palácio de Buckingham?",
+      "options": {
+        "A": "Vaticano",
+        "B": "Itália",
+        "C": "Estados Unidos",
+        "D": "Holanda",
+        "E": "Reino Unido"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-pontos-turisticos/quiz-1/q13.jpg"
+    },
+    {
+      "id": "q14",
+      "title": "A Catedral de Notre-Dame é uma das mais antigas catedrais em estilo gótico. Em que país ela se localiza?",
+      "options": {
+        "A": "Itália",
+        "B": "França",
+        "C": "Alemanha",
+        "D": "Inglaterra",
+        "E": "Áustria"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-pontos-turisticos/quiz-1/q14.jpg"
+    },
+    {
+      "id": "q15",
+      "title": "O Coliseu, também conhecido como Anfiteatro Flaviano, está localizado em que país?",
+      "options": {
+        "A": "Espanha",
+        "B": "México",
+        "C": "Portugal",
+        "D": "Itália",
+        "E": "França"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-pontos-turisticos/quiz-1/q15.jpg"
+    }
+  ]
+}

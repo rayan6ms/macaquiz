@@ -11,7 +11,7 @@ export default function GamePicker(props: { onPick: (gameId: string) => void }) 
   );
 
   return (
-    <div className="w-full max-w-2xl rounded-2xl bg-white/10 p-6 text-white backdrop-blur">
+    <div className="w-full max-w-5xl rounded-2xl bg-white/10 p-6 text-white backdrop-blur">
       <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
         <div className="text-2xl font-semibold">
           {activeTopic ? "Escolha um jogo" : "Escolha um tema"}
@@ -44,7 +44,7 @@ export default function GamePicker(props: { onPick: (gameId: string) => void }) 
           </div>
         </>
       ) : (
-        <div className="grid gap-3 sm:grid-cols-2">
+        <div className="grid gap-3 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
           {GAME_TOPICS.map((topic) => (
             <button
               key={topic.id}

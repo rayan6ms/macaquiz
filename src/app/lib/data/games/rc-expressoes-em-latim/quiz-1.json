@@ -1,0 +1,188 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - Expressões em Latim — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Quando queremos dizer para alguém aproveitar o dia, dizemos:",
+      "options": {
+        "A": "Carpe Horum",
+        "B": "Carpe Diem",
+        "C": "Carpe Sanctum",
+        "D": "Carpe Momentum",
+        "E": "Carpe Regius"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-expressoes-em-latim/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Alguns advogados aceitam casos \"pro bono\". Isso significa:",
+      "options": {
+        "A": "Que eles agem em conjunto pelo bem da empresa",
+        "B": "Que eles só pegam casos em que a vitória é certa",
+        "C": "Que eles atuam na área infantil (bono vem de boneca)",
+        "D": "Que eles atendem pessoas sem cobrarem pelo serviço",
+        "E": "Que eles sabem quando agir pelo bem da sua carreira"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-expressoes-em-latim/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "\"Felix culpa\" é usada quando algo muito ruim acaba de forma surpreendente e traz benefícios. Essa afirmação é:",
+      "options": {
+        "A": "Verdadeiro",
+        "B": "Falso"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-expressoes-em-latim/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "\"Ignotum per ignotius\" pode ser usada em qual situação?",
+      "options": {
+        "A": "Para xingar alguém de ignorante",
+        "B": "Para representar a imparcialidade de um indivíduo",
+        "C": "Quando você não sabe algo, mas finge que entende do assunto",
+        "D": "Quando alguém explica algo e deixa tudo mais confuso",
+        "E": "Essa expressão não existe"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-expressoes-em-latim/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Uma das formas de realizar uma pesquisa é perguntando ao público em geral. Uma expressão traduzida como \"voz do povo\" é comumente usada para designar esse tipo de pesquisa. Qual é?",
+      "options": {
+        "A": "Vox popularum",
+        "B": "Vox papoulas",
+        "C": "Vox populi",
+        "D": "Vox pot-pourri",
+        "E": "Vox persona"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-expressoes-em-latim/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Pot-pourri, expressão usada em muitas situações, vem do latim e significa \"pote podre\". Verdadeiro ou falso?",
+      "options": {
+        "A": "Verdadeiro",
+        "B": "Falso"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-expressoes-em-latim/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "\"Ad nauseam\" é uma expressão que se refere a qual situação?",
+      "options": {
+        "A": "Quando estamos doentes",
+        "B": "Quando, literalmente, vomitamos",
+        "C": "Quando algo é repetido até cansar",
+        "D": "Quando ocorre a fabricação de remédios para gravidez",
+        "E": "Quando estamos com tontura"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-expressoes-em-latim/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Supostamente, Júlio César teria usado a expressão \"veni, vidi, vici\" ao vencer o rei Farnaces II do Ponto na Batalha de Zela. Ao traduzir essa expressão, temos:",
+      "options": {
+        "A": "Venci, vendi e vendei",
+        "B": "Venha, vida, vistosa",
+        "C": "Vingarei vidas vencidas",
+        "D": "Vim, vi e venci",
+        "E": "Voltarei vendado e vencido"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-expressoes-em-latim/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "\"Ipsis litteris\" é usado para indicar:",
+      "options": {
+        "A": "A transcrição literal de uma fala ou escrita",
+        "B": "A forma antiga de dizer a letra ípsilon (Y)",
+        "C": "A tradução correta de algo do latim para outro idioma",
+        "D": "Uma passagem ritualística do cânon romano",
+        "E": "Antigas liteiras usadas pelos escravos no transporte de imperadores"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-expressoes-em-latim/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "\"A priori\" é usada quando queremos dizer \"em princípio\" ou \"a princípio\". Verdadeiro ou falso?",
+      "options": {
+        "A": "Verdadeiro",
+        "B": "Falso"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-expressoes-em-latim/quiz-1/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "O nome Regina é bastante conhecido em muitos idiomas. Poucos sabem, mas ele vem do latim e significa:",
+      "options": {
+        "A": "Reino",
+        "B": "Reinação",
+        "C": "Rainha",
+        "D": "Roupagem",
+        "E": "Raspagem"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-expressoes-em-latim/quiz-1/q11.jpg"
+    },
+    {
+      "id": "q12",
+      "title": "A expressão \"ars gratia artis\" está presente no logotipo da produtora MGM. O que significa?",
+      "options": {
+        "A": "A arte imita a arte",
+        "B": "A arte gratifica o artista",
+        "C": "A arte saúda os artesãos",
+        "D": "A arte pela arte",
+        "E": "Absolutamente nada"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-expressoes-em-latim/quiz-1/q12.jpg"
+    },
+    {
+      "id": "q13",
+      "title": "Quando um advogado quer libertar um cliente da prisão, ele recorre a um:",
+      "options": {
+        "A": "Habeas corpus",
+        "B": "In dubio pro reo",
+        "C": "Data venia",
+        "D": "Pro bono"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-expressoes-em-latim/quiz-1/q13.jpg"
+    },
+    {
+      "id": "q14",
+      "title": "\"Ex officio\" é uma expressão que pode ser usada como:",
+      "options": {
+        "A": "De ofício (por força do cargo)",
+        "B": "Antigo emprego",
+        "C": "Desserviço",
+        "D": "Oficial (patente do exército)",
+        "E": "Ofertar"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-expressoes-em-latim/quiz-1/q14.jpg"
+    },
+    {
+      "id": "q15",
+      "title": "\"Grosso modo\" é uma expressão muito falada no nosso dia a dia e, em geral, não é traduzida, pois é latim puro. Verdadeiro ou falso?",
+      "options": {
+        "A": "Verdadeiro",
+        "B": "Falso"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-expressoes-em-latim/quiz-1/q15.jpg"
+    }
+  ]
+}

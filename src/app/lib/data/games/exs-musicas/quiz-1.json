@@ -1,0 +1,201 @@
+{
+  "id": "quiz-1",
+  "title": "Extra Medium Stuff - Música — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Complete a letra da música: \"Now and then when I see her face...\"",
+      "options": {
+        "A": "She takes me away to that special place",
+        "B": "She takes me to a better place",
+        "C": "She takes me back to that familiar place",
+        "D": "She brings me close to that special place",
+        "E": "She makes me dream of that special place"
+      },
+      "correct": "A",
+      "image": "/images/games/exs-musicas/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Qual banda toca a música \"Thunderstruck\"?",
+      "options": {
+        "A": "Nirvana",
+        "B": "Led Zeppelin",
+        "C": "Guns N' Roses",
+        "D": "The Rolling Stones",
+        "E": "AC/DC"
+      },
+      "correct": "E",
+      "image": "/images/games/exs-musicas/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Complete a letra da música: \"Tonight's the night, let's live it up...\"",
+      "options": {
+        "A": "I got the money, let's drink it up",
+        "B": "I got the money, let's live it up",
+        "C": "I got my money, let's fill it up",
+        "D": "I got my money, let's spend it up",
+        "E": "I have the money, let's live it up"
+      },
+      "correct": "D",
+      "image": "/images/games/exs-musicas/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Quem foi o vocalista da banda Queen?",
+      "options": {
+        "A": "Brian May",
+        "B": "Roger Taylor",
+        "C": "Freddie Mercury",
+        "D": "John Deacon",
+        "E": "David Bowie"
+      },
+      "correct": "C",
+      "image": "/images/games/exs-musicas/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Que cantora é essa?",
+      "options": {
+        "A": "Amy Winehouse",
+        "B": "Adele",
+        "C": "Sia",
+        "D": "Dua Lipa",
+        "E": "Lorde"
+      },
+      "correct": "B",
+      "image": "/images/games/exs-musicas/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Qual é o nome desse objeto?",
+      "options": {
+        "A": "Discman",
+        "B": "iPod",
+        "C": "MP3 player",
+        "D": "Toca-fitas portátil",
+        "E": "Walkman"
+      },
+      "correct": "E",
+      "image": "/images/games/exs-musicas/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Quem é esse cantor?",
+      "options": {
+        "A": "Peter Tosh",
+        "B": "Jimmy Cliff",
+        "C": "Burning Spear",
+        "D": "Bob Marley",
+        "E": "Gregory Isaacs"
+      },
+      "correct": "D",
+      "image": "/images/games/exs-musicas/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Qual é o nome desse prêmio?",
+      "options": {
+        "A": "Grammy",
+        "B": "Emmy",
+        "C": "Oscar",
+        "D": "Brit Awards",
+        "E": "MTV Video Music Awards"
+      },
+      "correct": "A",
+      "image": "/images/games/exs-musicas/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Complete a letra da música: \"Seus olhos embotados de...\"",
+      "options": {
+        "A": "poeira e fumaça",
+        "B": "cansaço e saudade",
+        "C": "cimento e lágrima",
+        "D": "noite e neblina",
+        "E": "tempo e estrada"
+      },
+      "correct": "C",
+      "image": "/images/games/exs-musicas/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Complete a letra da música: \"O acaso vai me...\"",
+      "options": {
+        "A": "guiar",
+        "B": "salvar",
+        "C": "ajudar",
+        "D": "esconder",
+        "E": "proteger"
+      },
+      "correct": "E",
+      "image": "/images/games/exs-musicas/quiz-1/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "Complete a letra da música: \"Se eu perder esse trem, que sai agora às onze horas...\"",
+      "options": {
+        "A": "Só amanhã de manhã",
+        "B": "Só depois do almoço",
+        "C": "Só na semana que vem",
+        "D": "Só quando o dia clarear",
+        "E": "Só mais tarde, ao amanhecer"
+      },
+      "correct": "A",
+      "image": "/images/games/exs-musicas/quiz-1/q11.jpg"
+    },
+    {
+      "id": "q12",
+      "title": "Complete a letra da música: \"O que os astrônomos diriam se tratar de um outro...\"",
+      "options": {
+        "A": "Sol",
+        "B": "Planeta",
+        "C": "Cometa",
+        "D": "Sistema",
+        "E": "Universo"
+      },
+      "correct": "C",
+      "image": "/images/games/exs-musicas/quiz-1/q12.jpg"
+    },
+    {
+      "id": "q13",
+      "title": "Quem é esse cantor?",
+      "options": {
+        "A": "Keith Richards",
+        "B": "Steven Tyler",
+        "C": "Robert Plant",
+        "D": "Mick Jagger",
+        "E": "Iggy Pop"
+      },
+      "correct": "D",
+      "image": "/images/games/exs-musicas/quiz-1/q13.jpg"
+    },
+    {
+      "id": "q14",
+      "title": "Qual banda toca a música \"Hotel California\"?",
+      "options": {
+        "A": "Fleetwood Mac",
+        "B": "The Doors",
+        "C": "Eagles",
+        "D": "Creedence Clearwater Revival",
+        "E": "Lynyrd Skynyrd"
+      },
+      "correct": "C",
+      "image": "/images/games/exs-musicas/quiz-1/q14.jpg"
+    },
+    {
+      "id": "q15",
+      "title": "Complete a letra da música: \"A namorada, tem...\"",
+      "options": {
+        "A": "namorado",
+        "B": "namorada",
+        "C": "um segredo",
+        "D": "ciúme",
+        "E": "saudade"
+      },
+      "correct": "B",
+      "image": "/images/games/exs-musicas/quiz-1/q15.jpg"
+    }
+  ]
+}

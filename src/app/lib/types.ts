@@ -4,7 +4,7 @@ export type Phase = "lobby" | "question" | "lockin" | "reveal" | "scoreboard";
 export type Question = {
   id: string;
   title: string;
-  options: Record<OptionKey, string>;
+  options: Partial<Record<OptionKey, string>>;
   correct: OptionKey;
   image?: string;
 };

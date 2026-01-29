@@ -1,0 +1,201 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - Palavras Difíceis — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "O que é ósculo?",
+      "options": {
+        "A": "Preguiça",
+        "B": "Equipamento parecido com óculos, porém com uma lente só",
+        "C": "Rapidez no pensamento",
+        "D": "Beijo",
+        "E": "Morte"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-palavras-dificeis/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Se uma pessoa está rubicunda, ela está:",
+      "options": {
+        "A": "Desarrumada",
+        "B": "Avermelhada",
+        "C": "Despenteada",
+        "D": "Feia",
+        "E": "Falecida"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-palavras-dificeis/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Se uma pessoa é célere, quer dizer que ela é:",
+      "options": {
+        "A": "Veloz",
+        "B": "Muito conhecida",
+        "C": "Chata demais",
+        "D": "Casada há pouco tempo",
+        "E": "Muito inteligente"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-palavras-dificeis/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Se algo é inócuo, quer dizer que é:",
+      "options": {
+        "A": "Valioso",
+        "B": "Inofensivo",
+        "C": "Verdadeiro",
+        "D": "Mentiroso",
+        "E": "Algo quebrável com facilidade"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-palavras-dificeis/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Ao final da guerra, o soldado está incólume. Isso quer dizer que ele está:",
+      "options": {
+        "A": "Ferido",
+        "B": "Morto",
+        "C": "Totalmente sujo",
+        "D": "São e salvo",
+        "E": "Prisioneiro"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-palavras-dificeis/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Se algo que foi comprado é supérfluo, quer dizer que é:",
+      "options": {
+        "A": "Caro",
+        "B": "Barato",
+        "C": "Útil",
+        "D": "Desnecessário",
+        "E": "Duro demais"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-palavras-dificeis/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Em toda sala de aula sempre tem alguém que é muito loquaz. O que significa loquaz?",
+      "options": {
+        "A": "Um aluno muito inteligente",
+        "B": "Um aluno dorminhoco",
+        "C": "Um aluno muito falador",
+        "D": "Um aluno feio demais",
+        "E": "Um aluno cabeludo"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-palavras-dificeis/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Se você descobre que, no seu trabalho, está acontecendo uma súcia, você:",
+      "options": {
+        "A": "Fica feliz, pois se trata de uma expansão da empresa.",
+        "B": "Fica triste, pois se trata de uma demissão em massa.",
+        "C": "Fica preocupado, pois se trata de uma reunião de cafajestes e malfeitores.",
+        "D": "Fica ansioso, pois se trata da incorporação da empresa por uma maior.",
+        "E": "Fica desesperado, pois se trata de uma invasão de um tipo de cobra que, apesar de não ser venenosa, pode causar vários transtornos."
+      },
+      "correct": "C",
+      "image": "/images/games/rc-palavras-dificeis/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Você chamou um sujeito de pacóvio. Ele:",
+      "options": {
+        "A": "Ficará feliz, pois você o chamou de bonito, galante.",
+        "B": "Ficará triste, pois você o chamou de tolo/simplório.",
+        "C": "Ficará feliz, pois você o chamou de inteligente.",
+        "D": "Ficará triste, pois você o chamou de molenga, devagar.",
+        "E": "Ficará triste, pois você o chamou de horroroso."
+      },
+      "correct": "B",
+      "image": "/images/games/rc-palavras-dificeis/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Você viu sua mãe prescrutando algo. Ela está fazendo o quê?",
+      "options": {
+        "A": "Escutando atrás da porta.",
+        "B": "Fazendo comida à base de presunto.",
+        "C": "Escrevendo uma carta em papel com desenhos ao fundo.",
+        "D": "Rasgando algo em pequenos pedaços.",
+        "E": "Investigando/procurando algo com atenção."
+      },
+      "correct": "E",
+      "image": "/images/games/rc-palavras-dificeis/quiz-1/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "Capela é um substantivo coletivo de quê?",
+      "options": {
+        "A": "Igrejas",
+        "B": "Velas",
+        "C": "Cruzes",
+        "D": "Mamões",
+        "E": "Macacos"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-palavras-dificeis/quiz-1/q11.jpg"
+    },
+    {
+      "id": "q12",
+      "title": "Se uma saia está plissada, isso quer dizer que ela está:",
+      "options": {
+        "A": "Com pregas (plissê)",
+        "B": "Manchada",
+        "C": "Muito curta",
+        "D": "Rasgada",
+        "E": "Desbotada"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-palavras-dificeis/quiz-1/q12.jpg"
+    },
+    {
+      "id": "q13",
+      "title": "Dizer que quem fez este quiz é um \"chagas\" quer dizer que ele é:",
+      "options": {
+        "A": "Inteligente",
+        "B": "Chato",
+        "C": "Bonito",
+        "D": "Falador",
+        "E": "Professor"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-palavras-dificeis/quiz-1/q13.jpg"
+    },
+    {
+      "id": "q14",
+      "title": "O que significa \"pérfido\"?",
+      "options": {
+        "A": "Generoso",
+        "B": "Traiçoeiro",
+        "C": "Muito barulhento",
+        "D": "Muito rápido",
+        "E": "Muito tímido"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-palavras-dificeis/quiz-1/q14.jpg"
+    },
+    {
+      "id": "q15",
+      "title": "O que é \"idiossincrasia\"?",
+      "options": {
+        "A": "Uma doença contagiosa",
+        "B": "Uma característica ou mania particular de alguém",
+        "C": "Um tipo de planta aquática",
+        "D": "Um instrumento musical antigo",
+        "E": "Um sentimento de raiva intensa"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-palavras-dificeis/quiz-1/q15.jpg"
+    }
+  ]
+}

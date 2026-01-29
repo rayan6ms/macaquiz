@@ -21,6 +21,14 @@ export default function PlayerView(props: {
 }) {
   const { state, myClientId } = props;
   const q = state.question;
+  const optionEntries = q
+    ? Object.entries(q.options).reduce((acc, [key, value]) => {
+        if (typeof value === "string") {
+          acc.push([key as OptionKey, value]);
+        }
+        return acc;
+      }, [] as Array<[OptionKey, string]>)
+    : [];
 
   const me = state.players.find((p) => p.clientId === myClientId);
   const canUnlock =
@@ -43,6 +51,10 @@ export default function PlayerView(props: {
         ? "correct"
         : "wrong"
       : null;
+  const isSparseOptions = optionEntries.length > 0 && optionEntries.length < 5;
+  const optionPaddingClass = isSparseOptions ? "p-5 sm:p-6" : "p-4";
+  const optionLabelClass = isSparseOptions ? "text-base" : "text-sm";
+  const optionTextClass = isSparseOptions ? "text-xl" : "text-lg";
 
   if (state.game && state.phase === "lobby") {
     const isReady = Boolean(me?.ready);
@@ -132,7 +144,7 @@ export default function PlayerView(props: {
         )}
 
         <div className="mt-4 grid gap-3 sm:grid-cols-2">
-          {(Object.keys(q.options) as OptionKey[]).map((k, idx, all) => {
+          {optionEntries.map(([k, value], idx, all) => {
             const correct = state.correctOption === k;
             const myPick = me?.lastAnswer === k;
             const isCenter = all.length === 5 && idx === 2;
@@ -153,7 +165,8 @@ export default function PlayerView(props: {
                   props.onAnswer(k);
                 }}
                 className={[
-                  "w-full rounded-2xl border p-4 text-left transition active:scale-[0.99]",
+                  "w-full rounded-2xl border text-left transition active:scale-[0.99]",
+                  optionPaddingClass,
                   OPTION_STYLES[k],
                   isDisabled ? "opacity-80" : "hover:bg-black/20",
                   showCorrect && correct ? "ring-2 ring-emerald-300" : "",
@@ -161,8 +174,12 @@ export default function PlayerView(props: {
                   isCenter ? "sm:col-span-2 sm:justify-self-center sm:w-[70%]" : "",
                 ].join(" ")}
               >
-                <div className="mb-1 text-sm font-semibold opacity-80">Opção {k}</div>
-                <div className="text-lg leading-snug break-words">{q.options[k]}</div>
+                <div className={["mb-1 font-semibold opacity-80", optionLabelClass].join(" ")}>
+                  Opção {k}
+                </div>
+                <div className={[optionTextClass, "leading-snug break-words"].join(" ")}>
+                  {value}
+                </div>
                 {me?.hasAnswered && myPick && (state.phase === "question" || state.phase === "lockin") && (
                   <div className="mt-2 text-sm font-semibold opacity-80">
                     {canUnlock ? "Confirmado (toque para alterar)" : "Confirmado"}

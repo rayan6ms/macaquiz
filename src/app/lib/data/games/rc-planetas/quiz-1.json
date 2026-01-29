@@ -1,0 +1,160 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - Planetas — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Quais são os planetas externos do nosso Sistema Solar?",
+      "options": {
+        "A": "Urano, Netuno, Plutão e Éris",
+        "B": "Júpiter e Saturno",
+        "C": "Júpiter, Saturno, Urano e Netuno",
+        "D": "Terra, Marte e Júpiter",
+        "E": "Ceres, Éris e Tétis"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-planetas/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Quais planetas possuem anéis?",
+      "options": {
+        "A": "Apenas Saturno",
+        "B": "Saturno e Júpiter",
+        "C": "Urano e Netuno",
+        "D": "Júpiter, Saturno, Urano e Netuno",
+        "E": "Saturno, Urano e Netuno"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-planetas/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Quais são os planetas internos?",
+      "options": {
+        "A": "Vênus, Terra e Marte",
+        "B": "Ceres e Mercúrio",
+        "C": "Mercúrio, Vênus, Terra e Marte",
+        "D": "Júpiter, Marte e Terra",
+        "E": "Mercúrio, Vênus e Terra"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-planetas/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Qual é o maior asteroide do Sistema Solar (também classificado como planeta anão)?",
+      "options": {
+        "A": "Ceres",
+        "B": "Vesta",
+        "C": "Palas",
+        "D": "Hígia",
+        "E": "Plutão"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-planetas/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Em termos de hidrografia e relevo, qual é o planeta mais parecido com a Terra?",
+      "options": {
+        "A": "A Lua",
+        "B": "Marte",
+        "C": "Vênus",
+        "D": "Mercúrio",
+        "E": "Plutão"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-planetas/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Em termos de estrutura e tamanho, qual planeta (ou satélite natural) é mais parecido com a Terra?",
+      "options": {
+        "A": "A Lua",
+        "B": "Europa",
+        "C": "Vênus",
+        "D": "Mercúrio",
+        "E": "Tritão"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-planetas/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Qual planeta (ou planeta anão) é mais parecido com a nossa Lua?",
+      "options": {
+        "A": "Mercúrio",
+        "B": "Vênus",
+        "C": "Marte",
+        "D": "Ceres",
+        "E": "Plutão"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-planetas/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Os planetas externos possuem muito hidrogênio.",
+      "options": {
+        "A": "Verdadeiro",
+        "B": "Falso",
+        "C": "Somente Saturno possui muito hidrogênio",
+        "D": "Somente Urano e Netuno possuem muito hidrogênio"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-planetas/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "O que separa os planetas internos dos externos?",
+      "options": {
+        "A": "O Sol",
+        "B": "O cinturão de asteroides (entre Marte e Júpiter)",
+        "C": "Uma fina camada de gás",
+        "D": "O cinturão de Kuiper",
+        "E": "A camada de ozônio"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-planetas/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Assinale a alternativa INCORRETA:",
+      "options": {
+        "A": "Júpiter tem mais massa do que todos os outros planetas juntos.",
+        "B": "A Terra é o único planeta do Sistema Solar com água líquida estável na superfície.",
+        "C": "Marte tem duas luas: Fobos e Deimos.",
+        "D": "Mercúrio é o planeta mais quente do Sistema Solar."
+      },
+      "correct": "D",
+      "image": "/images/games/rc-planetas/quiz-1/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "Qual planeta tem mais dióxido de carbono (CO₂) na atmosfera?",
+      "options": {
+        "A": "Terra",
+        "B": "Júpiter",
+        "C": "Marte",
+        "D": "Vênus",
+        "E": "Mercúrio"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-planetas/quiz-1/q11.jpg"
+    },
+    {
+      "id": "q12",
+      "title": "Além do hidrogênio e do hélio, Netuno tem o gás CH₄, que contribui para sua coloração azul. O gás CH₄ é chamado de:",
+      "options": {
+        "A": "Amônia",
+        "B": "Metano",
+        "C": "Etano",
+        "D": "Dióxido de carbono",
+        "E": "Ozônio"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-planetas/quiz-1/q12.jpg"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - Idiomas — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Além da Rússia, qual é o país com o maior número de falantes de russo?",
+      "options": {
+        "A": "Cazaquistão",
+        "B": "Bielorrússia",
+        "C": "Moldávia",
+        "D": "Ucrânia",
+        "E": "Uzbequistão"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-idiomas/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Qual destes países não tem o francês como língua oficial?",
+      "options": {
+        "A": "Congo",
+        "B": "Nigéria",
+        "C": "Bélgica",
+        "D": "Costa do Marfim",
+        "E": "Burkina Faso"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-idiomas/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Qual destas línguas tem status oficial em mais de um país?",
+      "options": {
+        "A": "Malaio",
+        "B": "Tagalog",
+        "C": "Japonês",
+        "D": "Polonês",
+        "E": "Tailandês"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-idiomas/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Qual destes idiomas tem menos de cem milhões de falantes (somando nativos e não nativos)?",
+      "options": {
+        "A": "Alemão",
+        "B": "Hindi",
+        "C": "Espanhol",
+        "D": "Árabe",
+        "E": "Italiano"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-idiomas/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Qual destas línguas não é indo-europeia?",
+      "options": {
+        "A": "Persa",
+        "B": "Bengali",
+        "C": "Finlandês",
+        "D": "Urdu",
+        "E": "Punjabi"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-idiomas/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Qual é o país hispanofalante mais populoso?",
+      "options": {
+        "A": "Espanha",
+        "B": "México",
+        "C": "Argentina",
+        "D": "Colômbia",
+        "E": "Peru"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-idiomas/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Depois do inglês, qual é a língua estrangeira mais estudada no mundo?",
+      "options": {
+        "A": "Francês",
+        "B": "Alemão",
+        "C": "Espanhol",
+        "D": "Japonês",
+        "E": "Mandarim"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-idiomas/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "“A Índia é o país com o maior número de falantes de inglês”. Essa afirmação é verdadeira ou falsa?",
+      "options": {
+        "A": "Verdadeiro",
+        "B": "Falso"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-idiomas/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Qual é o país com o maior número de línguas vivas?",
+      "options": {
+        "A": "China",
+        "B": "Índia",
+        "C": "Indonésia",
+        "D": "Papua-Nova Guiné",
+        "E": "África do Sul"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-idiomas/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Línguas mutuamente inteligíveis são aquelas cujos falantes conseguem se entender em grande medida, especialmente nas formas padrão. Quais destas são frequentemente tratadas como variantes padronizadas de uma mesma língua pluricêntrica?",
+      "options": {
+        "A": "Português e espanhol",
+        "B": "Russo e ucraniano",
+        "C": "Sérvio, croata e bósnio",
+        "D": "Holandês e alemão",
+        "E": "Sueco, dinamarquês e norueguês"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-idiomas/quiz-1/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "Além de Brasil e Portugal, em qual país há mais falantes nativos de português?",
+      "options": {
+        "A": "Moçambique",
+        "B": "Timor-Leste",
+        "C": "Angola",
+        "D": "Guiné-Bissau",
+        "E": "São Tomé e Príncipe"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-idiomas/quiz-1/q11.jpg"
+    },
+    {
+      "id": "q12",
+      "title": "Há um país na América do Sul cujo idioma oficial é o holandês. Qual é o nome desse país?",
+      "options": {
+        "A": "Guiana",
+        "B": "Paraguai",
+        "C": "Uruguai",
+        "D": "Venezuela",
+        "E": "Suriname"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-idiomas/quiz-1/q12.jpg"
+    },
+    {
+      "id": "q13",
+      "title": "Qual destas línguas africanas é a mais falada (considerando falantes nativos e de segunda língua)?",
+      "options": {
+        "A": "Suáili",
+        "B": "Zulu",
+        "C": "Iorubá",
+        "D": "Igbo",
+        "E": "Amárico"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-idiomas/quiz-1/q13.jpg"
+    },
+    {
+      "id": "q14",
+      "title": "Qual destes países tem apenas um idioma oficial em âmbito nacional?",
+      "options": {
+        "A": "Finlândia",
+        "B": "Bélgica",
+        "C": "Suíça",
+        "D": "Áustria",
+        "E": "Espanha"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-idiomas/quiz-1/q14.jpg"
+    },
+    {
+      "id": "q15",
+      "title": "Qual é a língua mais falada no mundo (somando falantes nativos e não nativos)?",
+      "options": {
+        "A": "Mandarim",
+        "B": "Árabe",
+        "C": "Espanhol",
+        "D": "Hindi",
+        "E": "Inglês"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-idiomas/quiz-1/q15.jpg"
+    }
+  ]
+}

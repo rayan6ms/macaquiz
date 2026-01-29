@@ -1,0 +1,201 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - Quem Não Pertence — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Todas as alternativas abaixo têm algo em comum, exceto uma. Qual alternativa não pertence a esse grupo?",
+      "options": {
+        "A": "Pinguim",
+        "B": "Coringa",
+        "C": "Charada",
+        "D": "Lex Luthor",
+        "E": "Mulher-Gato"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-quem-nao-pertence/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Todas as alternativas abaixo têm algo em comum, exceto uma. Qual alternativa não pertence a esse grupo?",
+      "options": {
+        "A": "Arara",
+        "B": "Garça",
+        "C": "Onça-pintada",
+        "D": "Garoupa",
+        "E": "Tamanduá-bandeira"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-quem-nao-pertence/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Todas as alternativas abaixo têm algo em comum, exceto uma. Qual alternativa não pertence a esse grupo?",
+      "options": {
+        "A": "Nelson",
+        "B": "Ayrton",
+        "C": "Marcos",
+        "D": "Felipe",
+        "E": "Emerson"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-quem-nao-pertence/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Todas as alternativas abaixo têm algo em comum, exceto uma. Qual alternativa não pertence a esse grupo?",
+      "options": {
+        "A": "Arábia Saudita",
+        "B": "Egito",
+        "C": "Tunísia",
+        "D": "Marrocos",
+        "E": "Angola"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-quem-nao-pertence/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Todas as alternativas abaixo têm algo em comum, exceto uma. Qual alternativa não pertence a esse grupo?",
+      "options": {
+        "A": "Piratas do Caribe",
+        "B": "Presságio",
+        "C": "Alice no País das Maravilhas",
+        "D": "Inimigos Públicos",
+        "E": "O Último Portal"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-quem-nao-pertence/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Todas as alternativas abaixo têm algo em comum, exceto uma. Qual alternativa não pertence a esse grupo?",
+      "options": {
+        "A": "Manny",
+        "B": "Diego",
+        "C": "Ellie",
+        "D": "Sid",
+        "E": "Sullivan"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-quem-nao-pertence/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Todas as alternativas abaixo têm algo em comum, exceto uma. Qual alternativa não pertence a esse grupo?",
+      "options": {
+        "A": "Valdir Peres",
+        "B": "Gilmar",
+        "C": "Taffarel",
+        "D": "Marcos",
+        "E": "Félix"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-quem-nao-pertence/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Todas as alternativas abaixo têm algo em comum, exceto uma. Qual alternativa não pertence a esse grupo?",
+      "options": {
+        "A": "Oslo",
+        "B": "Bruxelas",
+        "C": "Barcelona",
+        "D": "Sófia",
+        "E": "Bucareste"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-quem-nao-pertence/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Todas as alternativas abaixo têm algo em comum, exceto uma. Qual alternativa não pertence a esse grupo?",
+      "options": {
+        "A": "São Caetano",
+        "B": "Bragantino",
+        "C": "Ituano",
+        "D": "Ponte Preta",
+        "E": "Internacional de Limeira"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-quem-nao-pertence/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Todas as alternativas abaixo têm algo em comum, exceto uma. Qual alternativa não pertence a esse grupo?",
+      "options": {
+        "A": "João Batista Figueiredo",
+        "B": "Ulysses Guimarães",
+        "C": "Ernesto Geisel",
+        "D": "Fernando Collor de Mello",
+        "E": "José Sarney"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-quem-nao-pertence/quiz-1/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "Todas as alternativas abaixo têm algo em comum, exceto uma. Qual alternativa não pertence a esse grupo?",
+      "options": {
+        "A": "Freddie Mercury",
+        "B": "Paul McCartney",
+        "C": "John Lennon",
+        "D": "George Harrison",
+        "E": "Ringo Starr"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-quem-nao-pertence/quiz-1/q11.jpg"
+    },
+    {
+      "id": "q12",
+      "title": "Todas as alternativas abaixo têm algo em comum, exceto uma. Qual alternativa não pertence a esse grupo?",
+      "options": {
+        "A": "Rádio",
+        "B": "Tireoide",
+        "C": "Esterno",
+        "D": "Tarso",
+        "E": "Carpo"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-quem-nao-pertence/quiz-1/q12.jpg"
+    },
+    {
+      "id": "q13",
+      "title": "Todas as alternativas abaixo têm algo em comum, exceto uma. Qual alternativa não pertence a esse grupo?",
+      "options": {
+        "A": "Tartaruga",
+        "B": "Jacaré",
+        "C": "Sapo",
+        "D": "Cobra",
+        "E": "Lagarto"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-quem-nao-pertence/quiz-1/q13.jpg"
+    },
+    {
+      "id": "q14",
+      "title": "Todas as alternativas abaixo têm algo em comum, exceto uma. Qual alternativa não pertence a esse grupo?",
+      "options": {
+        "A": "Madeira",
+        "B": "Negro",
+        "C": "Solimões",
+        "D": "Purus",
+        "E": "São Francisco"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-quem-nao-pertence/quiz-1/q14.jpg"
+    },
+    {
+      "id": "q15",
+      "title": "Todas as alternativas abaixo têm algo em comum, exceto uma. Qual alternativa não pertence a esse grupo?",
+      "options": {
+        "A": "Celebridade",
+        "B": "Esperança",
+        "C": "Recomeço",
+        "D": "América",
+        "E": "A Favorita"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-quem-nao-pertence/quiz-1/q15.jpg"
+    }
+  ]
+}

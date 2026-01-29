@@ -1,0 +1,136 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - astronomia — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Qual planeta do nosso Sistema Solar é conhecido como a \"Estrela d'Alva\"?",
+      "options": {
+        "A": "Vênus",
+        "B": "Mercúrio",
+        "C": "Urano",
+        "D": "Netuno",
+        "E": "Saturno"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-astronomia/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Como é chamado o corpo celeste, decorrente de uma explosão de uma supernova, com um intenso campo magnético?",
+      "options": {
+        "A": "Estrela de Nêutrons",
+        "B": "Magnetar",
+        "C": "Anã Branca",
+        "D": "Buraco Negro",
+        "E": "Anã Marrom"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-astronomia/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Qual o nome das duas estrelas mais brilhantes da constelação de Gêmeos?",
+      "options": {
+        "A": "Sírius e Aldebarã",
+        "B": "Saiph e Bellatrix",
+        "C": "Prócion e Altair",
+        "D": "Póllux e Castor",
+        "E": "Antares e Arcturus"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-astronomia/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Qual o nome do centro de um buraco negro de onde a luz é incapaz de sair?",
+      "options": {
+        "A": "Disco de acreção",
+        "B": "Horizonte de Eventos",
+        "C": "Singularidade",
+        "D": "Centro gravitacional",
+        "E": "Espaço tempo"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-astronomia/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Qual o planetóide mais proximo do planeta Terra?",
+      "options": {
+        "A": "Plutão",
+        "B": "Sedna",
+        "C": "Éris",
+        "D": "Hauméia",
+        "E": "Ceres"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-astronomia/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Como se chama o corpo celeste que se tivesse mais um pouco de massa se transformava em uma estrela?",
+      "options": {
+        "A": "Anã verde",
+        "B": "Anã marrom",
+        "C": "Anã cinza",
+        "D": "Anã vermelha",
+        "E": "Anã branca"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-astronomia/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "As estrelas mais quentes do universo tem a coloração...",
+      "options": {
+        "A": "Azul",
+        "B": "Branca",
+        "C": "Laranjada",
+        "D": "Vermelha",
+        "E": "Verde"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-astronomia/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Qual é o nome do buraco negro mais prómixo do planeta Terra?",
+      "options": {
+        "A": "Sagittarius A estrela",
+        "B": "Alpha Centauri",
+        "C": "Phoenix C-44",
+        "D": "Cygnus X-1",
+        "E": "Haley"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-astronomia/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "O nome da famosa foto do telescópio Hubble que conta com milhares de galáxias em sua imagem.",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "null",
+        "D": "null",
+        "E": "Campo Ultra Profundo de Hubble"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-astronomia/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Objeto astronômico bem energético com um núcleo galáctico ativo, que é liberado de um buraco negro.",
+      "options": {
+        "A": "Quasar",
+        "B": "null",
+        "C": "null",
+        "D": "null",
+        "E": "null"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-astronomia/quiz-1/q10.jpg"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "id": "quiz-1",
+  "title": "Extra Medium Stuff - Filmes — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Qual é o nome desse filme?",
+      "options": {
+        "A": "Um Sonho de Liberdade",
+        "B": "À Espera de um Milagre",
+        "C": "Fuga de Alcatraz",
+        "D": "Papillon",
+        "E": "Con Air: A Rota da Fuga"
+      },
+      "correct": "A",
+      "image": "/images/games/exs-filmes/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Que filme envolve um roubo com a habilidade de entrar em sonhos?",
+      "options": {
+        "A": "A Origem",
+        "B": "Matrix",
+        "C": "Interestelar",
+        "D": "Amnésia",
+        "E": "O Prestígio"
+      },
+      "correct": "A",
+      "image": "/images/games/exs-filmes/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "No filme \"Jogos Vorazes\", Katniss Everdeen representa qual distrito?",
+      "options": {
+        "A": "Distrito 1",
+        "B": "Distrito 2",
+        "C": "Distrito 4",
+        "D": "Distrito 12",
+        "E": "Distrito 11"
+      },
+      "correct": "D",
+      "image": "/images/games/exs-filmes/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Qual é o nome desse filme?",
+      "options": {
+        "A": "O Resgate do Soldado Ryan",
+        "B": "Náufrago",
+        "C": "Forrest Gump",
+        "D": "À Espera de um Milagre",
+        "E": "Filadélfia"
+      },
+      "correct": "C",
+      "image": "/images/games/exs-filmes/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Qual foi o filme com maior bilheteria mundial dos anos 90?",
+      "options": {
+        "A": "Jurassic Park",
+        "B": "Titanic",
+        "C": "O Rei Leão",
+        "D": "Independence Day",
+        "E": "Star Wars: Episódio I – A Ameaça Fantasma"
+      },
+      "correct": "B",
+      "image": "/images/games/exs-filmes/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Qual é o nome desse filme?",
+      "options": {
+        "A": "O Jogo da Imitação",
+        "B": "A Teoria de Tudo",
+        "C": "Apollo 13",
+        "D": "Dunkirk",
+        "E": "Oppenheimer"
+      },
+      "correct": "E",
+      "image": "/images/games/exs-filmes/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Em \"Clube da Luta\", o que Tyler Durden vende?",
+      "options": {
+        "A": "Cigarros",
+        "B": "Carros",
+        "C": "Sabão",
+        "D": "Sapatos",
+        "E": "Relógios"
+      },
+      "correct": "C",
+      "image": "/images/games/exs-filmes/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Qual é o nome desse filme?",
+      "options": {
+        "A": "Matrix",
+        "B": "Velozes e Furiosos",
+        "C": "De Volta para o Futuro",
+        "D": "Os Caça-Fantasmas",
+        "E": "Curtindo a Vida Adoidado"
+      },
+      "correct": "C",
+      "image": "/images/games/exs-filmes/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Qual é a frase famosa do filme \"Sociedade dos Poetas Mortos\"?",
+      "options": {
+        "A": "Memento mori",
+        "B": "Ad astra per aspera",
+        "C": "Ars gratia artis",
+        "D": "Carpe diem",
+        "E": "Si vis pacem, para bellum"
+      },
+      "correct": "D",
+      "image": "/images/games/exs-filmes/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Qual é o nome desse personagem?",
+      "options": {
+        "A": "Stanley Ipkiss",
+        "B": "Truman Burbank",
+        "C": "Lloyd Christmas",
+        "D": "Bruce Nolan",
+        "E": "Ace Ventura"
+      },
+      "correct": "E",
+      "image": "/images/games/exs-filmes/quiz-1/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "Qual filme ajudou a popularizar o 3D moderno no cinema comercial?",
+      "options": {
+        "A": "Avatar",
+        "B": "Alice no País das Maravilhas",
+        "C": "Gravidade",
+        "D": "As Aventuras de Pi",
+        "E": "Up: Altas Aventuras"
+      },
+      "correct": "A",
+      "image": "/images/games/exs-filmes/quiz-1/q11.jpg"
+    },
+    {
+      "id": "q12",
+      "title": "Qual é o primeiro nome desse personagem?",
+      "options": {
+        "A": "Decimus",
+        "B": "Meridius",
+        "C": "Maximus",
+        "D": "Commodus",
+        "E": "Marcus"
+      },
+      "correct": "C",
+      "image": "/images/games/exs-filmes/quiz-1/q12.jpg"
+    },
+    {
+      "id": "q13",
+      "title": "Quem é esse personagem do filme \"O Senhor dos Anéis\"?",
+      "options": {
+        "A": "Legolas",
+        "B": "Samwise",
+        "C": "Frodo",
+        "D": "Aragorn",
+        "E": "Bilbo"
+      },
+      "correct": "D",
+      "image": "/images/games/exs-filmes/quiz-1/q13.jpg"
+    },
+    {
+      "id": "q14",
+      "title": "Qual destes filmes ganhou 11 Oscars?",
+      "options": {
+        "A": "Senhor dos Anéis",
+        "B": "O Último Imperador",
+        "C": "O Paciente Inglês",
+        "D": "Amor, Sublime Amor",
+        "E": "La La Land"
+      },
+      "correct": "A",
+      "image": "/images/games/exs-filmes/quiz-1/q14.jpg"
+    },
+    {
+      "id": "q15",
+      "title": "Qual é o nome desse filme?",
+      "options": {
+        "A": "Robôs",
+        "B": "Operação Big Hero",
+        "C": "Toy Story",
+        "D": "Monstros S.A.",
+        "E": "Wall-E"
+      },
+      "correct": "E",
+      "image": "/images/games/exs-filmes/quiz-1/q15.jpg"
+    },
+    {
+      "id": "q16",
+      "title": "Qual filme popularizou o personagem \"Hannibal Lecter\" no cinema?",
+      "options": {
+        "A": "Seven",
+        "B": "O Silêncio dos Inocentes",
+        "C": "Psicose",
+        "D": "Clube da Luta",
+        "E": "O Iluminado"
+      },
+      "correct": "B",
+      "image": "/images/games/exs-filmes/quiz-1/q16.jpg"
+    },
+    {
+      "id": "q17",
+      "title": "Por qual destes filmes Leonardo DiCaprio ganhou seu primeiro Oscar de Melhor Ator?",
+      "options": {
+        "A": "O Lobo de Wall Street",
+        "B": "Titanic",
+        "C": "O Regresso",
+        "D": "Ilha do Medo",
+        "E": "A Origem"
+      },
+      "correct": "C",
+      "image": "/images/games/exs-filmes/quiz-1/q17.jpg"
+    },
+    {
+      "id": "q18",
+      "title": "Qual o filme mais famoso que Wagner Moura atuou?",
+      "options": {
+        "A": "Tropa de Elite",
+        "B": "Narcos",
+        "C": "O Agente Secreto",
+        "D": "Carandiru",
+        "E": "Guerra Civil"
+      },
+      "correct": "A",
+      "image": "/images/games/exs-filmes/quiz-1/q18.jpg"
+    }
+  ]
+}
