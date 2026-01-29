@@ -1,0 +1,201 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - filosofia — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Qual país é considerado o berço da filosofia ocidental?",
+      "options": {
+        "A": "EUA",
+        "B": "Grécia",
+        "C": "Alemanha",
+        "D": "França",
+        "E": "Inglaterra"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-filosofia/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "É considerado o primeiro filósofo ocidental:",
+      "options": {
+        "A": "Sócrates",
+        "B": "Platão",
+        "C": "Tales de Mileto",
+        "D": "Jesus Cristo",
+        "E": "Paulo Coelho"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-filosofia/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "É o autor da célebre frase \"Só sei que nada sei\":",
+      "options": {
+        "A": "Sócrates",
+        "B": "Aristóteles",
+        "C": "Epicuro",
+        "D": "Karl Marx",
+        "E": "Voltaire"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-filosofia/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "São considerados filósofos pré-socráticos:",
+      "options": {
+        "A": "Sócrates, Tales de Mileto e Anaximandro",
+        "B": "Tales de Mileto, Anaximandro e Anaximenes",
+        "C": "Sócrates, Platão e Aristóteles",
+        "D": "Epicuro, Plotino e Cicero",
+        "E": "Diógenes, Alexandre - O Grande, e Hipátia"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-filosofia/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "São considerados os mais importantes filósofos gregos do período helênico:",
+      "options": {
+        "A": "Epicuro, Platão e Aristóteles",
+        "B": "Sócrates, Epicuro e Aristóteles",
+        "C": "Tales de Mileto, Epicuro e Heráclito",
+        "D": "Heráclito, Arquimedes e Protágoras",
+        "E": "Sócrates, Platão e Aristóteles"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-filosofia/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "É considerado o pai do método científico:",
+      "options": {
+        "A": "Descartes",
+        "B": "Aristóteles",
+        "C": "Kant",
+        "D": "Darwin",
+        "E": "Montainge"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-filosofia/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Qual dos filósofos é considerado como primeiro a vislumbrar o problema da historicidade?",
+      "options": {
+        "A": "Karl Marx",
+        "B": "Hegel",
+        "C": "Nietzsche",
+        "D": "Sócrates",
+        "E": "Darwin"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-filosofia/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "\"Deus está morto\" é a célebre frase do filósofo alemão:",
+      "options": {
+        "A": "Karl Marx",
+        "B": "Hegel",
+        "C": "Kant",
+        "D": "Witingestein",
+        "E": "Nietzsche"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-filosofia/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "É considerado o filósofo precursor da corrente filosófica conhecida como existencialismo:",
+      "options": {
+        "A": "Heidegger",
+        "B": "Sartre",
+        "C": "Hannah Arendt",
+        "D": "Kierkegaard",
+        "E": "David Hume"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-filosofia/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "É considerado o pai da psicanálise, teoria que postula que as motivações humanas possuem sua origem num aspecto da mente chamado de inconsciente, intimamente relacionado com experiências da infância:",
+      "options": {
+        "A": "Karl Jasper",
+        "B": "Sigmund Freud",
+        "C": "William Wundt",
+        "D": "Carl Gustav Jung",
+        "E": "Charcot"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-filosofia/quiz-1/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "Filósofo alemão que tratou sobre diversos assuntos, epistemologia, lógica, razão, moral, metafísica, ciência, cuja obra mais conhecida analisa os limites da própria razão:",
+      "options": {
+        "A": "Friedrich Nietzsche",
+        "B": "Hegel",
+        "C": "Heidegger",
+        "D": "Feurbach",
+        "E": "Inmanuel Kant"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-filosofia/quiz-1/q11.jpg"
+    },
+    {
+      "id": "q12",
+      "title": "Polêmico e controverso filósofo alemão que é considerado um dos mais críticos da razão ocidental, moral, ciência e cristianismo:",
+      "options": {
+        "A": "Friedrich Nietzsche",
+        "B": "Friedrich Hegel",
+        "C": "Karl Marx",
+        "D": "Immanuel Kant",
+        "E": "Karl Popper"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-filosofia/quiz-1/q12.jpg"
+    },
+    {
+      "id": "q13",
+      "title": "Considerado os mais importantes críticos e percursores dos estudos sobre o fenômeno do capitalismo ocidental:",
+      "options": {
+        "A": "Marx e Engels",
+        "B": "Hegel e Feurbach",
+        "C": "Rousseau e Voltaire",
+        "D": "John Lock e Thomas Hobbes",
+        "E": "Heidegger e Arendt"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-filosofia/quiz-1/q13.jpg"
+    },
+    {
+      "id": "q14",
+      "title": "O filósofo da ciência cuja obra revolucionou os estudos sobre a a filosofia da ciência, com a introdução de um novo conceito chamado de \"paradigma científico\":",
+      "options": {
+        "A": "Karl Popper",
+        "B": "Thomas Kunh",
+        "C": "Kant",
+        "D": "Freud",
+        "E": "Gaston Bachelard"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-filosofia/quiz-1/q14.jpg"
+    },
+    {
+      "id": "q15",
+      "title": "São considerados os mais importantes expoentes do existencialismo do século XX:",
+      "options": {
+        "A": "Heidegger e Sartre",
+        "B": "Sartre e Freud",
+        "C": "Thomas Kuhn e Karl Popper",
+        "D": "Richard Dawkins e Stephen Howkings",
+        "E": "Karl Jasper e José Saramago"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-filosofia/quiz-1/q15.jpg"
+    }
+  ]
+}

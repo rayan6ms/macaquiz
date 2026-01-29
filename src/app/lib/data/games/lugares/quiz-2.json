@@ -1,0 +1,136 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - maravilhas — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Quais são as 7 maravilhas do mundo moderno?",
+      "options": {
+        "A": "Necrópole de Gizé, Acrópole de Atenas, Angkor Wat, Taj Mahal, Castelo de Neuschwanstein, Estátua da Liberdade, Catedral de São Basílio",
+        "B": "Pirâmides de Gizé, Praça Vermelha, Torre Eiffel, Tombuctu, Sydney Opera House, Stonehenge, Coliseu de Roma.",
+        "C": "Coliseu, Necrópole de Gizé, Grande Muralha da China, Pirâmide de Kukulcán, Machu Picchu, Cristo Redentor, Taj Mahal.",
+        "D": "Acrópole de Atenas, Canal do Panamá, Serengeti, Diques de Marés, Grand Canyon, Galápagos, Monte Everest."
+      },
+      "correct": "C",
+      "image": "/images/games/rc-maravilhas/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Em que ano foi construida a Grande Muralha da China ?",
+      "options": {
+        "A": "789 d.C",
+        "B": "458 a.C",
+        "C": "2 a.C",
+        "D": "8 d.C",
+        "E": "221 a.C"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-maravilhas/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Qual foi o principal motivo da destruição da metade do Coliseu de Roma ?",
+      "options": {
+        "A": "Terremotos",
+        "B": "Por ordem do imperador",
+        "C": "Um monstro",
+        "D": "Meteoros"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-maravilhas/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "O rosto da estátua foi criada pelo escultor romeno Gheorghe Leonida, que nasceu em Galati, na Romênia, em 1893. Essa afirmação é verdadeira ou falsa?",
+      "options": {
+        "A": "V",
+        "B": "F"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-maravilhas/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Qual é a maior mentira contada sobre a Grande Muralha da China ?",
+      "options": {
+        "A": "Existem ossos em sua estrutura",
+        "B": "Quem se atirar de cima dela não morre pois a mesma é sagrada",
+        "C": "Ela pode ser vista do espaço",
+        "D": "O imperador que teve a ideia de construi-lá era homossexual"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-maravilhas/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "O que ficava localizada entre as patas dianteiras da Esfinge, na Necrópole de Gizé?",
+      "options": {
+        "A": "Uma igreja",
+        "B": "Uma capela",
+        "C": "Uma biblioteca",
+        "D": "Um hospital",
+        "E": "Um cemitério"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-maravilhas/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Petra foi utilizado como cenário para os filmes Indiana Jones e a Última Cruzada, Transformers 2 e Mortal Kombat: A Aniquilição. Verdadeiro ou falso?",
+      "options": {
+        "A": "V",
+        "B": "F"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-maravilhas/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Machu Picchu fica situada em que localidade ?",
+      "options": {
+        "A": "Buenos Aires, Argentina",
+        "B": "Belém, Brasil",
+        "C": "Cusco, Peru",
+        "D": "null"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-maravilhas/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "O Templo de Kukulcán foi criado por qual povo ?",
+      "options": {
+        "A": "Portugueses",
+        "B": "Maias itzáes",
+        "C": "Incas",
+        "D": "null"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-maravilhas/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "O imperador Shah Jahan mandou construir um monumento em memória a quem?",
+      "options": {
+        "A": "Sua filha",
+        "B": "Sua cadela",
+        "C": "Sua mulher",
+        "D": "Sua mãe"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-maravilhas/quiz-1/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "Em que ano o Cristo Redentor foi construído?",
+      "options": {
+        "A": "1931",
+        "B": "1857",
+        "C": "1587",
+        "D": "null"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-maravilhas/quiz-1/q11.jpg"
+    }
+  ]
+}

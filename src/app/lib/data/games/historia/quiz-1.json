@@ -1,0 +1,136 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - historia — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "O que é Idade Antiga?",
+      "options": {
+        "A": "Período que inicia-se com a Queda do Império Romano do Ocidente e termina durante a transição para a Idade Moderna.",
+        "B": "Período que se estende desde a invenção da escrita até a Queda do Império Romano do Ocidente",
+        "C": "Período que vai desde a Tomada de Constantinopla até a Revolução Francesa",
+        "D": "Período que se inicia desde a Revolução Francesa até os dias atuais",
+        "E": "Período que se estende desde o Descobrimento do Brasil até a Independência dos Estados Unidos"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-historia/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Em que período ocorreu a invenção da escrita?",
+      "options": {
+        "A": "De 1500 a 1607",
+        "B": "De 1776 a 1822",
+        "C": "De 1950 a 1981",
+        "D": "De 4000 a 3500 a.C.",
+        "E": "De 1816 a 1977"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-historia/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Em que ano ocorreu a Queda do Império Romano?",
+      "options": {
+        "A": "1500 a.C.",
+        "B": "977 a.C.",
+        "C": "476 a.C.",
+        "D": "1776 a.C.",
+        "E": "1822 a.C."
+      },
+      "correct": "C",
+      "image": "/images/games/rc-historia/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Qual é a região onde se localizava o Antigo Egito?",
+      "options": {
+        "A": "Ásia Menor",
+        "B": "China",
+        "C": "Império Romano",
+        "D": "Mesopotâmia",
+        "E": "Nordeste da África"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-historia/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Qual é o rio que cortava o Antigo Egito?",
+      "options": {
+        "A": "Nilo",
+        "B": "Amazonas",
+        "C": "Mississippi",
+        "D": "Sena",
+        "E": "Pó"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-historia/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Entre quais desertos se localiza o Antigo Egito?",
+      "options": {
+        "A": "Do Atacama e da Patagônia",
+        "B": "Do Gobi e do Taklamakan",
+        "C": "Da Síria e da Arábia",
+        "D": "Da Líbia e da Arábia",
+        "E": "Do Saara e do Kalahari"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-historia/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Quais foram as duas vantagens favorecidas pelo Mar Mediterrâneo?",
+      "options": {
+        "A": "Agricultura e pecuária com outros países",
+        "B": "Navegação e comércio com outros povos",
+        "C": "Educação e cultura com outros sábios",
+        "D": "Saúde e etiqueta com outras elites",
+        "E": "Psicologia e comportamento com outros intelectuais"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-historia/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Qual é a segunda via de comunicação depois do Mar Mediterrâneo?",
+      "options": {
+        "A": "Mar de Azov",
+        "B": "Mar Negro",
+        "C": "Mar Cáspio",
+        "D": "Mar Vermelho",
+        "E": "Mar Adriático"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-historia/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "O Rio Nilo é conhecido por ser o berço da civilização:",
+      "options": {
+        "A": "Chinesa",
+        "B": "Egípcia",
+        "C": "Romana",
+        "D": "Grega",
+        "E": "Hindu"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-historia/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Qual foi a principal atividade econômica do Antigo Egito?",
+      "options": {
+        "A": "Comércio",
+        "B": "Indústria",
+        "C": "Cooperativismo",
+        "D": "Agricultura",
+        "E": "Educação"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-historia/quiz-1/q10.jpg"
+    }
+  ]
+}

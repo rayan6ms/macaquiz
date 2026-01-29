@@ -1,0 +1,126 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - abreviacoes — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "O que significa a abreviação \"SQN\"?",
+      "options": {
+        "A": "Só que não",
+        "B": "null",
+        "C": "null",
+        "D": "null"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-abreviacoes/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "O que significa a abreviação \"VDD\"?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "null",
+        "D": "Verdade"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-abreviacoes/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "O que significa a abreviação \"PFV\"?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "null",
+        "D": "Por favor"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-abreviacoes/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "O que significa a abreviação \"PQ\"?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "Por que",
+        "D": "null"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-abreviacoes/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "O que significa a abreviação \"Ñ\"?",
+      "options": {
+        "A": "Não",
+        "B": "null",
+        "C": "null",
+        "D": "null"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-abreviacoes/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "O que significa a abreviação \"PLMDDS\"?",
+      "options": {
+        "A": "null",
+        "B": "Pelo amor de Deus",
+        "C": "null",
+        "D": "null"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-abreviacoes/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "O que significa a abreviação \"SDDS\"?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "null",
+        "D": "Saudades"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-abreviacoes/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "O que significa a abreviação \"VLW\"?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "null",
+        "D": "Valeu"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-abreviacoes/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "O que significa a abreviação \"BJS\"?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "Beijos",
+        "D": "null"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-abreviacoes/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Qual destas NÃO significa risadas?",
+      "options": {
+        "A": "KKKKKKKKK",
+        "B": "Rsrsrsrs",
+        "C": "XOXO",
+        "D": "LOL"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-abreviacoes/quiz-1/q10.jpg"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - psicologia — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Quem foi o criador da Psicanálise?",
+      "options": {
+        "A": "Lacan",
+        "B": "Melanie Klein",
+        "C": "Winnicott",
+        "D": "Freud",
+        "E": "Jung"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-psicologia/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Qual a paciente que Freud aceitou de Breuer e que tinha o mesmo nome da mulher do colega?",
+      "options": {
+        "A": "Alice",
+        "B": "Cecile",
+        "C": "Anna",
+        "D": "Martha",
+        "E": "Melanie"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-psicologia/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Qual o discipulo não judeu de Freud?",
+      "options": {
+        "A": "Goeth",
+        "B": "Breuer",
+        "C": "Jung",
+        "D": "Joseph",
+        "E": "Einstein"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-psicologia/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Quem retardou o nascimento da Psicanálise em 20 anos?",
+      "options": {
+        "A": "Lacan",
+        "B": "Jung",
+        "C": "Breuer",
+        "D": "Charcot",
+        "E": "Hitler"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-psicologia/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Quem ajudou Freud a fugir do cerco nazista?",
+      "options": {
+        "A": "Napoleão Bonaparte",
+        "B": "Martha Freud",
+        "C": "Anna Freud",
+        "D": "Princesa Marie Bonaparte",
+        "E": "Jung"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-psicologia/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Qual o nome do filme que retrata a vida e trajetória cientifica de Freud?",
+      "options": {
+        "A": "O principe das Marés",
+        "B": "O pescador de ilusões",
+        "C": "Freud além da alma",
+        "D": "Freud e Charcot uma nova ciência",
+        "E": "Freud além da vida"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-psicologia/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Qual o pais que não aceitou a Psicanálise?",
+      "options": {
+        "A": "Grecia",
+        "B": "Estados Unidos",
+        "C": "Inglaterra",
+        "D": "França",
+        "E": "Brasil"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-psicologia/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Como Freud dividiu o aparelho psiquico?",
+      "options": {
+        "A": "O eu e o subconsciente",
+        "B": "Ego, id e superego",
+        "C": "Consciencia e inconsciência",
+        "D": "Sonho e Vigilia",
+        "E": "Corpo e mente"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-psicologia/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Freud baseia seus conhecimentos dos sonhos inicialmente em que?",
+      "options": {
+        "A": "Sonhos de seus colegas relatados em discussões cientificas",
+        "B": "Sonhos de seus filhos",
+        "C": "Seus próprios sonhos",
+        "D": "sonhos de seus pacientes",
+        "E": "sonhos relatados em outros livros de analises de sonhos"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-psicologia/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Freud teve séria divergência com qual de seus discipulos?",
+      "options": {
+        "A": "Anna Freud",
+        "B": "Lacan",
+        "C": "Breuer",
+        "D": "Jung",
+        "E": "Charcot"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-psicologia/quiz-1/q10.jpg"
+    }
+  ]
+}

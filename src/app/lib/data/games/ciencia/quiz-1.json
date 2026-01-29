@@ -1,0 +1,133 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - ciencia — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Em 150 A.C., Hiparco inventa uma calculadora de posições astronômicas. Essa invenção é o:",
+      "options": {
+        "A": "Astrolábio",
+        "B": "Sextante",
+        "C": "Ábaco",
+        "D": "Teodolito",
+        "E": "Taumatrópio"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-ciencia/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Nesse ano, John Logie Baird, reconhecido, junto com Philo Farnsworth, como o mais importante pioneiro do desenvolvimento da televisão, fez a primeira transmissão de imagens coloridas. O parágrafo acima refere-se a que ano?",
+      "options": {
+        "A": "1926",
+        "B": "1928",
+        "C": "1930",
+        "D": "1934",
+        "E": "1935"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-ciencia/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Comumente chamado de Hubble, o telescópio espacial, lançado em 1990, foi batizado em homenagem a Edwin Powell Hubble, astrônomo americano responsável pela seguinte descoberta:",
+      "options": {
+        "A": "O princípio que rege o movimento da Lua em torno da Terra é o mesmo que rege o da Terra ao redor do Sol.",
+        "B": "Existem outras galáxias fora da Via Láctea.",
+        "C": "Júpiter é um gigante gasoso.",
+        "D": "O Universo sempre existiu e sempre existirá.",
+        "E": "O Sol terá seu fim com uma supernova."
+      },
+      "correct": "B",
+      "image": "/images/games/rc-ciencia/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Atualmente (janeiro de 2013), cientistas acreditam que a maior parte do Universo (aproximadamente 73%) é constituída de:",
+      "options": {
+        "A": "Matéria escura",
+        "B": "Energia escura",
+        "C": "Átomos",
+        "D": "Luz",
+        "E": "Microondas"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-ciencia/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "As ligações que unem os constituintes dos sólidos, líquidos, gases e plasmas são baseadas em que tipo de força?",
+      "options": {
+        "A": "Nuclear forte",
+        "B": "Nuclear fraca",
+        "C": "Gravitacional",
+        "D": "Eletromagnética",
+        "E": "Centrípeta"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-ciencia/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Quando observamos uma estrela no céu geralmente notamos que ela apresenta um brilho azulado ou avermelhado, em casos especiais elas apresentam uma outra variação de cor. Considerando-se apenas o brilho azul e o vermelho, este efeito pode ser explicado por qual das afirmações abaixo?",
+      "options": {
+        "A": "A cor do brilho é determinado pela velocidade de rotação da estrela.",
+        "B": "A cor vermelha é originária de uma estrela em rotação enquanto a azul é característica de uma estrela sem rotação.",
+        "C": "As estrelas estão se aproximando ou afastando-se de nós.",
+        "D": "A cor do brilho da estrela é determinado pela sua temperatura, quanto mais quente ela for, mais ela desvia seu espectro para o vermelho.",
+        "E": "O azul e o vermelho são apenas confusões da nossa mente, o brilho original de toda estrela é branco e não tem relação alguma com as explicações citadas acima."
+      },
+      "correct": "C",
+      "image": "/images/games/rc-ciencia/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Cientista que modificou a noção da realidade física na primeira metade do século XX, no qual os conceitos de espaço e tempo sofreram uma grande mudança em seu sentido convencional. Quem foi esse cientista?",
+      "options": {
+        "A": "Stephen Hawking",
+        "B": "Albert Einstein",
+        "C": "Louis de Broglie",
+        "D": "Erwin Schrödinger",
+        "E": "Charles Edouard Guillaume"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-ciencia/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "O sentido do giro de um furacão difere entre os hemisférios. No hemisfério norte um furacão gira no sentido anti-horário e no hemisfério sul esse giro ocorre no sentido horário. Verdadeiro ou falso?",
+      "options": {
+        "A": "V",
+        "B": "F"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-ciencia/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Qual dos nomes abaixo não corresponde à um grande físico do século XIX?",
+      "options": {
+        "A": "Pierre Curie",
+        "B": "Franz Ernst Neumann",
+        "C": "Heinrich Hertz",
+        "D": "Michael Faraday",
+        "E": "Alan Heeger"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-ciencia/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "A busca pela união de dois extremos da física atual, a mecânica quântica e a relatividade geral, define o objetivo central da seguinte teoria:",
+      "options": {
+        "A": "Teoria da Grande Unificação (TGU)",
+        "B": "Teoria Geral (TG)",
+        "C": "Teoria de Planck-Einstein (TPE)",
+        "D": "Teoria de Todas as Coisas (TTC)",
+        "E": "Teoria Universal da Física (TUF)"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-ciencia/quiz-1/q10.jpg"
+    }
+  ]
+}

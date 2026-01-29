@@ -1,0 +1,136 @@
+{
+  "id": "quiz-3",
+  "title": "Racha Cuca - universo — Jogo 3",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Qual o maior e o menor planeta do Sistema Solar respectivamente?",
+      "options": {
+        "A": "Plutão e Júpiter",
+        "B": "Júpiter e Vênus",
+        "C": "Vênus e Mercúrio",
+        "D": "Júpiter e Mercúrio",
+        "E": "Plutão e Mercúrio"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-universo/quiz-3/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Quantos planetas, atualmente, tem o Sistema Solar?",
+      "options": {
+        "A": "7 planetas",
+        "B": "8 planetas",
+        "C": "10 planetas",
+        "D": "9 planetas",
+        "E": "6 planetas"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-universo/quiz-3/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Atualmente (início de 2010), quantos satélites tem Saturno?",
+      "options": {
+        "A": "18 satélites",
+        "B": "34 satélites",
+        "C": "61 satélites",
+        "D": "63 satélites",
+        "E": "41 satélites"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-universo/quiz-3/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Qual o nome dos dois satélites de Marte?",
+      "options": {
+        "A": "Fobos e Titã",
+        "B": "Fobos e Deimos",
+        "C": "Ganimedes e Fobos",
+        "D": "Ganimedes e Caronte",
+        "E": "Deimos e Ganimedes"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-universo/quiz-3/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Qual são os dois principais componentes do Sol?",
+      "options": {
+        "A": "Gás Carbônico e Hélio",
+        "B": "Hidrogênio e Oxigênio",
+        "C": "Ferro e Níquel",
+        "D": "Oxigênio e Hélio",
+        "E": "Hidrogênio e Hélio"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-universo/quiz-3/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Qual a temperatura, aproximada, na superfície do Sol?",
+      "options": {
+        "A": "6200 ºC",
+        "B": "5500 ºC",
+        "C": "2100 ºC",
+        "D": "4300 ºC",
+        "E": "930 ºC"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-universo/quiz-3/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Como são chamados os maiores satélites de Júpiter?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "null",
+        "D": "null",
+        "E": "Satélites Galileanos"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-universo/quiz-3/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Complete: O núcleo interno da Terra é formado por ferro e ___ sólidos.",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "null",
+        "D": "null",
+        "E": "Niquel"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-universo/quiz-3/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Qual a fórmula do oxigênio?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "O2",
+        "D": "null",
+        "E": "null"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-universo/quiz-3/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Qual planeta que recentemente foi rebaixado a Planeta Anão?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "null",
+        "D": "null",
+        "E": "Plutão"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-universo/quiz-3/q10.jpg"
+    }
+  ]
+}

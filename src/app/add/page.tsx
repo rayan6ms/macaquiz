@@ -12,6 +12,7 @@ type TopicSummary = {
     id: string;
     title: string;
     questionCount: number;
+    missingImages: number;
   }[];
 };
 
@@ -29,6 +30,8 @@ type ParsedQuiz = {
 };
 
 const steps = ["Tema", "Quiz", "Imagens"];
+const TOPICS_PER_PAGE = 8;
+const QUIZZES_PER_PAGE = 8;
 
 function isJpeg(file: File) {
   if (file.type === "image/jpeg") return true;
@@ -47,6 +50,8 @@ export default function AddPage() {
     id: string;
     isNew: boolean;
   } | null>(null);
+  const [topicsPage, setTopicsPage] = useState(0);
+  const [quizzesPage, setQuizzesPage] = useState(0);
 
   const [quizMode, setQuizMode] = useState<"new" | "existing">("new");
   const [selectedQuizId, setSelectedQuizId] = useState<string | null>(null);
@@ -116,6 +121,14 @@ export default function AddPage() {
   }, [imagePreviews]);
 
   useEffect(() => {
+    setTopicsPage(0);
+  }, [topics.length]);
+
+  useEffect(() => {
+    setQuizzesPage(0);
+  }, [selectedTopic?.id]);
+
+  useEffect(() => {
     return () => {
       previewsRef.current.forEach((url) => URL.revokeObjectURL(url));
     };
@@ -129,6 +142,7 @@ export default function AddPage() {
 
   function selectExistingTopic(topicId: string) {
     setSelectedTopic({ id: topicId, isNew: false });
+    setQuizzesPage(0);
     setSaveSuccess(null);
     setQuizMode("existing");
     setSelectedQuizId(null);
@@ -144,6 +158,7 @@ export default function AddPage() {
   function useNewTopic() {
     if (!topicNameOk || !topicSlugOk || topicDuplicate) return;
     setSelectedTopic({ id: topicSlug, isNew: true });
+    setQuizzesPage(0);
     setSaveSuccess(null);
     setQuizMode("new");
     setSelectedQuizId(null);
@@ -329,6 +344,27 @@ export default function AddPage() {
     ? topics.find((t) => t.id === selectedTopic.id) ?? null
     : null;
 
+  const topicsPageCount = Math.max(
+    1,
+    Math.ceil(topics.length / TOPICS_PER_PAGE)
+  );
+  const topicsPageSafe = Math.min(topicsPage, topicsPageCount - 1);
+  const pagedTopics = topics.slice(
+    topicsPageSafe * TOPICS_PER_PAGE,
+    (topicsPageSafe + 1) * TOPICS_PER_PAGE
+  );
+
+  const quizzes = currentTopic?.quizzes ?? [];
+  const quizzesPageCount = Math.max(
+    1,
+    Math.ceil(quizzes.length / QUIZZES_PER_PAGE)
+  );
+  const quizzesPageSafe = Math.min(quizzesPage, quizzesPageCount - 1);
+  const pagedQuizzes = quizzes.slice(
+    quizzesPageSafe * QUIZZES_PER_PAGE,
+    (quizzesPageSafe + 1) * QUIZZES_PER_PAGE
+  );
+
   return (
     <main className="min-h-screen bg-gradient-to-br from-slate-950 via-indigo-950 to-slate-950 p-4 sm:p-8 text-white">
       <div className="mx-auto w-full max-w-5xl">
@@ -368,7 +404,7 @@ export default function AddPage() {
               mais de 3 caracteres.
             </div>
 
-            <div className="mt-5 grid gap-4 lg:grid-cols-[1.1fr_1fr]">
+            <div className="mt-5 grid gap-4">
               <div className="rounded-2xl border border-white/10 bg-black/30 p-4">
                 <div className="text-sm opacity-70">Novo tema</div>
                 <input
@@ -407,26 +443,68 @@ export default function AddPage() {
                 ) : topicsError ? (
                   <div className="mt-3 text-sm text-rose-200">{topicsError}</div>
                 ) : (
-                  <div className="mt-3 grid gap-2 sm:grid-cols-2">
-                    {topics.map((topic) => (
-                      <button
-                        key={topic.id}
-                        type="button"
-                        onClick={() => selectExistingTopic(topic.id)}
-                        className={[
-                          "rounded-xl border px-3 py-2 text-left text-sm transition",
-                          selectedTopic?.id === topic.id
-                            ? "border-emerald-300/70 bg-emerald-500/20"
-                            : "border-white/10 bg-white/5 hover:border-white/20",
-                        ].join(" ")}
-                      >
-                        <div className="font-semibold">{topic.title}</div>
-                        <div className="text-xs opacity-70">
-                          {topic.quizzes.length} quizzes
+                  <>
+                    <div className="mt-3 grid gap-2 sm:grid-cols-2">
+                      {pagedTopics.map((topic) => {
+                        const missingImages = topic.quizzes.reduce(
+                          (sum, quiz) => sum + quiz.missingImages,
+                          0
+                        );
+                        return (
+                          <button
+                            key={topic.id}
+                            type="button"
+                            onClick={() => selectExistingTopic(topic.id)}
+                            className={[
+                              "rounded-xl border px-3 py-2 text-left text-sm transition",
+                              selectedTopic?.id === topic.id
+                                ? "border-emerald-300/70 bg-emerald-500/20"
+                                : "border-white/10 bg-white/5 hover:border-white/20",
+                            ].join(" ")}
+                          >
+                            <div className="font-semibold">{topic.title}</div>
+                            <div className="text-xs opacity-70">
+                              {topic.quizzes.length} quizzes
+                            </div>
+                            <div className="text-xs opacity-70">
+                              {missingImages === 0
+                                ? "Imagens completas ✅"
+                                : `Imagens faltando: ${missingImages} 🖼️`}
+                            </div>
+                          </button>
+                        );
+                      })}
+                    </div>
+                    {topicsPageCount > 1 && (
+                      <div className="mt-4 flex items-center justify-between text-xs opacity-80">
+                        <button
+                          type="button"
+                          onClick={() =>
+                            setTopicsPage((prev) => Math.max(0, prev - 1))
+                          }
+                          disabled={topicsPageSafe === 0}
+                          className="rounded-lg bg-white/10 px-3 py-1 font-semibold hover:bg-white/20 disabled:opacity-40 transition"
+                        >
+                          ← Anterior
+                        </button>
+                        <div>
+                          Página {topicsPageSafe + 1} de {topicsPageCount}
                         </div>
-                      </button>
-                    ))}
-                  </div>
+                        <button
+                          type="button"
+                          onClick={() =>
+                            setTopicsPage((prev) =>
+                              Math.min(topicsPageCount - 1, prev + 1)
+                            )
+                          }
+                          disabled={topicsPageSafe >= topicsPageCount - 1}
+                          className="rounded-lg bg-white/10 px-3 py-1 font-semibold hover:bg-white/20 disabled:opacity-40 transition"
+                        >
+                          Próxima →
+                        </button>
+                      </div>
+                    )}
+                  </>
                 )}
               </div>
             </div>
@@ -466,7 +544,12 @@ export default function AddPage() {
               Escolha um nome único e carregue o arquivo com as perguntas.
             </div>
 
-            <div className="mt-5 grid gap-4 lg:grid-cols-[1.1fr_1fr]">
+            <div
+              className={[
+                "mt-5 grid gap-4",
+                quizMode === "existing" ? "" : "lg:grid-cols-[1.1fr_1fr]",
+              ].join(" ")}
+            >
               <div className="rounded-2xl border border-white/10 bg-black/30 p-4">
                 <div className="mb-3 flex flex-wrap gap-2">
                   <button
@@ -519,26 +602,64 @@ export default function AddPage() {
                   <>
                     <div className="text-sm opacity-70">Selecione um quiz</div>
                     {currentTopic && currentTopic.quizzes.length > 0 ? (
-                      <div className="mt-3 grid gap-2 sm:grid-cols-2">
-                        {currentTopic.quizzes.map((quiz) => (
-                          <button
-                            key={quiz.id}
-                            type="button"
-                            onClick={() => loadExistingQuiz(quiz.id)}
-                            className={[
-                              "rounded-xl border px-3 py-2 text-left text-sm transition",
-                              selectedQuizId === quiz.id
-                                ? "border-emerald-300/70 bg-emerald-500/20"
-                                : "border-white/10 bg-white/5 hover:border-white/20",
-                            ].join(" ")}
-                          >
-                            <div className="font-semibold">{quiz.title}</div>
-                            <div className="text-xs opacity-70">
-                              {quiz.questionCount} perguntas
+                      <>
+                        <div className="mt-3 grid gap-2 sm:grid-cols-2">
+                          {pagedQuizzes.map((quiz) => {
+                            const imageCount =
+                              quiz.questionCount - quiz.missingImages;
+                            return (
+                              <button
+                                key={quiz.id}
+                                type="button"
+                                onClick={() => loadExistingQuiz(quiz.id)}
+                                className={[
+                                  "rounded-xl border px-3 py-2 text-left text-sm transition",
+                                  selectedQuizId === quiz.id
+                                    ? "border-emerald-300/70 bg-emerald-500/20"
+                                    : "border-white/10 bg-white/5 hover:border-white/20",
+                                ].join(" ")}
+                              >
+                                <div className="font-semibold">{quiz.title}</div>
+                                <div className="text-xs opacity-70">
+                                  {quiz.questionCount} perguntas
+                                </div>
+                                <div className="text-xs opacity-70">
+                                  [{imageCount}/{quiz.questionCount}] imagens
+                                </div>
+                              </button>
+                            );
+                          })}
+                        </div>
+                        {quizzesPageCount > 1 && (
+                          <div className="mt-4 flex items-center justify-between text-xs opacity-80">
+                            <button
+                              type="button"
+                              onClick={() =>
+                                setQuizzesPage((prev) => Math.max(0, prev - 1))
+                              }
+                              disabled={quizzesPageSafe === 0}
+                              className="rounded-lg bg-white/10 px-3 py-1 font-semibold hover:bg-white/20 disabled:opacity-40 transition"
+                            >
+                              ← Anterior
+                            </button>
+                            <div>
+                              Página {quizzesPageSafe + 1} de {quizzesPageCount}
                             </div>
-                          </button>
-                        ))}
-                      </div>
+                            <button
+                              type="button"
+                              onClick={() =>
+                                setQuizzesPage((prev) =>
+                                  Math.min(quizzesPageCount - 1, prev + 1)
+                                )
+                              }
+                              disabled={quizzesPageSafe >= quizzesPageCount - 1}
+                              className="rounded-lg bg-white/10 px-3 py-1 font-semibold hover:bg-white/20 disabled:opacity-40 transition"
+                            >
+                              Próxima →
+                            </button>
+                          </div>
+                        )}
+                      </>
                     ) : (
                       <div className="mt-3 text-sm opacity-70">
                         Nenhum quiz disponível neste tema.
@@ -606,8 +727,47 @@ export default function AddPage() {
                   <div className="mt-2 text-xs text-rose-200">{quizError}</div>
                 )}
               </div>
+              {quizMode !== "existing" && (
+                <div className="rounded-2xl border border-white/10 bg-black/30 p-4">
+                  <div className="text-sm opacity-70">Prévia do JSON</div>
+                  {quizData ? (
+                    <div className="mt-3 space-y-2 text-sm">
+                      <div>
+                        <span className="opacity-70">Título:</span>{" "}
+                        <span className="font-semibold">
+                          {quizData.title ||
+                            quizTitle ||
+                            selectedQuizId ||
+                            quizSlug}
+                        </span>
+                      </div>
+                      <div>
+                        <span className="opacity-70">Perguntas:</span>{" "}
+                        <span className="font-semibold">
+                          {quizData.questions.length}
+                        </span>
+                      </div>
+                    </div>
+                  ) : (
+                    <div className="mt-3 text-sm opacity-70">
+                      Nenhum JSON carregado ainda.
+                    </div>
+                  )}
 
-              <div className="rounded-2xl border border-white/10 bg-black/30 p-4">
+                  {currentTopic && (
+                    <div className="mt-4 text-xs opacity-70">
+                      Tema atual:{" "}
+                      <span className="font-semibold">
+                        {currentTopic.title}
+                      </span>
+                    </div>
+                  )}
+                </div>
+              )}
+            </div>
+
+            {quizMode === "existing" && (
+              <div className="mt-4 rounded-2xl border border-white/10 bg-black/30 p-4">
                 <div className="text-sm opacity-70">Prévia do JSON</div>
                 {quizData ? (
                   <div className="mt-3 space-y-2 text-sm">
@@ -637,7 +797,7 @@ export default function AddPage() {
                   </div>
                 )}
               </div>
-            </div>
+            )}
 
             <div className="mt-6 flex items-center justify-between">
               <button

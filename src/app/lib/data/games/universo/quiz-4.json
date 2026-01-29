@@ -19,11 +19,11 @@
       "id": "q2",
       "title": "Como é chamado o corpo celeste, decorrente de uma explosão de uma supernova, com um intenso campo magnético?",
       "options": {
-        "A": "Estrela de Nêutrons",
+        "A": "Estrela de nêutrons",
         "B": "Magnetar",
-        "C": "Anã Branca",
-        "D": "Buraco Negro",
-        "E": "Anã Marrom"
+        "C": "Anã branca",
+        "D": "Buraco negro",
+        "E": "Anã marrom"
       },
       "correct": "B",
       "image": "/images/games/rc-astronomia/quiz-1/q2.jpg"
@@ -43,20 +43,20 @@
     },
     {
       "id": "q4",
-      "title": "Qual o nome do centro de um buraco negro de onde a luz é incapaz de sair?",
+      "title": "Qual o nome do centro de um buraco negro, de onde a luz é incapaz de sair?",
       "options": {
         "A": "Disco de acreção",
-        "B": "Horizonte de Eventos",
+        "B": "Horizonte de eventos",
         "C": "Singularidade",
         "D": "Centro gravitacional",
-        "E": "Espaço tempo"
+        "E": "Espaço-tempo"
       },
-      "correct": "B",
+      "correct": "C",
       "image": "/images/games/rc-astronomia/quiz-1/q4.jpg"
     },
     {
       "id": "q5",
-      "title": "Qual o planetóide mais proximo do planeta Terra?",
+      "title": "Qual o planetóide mais próximo do planeta Terra?",
       "options": {
         "A": "Plutão",
         "B": "Sedna",
@@ -69,7 +69,7 @@
     },
     {
       "id": "q6",
-      "title": "Como se chama o corpo celeste que se tivesse mais um pouco de massa se transformava em uma estrela?",
+      "title": "Como se chama o corpo celeste que, se tivesse um pouco mais de massa, se transformaria em uma estrela?",
       "options": {
         "A": "Anã verde",
         "B": "Anã marrom",
@@ -82,7 +82,7 @@
     },
     {
       "id": "q7",
-      "title": "As estrelas mais quentes do universo tem a coloração...",
+      "title": "As estrelas mais quentes do universo têm a coloração...",
       "options": {
         "A": "Azul",
         "B": "Branca",
@@ -95,25 +95,25 @@
     },
     {
       "id": "q8",
-      "title": "Qual é o nome do buraco negro mais prómixo do planeta Terra?",
+      "title": "Qual é o nome do buraco negro mais próximo do planeta Terra?",
       "options": {
-        "A": "Sagittarius A estrela",
-        "B": "Alpha Centauri",
-        "C": "Phoenix C-44",
-        "D": "Cygnus X-1",
-        "E": "Haley"
+        "A": "Gaia BH1",
+        "B": "Cygnus X-1",
+        "C": "Gaia BH2",
+        "D": "Sagittarius A*",
+        "E": "V616 Monocerotis (A0620-00)"
       },
-      "correct": "D",
+      "correct": "A",
       "image": "/images/games/rc-astronomia/quiz-1/q8.jpg"
     },
     {
       "id": "q9",
-      "title": "O nome da famosa foto do telescópio Hubble que conta com milhares de galáxias em sua imagem.",
+      "title": "Qual é o nome da famosa foto do telescópio Hubble que conta com milhares de galáxias em sua imagem?",
       "options": {
-        "A": "null",
-        "B": "null",
-        "C": "null",
-        "D": "null",
+        "A": "Campo Profundo de Hubble",
+        "B": "Campo Profundo do Sul (HDF-S)",
+        "C": "Campo Extremamente Profundo do Hubble (XDF)",
+        "D": "Campo Profundo do Chandra",
         "E": "Campo Ultra Profundo de Hubble"
       },
       "correct": "E",
@@ -121,13 +121,13 @@
     },
     {
       "id": "q10",
-      "title": "Objeto astronômico bem energético com um núcleo galáctico ativo, que é liberado de um buraco negro.",
+      "title": "Objeto astronômico muito energético, associado a um núcleo galáctico ativo alimentado por um buraco negro.",
       "options": {
         "A": "Quasar",
-        "B": "null",
-        "C": "null",
-        "D": "null",
-        "E": "null"
+        "B": "Pulsar",
+        "C": "Supernova",
+        "D": "Nebulosa planetária",
+        "E": "Aglomerado globular"
       },
       "correct": "A",
       "image": "/images/games/rc-astronomia/quiz-1/q10.jpg"

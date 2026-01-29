@@ -1,0 +1,136 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - geografia — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Qual é a capital do Acre?",
+      "options": {
+        "A": "Rio Branco",
+        "B": "Amazonia",
+        "C": "Acre",
+        "D": "Rondonia",
+        "E": "Macapá"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-geografia/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Qual desses Países não é Europeu?",
+      "options": {
+        "A": "Macedonia",
+        "B": "Espanha",
+        "C": "Grecia",
+        "D": "Casaquistão",
+        "E": "Polonia"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-geografia/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "O Brasil é de que continente?",
+      "options": {
+        "A": "America do norte",
+        "B": "America do sul",
+        "C": "America central",
+        "D": "Europa",
+        "E": "Asia"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-geografia/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Qual desses não é ilha?",
+      "options": {
+        "A": "Madagasgar",
+        "B": "Indonesia",
+        "C": "Barbados",
+        "D": "Bermudas",
+        "E": "Libia"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-geografia/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Qual a capital da Guatemala?",
+      "options": {
+        "A": "Guatemala",
+        "B": "La paz",
+        "C": "São tome",
+        "D": "Porto pricipe",
+        "E": "Gidade da Guatemala"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-geografia/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Qual desses países não é africano?",
+      "options": {
+        "A": "Egito",
+        "B": "Madagascar",
+        "C": "Arábia Saudita",
+        "D": "Africa do sul",
+        "E": "Ruanda"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-geografia/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Quantos países tem a América? (todas juntas)",
+      "options": {
+        "A": "40",
+        "B": "37",
+        "C": "96",
+        "D": "75",
+        "E": "23"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-geografia/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Qual a base do sistema capitalista?",
+      "options": {
+        "A": "lucro",
+        "B": "null",
+        "C": "null",
+        "D": "null",
+        "E": "null"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-geografia/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Qual a capital do México?",
+      "options": {
+        "A": "Cidade do México",
+        "B": "Espanho",
+        "C": "Del México",
+        "D": "Mexicali",
+        "E": "Tihuana"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-geografia/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Além da Turquia, qual outro país está presente em dois continentes?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "null",
+        "D": "Rússia",
+        "E": "null"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-geografia/quiz-1/q10.jpg"
+    }
+  ]
+}

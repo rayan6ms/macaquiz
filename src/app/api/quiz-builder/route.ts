@@ -12,6 +12,7 @@ type TopicSummary = {
     id: string;
     title: string;
     questionCount: number;
+    missingImages: number;
   }[];
 };
 
@@ -56,8 +57,21 @@ async function readTopics(): Promise<TopicSummary[]> {
       const questionCount = Array.isArray(quizData.questions)
         ? quizData.questions.length
         : 0;
+      let missingImages = 0;
 
-      quizzes.push({ id: quizId, title: quizTitle, questionCount });
+      if (questionCount > 0) {
+        const imageDir = path.join(IMAGE_ROOT, topicId, quizId);
+        for (let idx = 0; idx < questionCount; idx += 1) {
+          const imagePath = path.join(imageDir, `q${idx + 1}.jpg`);
+          try {
+            await fs.access(imagePath);
+          } catch {
+            missingImages += 1;
+          }
+        }
+      }
+
+      quizzes.push({ id: quizId, title: quizTitle, questionCount, missingImages });
     }
 
     topics.push({

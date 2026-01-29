@@ -1,267 +1,136 @@
 {
   "id": "quiz-1",
-  "title": "Conhecimentos gerais (Toda Matéria) — Jogo 1",
-  "source": "https://www.todamateria.com.br/perguntas-e-respostas-de-conhecimentos-gerais/",
+  "title": "Racha Cuca - conhecimentos-gerais — Jogo 1",
   "questions": [
     {
       "id": "q1",
-      "title": "Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?",
+      "title": "Quem foi Ernesto Che Guevara?",
       "options": {
-        "A": "Tem entre 2 a 4 litros. São retirados 450 mililitros",
-        "B": "Tem entre 4 a 6 litros. São retirados 450 mililitros",
-        "C": "Tem 10 litros. São retirados 2 litros",
-        "D": "Tem 7 litros. São retirados 1,5 litros",
-        "E": "Tem 0,5 litros. São retirados 0,5 litros"
+        "A": "Um medico Brasileiro.",
+        "B": "Um jogador de cartas Argentino.",
+        "C": "Um guerrilheiro em Cuba.",
+        "D": "Um cantor Colombiano.",
+        "E": "Um jornalista espanhol."
       },
-      "correct": "B",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q1.jpg"
+      "correct": "C",
+      "image": "/images/games/rc-conhecimentos-gerais/quiz-1/q1.jpg"
     },
     {
       "id": "q2",
-      "title": "De quem é a famosa frase “Penso, logo existo”?",
+      "title": "Onde Ronaldinho Gaucho, o jogador de futebol nasceu?",
       "options": {
-        "A": "Platão",
-        "B": "Galileu Galilei",
-        "C": "Descartes",
-        "D": "Sócrates",
-        "E": "Francis Bacon"
+        "A": "São Paulo.",
+        "B": "Rio de Janeiro.",
+        "C": "Porto Alegre.",
+        "D": "Curitiba.",
+        "E": "Salvador."
       },
       "correct": "C",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q2.jpg"
+      "image": "/images/games/rc-conhecimentos-gerais/quiz-1/q2.jpg"
     },
     {
       "id": "q3",
-      "title": "De onde é a invenção do chuveiro elétrico?",
+      "title": "Quem escreveu Cem Anos de Sooloidão?",
       "options": {
-        "A": "França",
-        "B": "Inglaterra",
-        "C": "Brasil",
-        "D": "Austrália",
-        "E": "Itália"
+        "A": "GAbriel GArcia MArques.",
+        "B": "Raul Pompeu.",
+        "C": "MAchado de Assis.",
+        "D": "Carlos Drumond de Andrade",
+        "E": "James Joyce."
       },
-      "correct": "C",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q3.jpg"
+      "correct": "A",
+      "image": "/images/games/rc-conhecimentos-gerais/quiz-1/q3.jpg"
     },
     {
       "id": "q4",
-      "title": "Quais o menor e o maior país do mundo?",
+      "title": "Quem compôs a canção Imagine?",
       "options": {
-        "A": "Vaticano e Rússia",
-        "B": "Nauru e China",
-        "C": "Mônaco e Canadá",
-        "D": "Malta e Estados Unidos",
-        "E": "São Marino e Índia"
+        "A": "John Lennon, Paul MacArtney, George Harrison e Ringo Starr.",
+        "B": "Paul MacArtney",
+        "C": "George Harrison.",
+        "D": "Ringo Starr.",
+        "E": "John Lennon"
       },
       "correct": "A",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q4.jpg"
+      "image": "/images/games/rc-conhecimentos-gerais/quiz-1/q4.jpg"
     },
     {
       "id": "q5",
-      "title": "Qual o nome do presidente do Brasil que ficou conhecido como Jango?",
+      "title": "como era conhecido o pai do jogador de futebol Edson Arantes do Nascimento.",
       "options": {
-        "A": "Jânio Quadros",
-        "B": "Jacinto Anjos",
-        "C": "Getúlio Vargas",
-        "D": "João Figueiredo",
-        "E": "João Goulart"
+        "A": "Jorginho.",
+        "B": "Dondinho.",
+        "C": "Bondinho.",
+        "D": "Luizinho.",
+        "E": "Mineirinho."
       },
-      "correct": "E",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q5.jpg"
+      "correct": "B",
+      "image": "/images/games/rc-conhecimentos-gerais/quiz-1/q5.jpg"
     },
     {
       "id": "q6",
-      "title": "Qual o grupo em que todas as palavras foram escritas corretamente?",
+      "title": "No universo musical brasileiro, qual cantor e compositor foi batizado como o nome de Luiz Maurício Pragana dos Santos?",
       "options": {
-        "A": "Asterístico, beneficiente, meteorologia, entertido",
-        "B": "Asterisco, beneficente, meteorologia, entretido",
-        "C": "Asterisco, beneficente, metereologia, entretido",
-        "D": "Asterístico, beneficiente, metereologia, entretido",
-        "E": "Asterisco, beneficiente, metereologia, entretido"
+        "A": "Luiz Alves.",
+        "B": "MAuricio Manieri.",
+        "C": "Lulu Santos",
+        "D": "Elimar Santos.",
+        "E": "Luiz Melodia."
       },
-      "correct": "B",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q6.jpg"
+      "correct": "C",
+      "image": "/images/games/rc-conhecimentos-gerais/quiz-1/q6.jpg"
     },
     {
       "id": "q7",
-      "title": "Qual o livro mais vendido no mundo a seguir à Bíblia?",
+      "title": "O atual (maio de 2019) técnico de futebol do Santos Futebol Clube é de qual nação sul americana?",
       "options": {
-        "A": "O Senhor dos Anéis",
-        "B": "Dom Quixote",
-        "C": "O Pequeno Príncipe",
-        "D": "Ela, a Feiticeira",
-        "E": "Um Conto de Duas Cidades"
+        "A": "PAraguai.",
+        "B": "Uruguai.",
+        "C": "Venezuela.",
+        "D": "Argentina.",
+        "E": "Colombia."
       },
-      "correct": "B",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q7.jpg"
+      "correct": "D",
+      "image": "/images/games/rc-conhecimentos-gerais/quiz-1/q7.jpg"
     },
     {
       "id": "q8",
-      "title": "Quantas casas decimais tem o número pi?",
+      "title": "Quais são os atores principais e quem dirigiu o filme Coração Satânico (Angel Heart) de 1987.",
       "options": {
-        "A": "Duas",
-        "B": "Centenas",
-        "C": "Infinitas",
-        "D": "Vinte",
-        "E": "Milhares"
+        "A": "Mickey Rourke e Al Pacino - Atores. Brian de Palma - Diretor.",
+        "B": "Al Pacino e Jack Nicholson - Atores. Francis Ford Copolla - Diretor.",
+        "C": "Mickey Rourke e Robert de Niro - Atores. Alan Parker - Diretor.",
+        "D": "Al Pacino e Robert de Niro - Atores. John Singleton - Diretor.",
+        "E": "Robert de Niro e Jack Nicholson - Atores. James Cameron - Diretor."
       },
       "correct": "C",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q8.jpg"
+      "image": "/images/games/rc-conhecimentos-gerais/quiz-1/q8.jpg"
     },
     {
       "id": "q9",
-      "title": "Atualmente, quantos elementos químicos a tabela periódica possui?",
+      "title": "No ano do ataqu e terrorista as torres gemeas em Nova Iorque, quem era o presidente americano?",
       "options": {
-        "A": "113",
-        "B": "109",
-        "C": "108",
-        "D": "118",
-        "E": "92"
+        "A": "Barack Obama.",
+        "B": "Bill Clinton.",
+        "C": "George W. Bush.",
+        "D": "George Busch.",
+        "E": "Ronald Reagan."
       },
-      "correct": "D",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q9.jpg"
+      "correct": "C",
+      "image": "/images/games/rc-conhecimentos-gerais/quiz-1/q9.jpg"
     },
     {
       "id": "q10",
-      "title": "Quais os países que têm a maior e a menor expectativa de vida do mundo?",
+      "title": "Em 1991, João Bosco lançou o album Zona de Fronteira. Quais foram os lcompositores que estiveram com ele na concepção desse album?",
       "options": {
-        "A": "Japão e Serra Leoa",
-        "B": "Austrália e Afeganistão",
-        "C": "Itália e Chade",
-        "D": "Brasil e Congo",
-        "E": "Estados Unidos e Angola"
+        "A": "Antonio Cicero e Wally Salomão.",
+        "B": "Milton Nascimento e Hermeto Pascoal.",
+        "C": "Roberto Menescal e Chico Batera.",
+        "D": "Ivan Llins e Aldir Blanc.",
+        "E": "Jorge Mautner e Pablo Milanês."
       },
       "correct": "A",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q10.jpg"
-    },
-    {
-      "id": "q11",
-      "title": "O que a palavra legend significa em português?",
-      "options": {
-        "A": "Legenda",
-        "B": "Conto",
-        "C": "História",
-        "D": "Lenda",
-        "E": "Legendário"
-      },
-      "correct": "D",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q11.jpg"
-    },
-    {
-      "id": "q12",
-      "title": "Qual o número mínimo de jogadores em cada time numa partida de futebol?",
-      "options": {
-        "A": "8",
-        "B": "10",
-        "C": "9",
-        "D": "5",
-        "E": "7"
-      },
-      "correct": "E",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q12.jpg"
-    },
-    {
-      "id": "q13",
-      "title": "Quais os principais autores do Barroco no Brasil?",
-      "options": {
-        "A": "Gregório de Matos, Bento Teixeira e Manuel Botelho de Oliveira",
-        "B": "Miguel de Cervantes, Gregório de Matos e Danthe Alighieri",
-        "C": "Padre Antônio Vieira, Padre Manuel de Melo e Gregório de Matos",
-        "D": "Castro Alves, Bento Teixeira e Manuel Botelho de Oliveira",
-        "E": "Álvares de Azevedo, Gregório de Matos e Bento Teixeira"
-      },
-      "correct": "A",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q13.jpg"
-    },
-    {
-      "id": "q14",
-      "title": "Quais as duas datas que são comemoradas em novembro?",
-      "options": {
-        "A": "Independência do Brasil e Dia da Bandeira",
-        "B": "Proclamação da República e Dia Nacional da Consciência Negra",
-        "C": "Dia do Médico e Dia de São Lucas",
-        "D": "Dia de Finados e Dia Nacional do Livro",
-        "E": "Black Friday e Dia da Árvore"
-      },
-      "correct": "B",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q14.jpg"
-    },
-    {
-      "id": "q15",
-      "title": "Quem pintou \"Guernica\"?",
-      "options": {
-        "A": "Paul Cézanne",
-        "B": "Pablo Picasso",
-        "C": "Diego Rivera",
-        "D": "Tarsila do Amaral",
-        "E": "Salvador Dalí"
-      },
-      "correct": "B",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q15.jpg"
-    },
-    {
-      "id": "q16",
-      "title": "Quanto tempo a luz do Sol demora para chegar à Terra?",
-      "options": {
-        "A": "12 minutos",
-        "B": "1 dia",
-        "C": "12 horas",
-        "D": "8 minutos",
-        "E": "12 segundos"
-      },
-      "correct": "D",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q16.jpg"
-    },
-    {
-      "id": "q17",
-      "title": "Qual a tradução da frase “ Fabiano cogió su saco antes de salir ”?",
-      "options": {
-        "A": "Fabiano coseu seu paletó antes de sair",
-        "B": "Fabiano fechou o saco antes de sair",
-        "C": "Fabiano pegou seu paletó antes de sair",
-        "D": "Fabiano cortou o saco antes de cair",
-        "E": "Fabiano rasgou seu paletó antes de cair"
-      },
-      "correct": "C",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q17.jpg"
-    },
-    {
-      "id": "q18",
-      "title": "Qual a nacionalidade de Che Guevara?",
-      "options": {
-        "A": "Cubana",
-        "B": "Peruana",
-        "C": "Panamenha",
-        "D": "Boliviana",
-        "E": "Argentina"
-      },
-      "correct": "E",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q18.jpg"
-    },
-    {
-      "id": "q19",
-      "title": "Quais são os três predadores do reino animal reconhecidos pela habilidade de caçar em grupo, se camuflar para surpreender as presas e possuir sentidos apurados, respectivamente:",
-      "options": {
-        "A": "Tubarão branco, crocodilo e sucuri",
-        "B": "Tigre, gavião e orca",
-        "C": "Hiena, urso branco e lobo cinzento",
-        "D": "Orca, onça e tarântula",
-        "E": "Leão, tubarão branco e urso cinzento"
-      },
-      "correct": "C",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q19.jpg"
-    },
-    {
-      "id": "q20",
-      "title": "Qual a altura da rede de vôlei nos jogos masculino e feminino?",
-      "options": {
-        "A": "2,4 para ambos",
-        "B": "2,5 m e 2,0 m",
-        "C": "1,8 m e 1,5 m",
-        "D": "2,45 m e 2,15 m",
-        "E": "2,43 m e 2,24 m"
-      },
-      "correct": "E",
-      "image": "/images/games/conhecimentos-gerais/quiz-1/q20.jpg"
+      "image": "/images/games/rc-conhecimentos-gerais/quiz-1/q10.jpg"
     }
   ]
 }

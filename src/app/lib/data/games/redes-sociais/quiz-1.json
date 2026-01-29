@@ -1,0 +1,136 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - redes-sociais — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Quem foi o criador do \"Facebook\"?",
+      "options": {
+        "A": "David Karp",
+        "B": "Mark Zuckerberg",
+        "C": "Mike Krieger",
+        "D": "Reid Hoffman",
+        "E": "Steve Chen"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-redes-sociais/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Em que data o \"YouTube\" foi lançado?",
+      "options": {
+        "A": "2000",
+        "B": "1999",
+        "C": "2001",
+        "D": "2005",
+        "E": "2003"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-redes-sociais/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Qual a cor do ícone do \"Instagram\"?",
+      "options": {
+        "A": "Azul",
+        "B": "Amarelo",
+        "C": "Verde",
+        "D": "Roxo",
+        "E": "Colorido"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-redes-sociais/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Qual a rede social que tem como ícone um fantasma?",
+      "options": {
+        "A": "Snapchat",
+        "B": "null",
+        "C": "null",
+        "D": "null",
+        "E": "null"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-redes-sociais/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Qual rede social excluida no ano de 2014?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "null",
+        "D": "null",
+        "E": "Orkut"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-redes-sociais/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Qual das alternativas abaixo não é uma rede social?",
+      "options": {
+        "A": "Google+",
+        "B": "Flickr",
+        "C": "Microsoft Word",
+        "D": "Twitter",
+        "E": "Tumblr"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-redes-sociais/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Qual rede social que tem o uso específico para leitores?",
+      "options": {
+        "A": "Skoob",
+        "B": "Badoo",
+        "C": "Ello",
+        "D": "Formspring",
+        "E": "Waze"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-redes-sociais/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Qual rede social usada para busca de colegas e ex-colegas de profissão?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "LinkedIn",
+        "D": "null",
+        "E": "null"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-redes-sociais/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Qual a maior rede social do mundo, com os seus mais de 1,5 bilhão de usuários ativos?",
+      "options": {
+        "A": "Tinder",
+        "B": "Facebook",
+        "C": "WhatsApp",
+        "D": "MySpace",
+        "E": "Twitter"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-redes-sociais/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Qual a rede social representada por um telefone no seu ícone?",
+      "options": {
+        "A": "WhatsApp",
+        "B": "null",
+        "C": "null",
+        "D": "null",
+        "E": "null"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-redes-sociais/quiz-1/q10.jpg"
+    }
+  ]
+}

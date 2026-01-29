@@ -1,0 +1,123 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - super-herois — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Onde o Super-Homem cresceu?",
+      "options": {
+        "A": "Metropolis",
+        "B": "National City",
+        "C": "Smallville (Pequenópolis)",
+        "D": "Central City",
+        "E": "Kripton"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-super-herois/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Qual o melhor amigo de Barry Allen, o flash?",
+      "options": {
+        "A": "Cisco Ramón",
+        "B": "Joe West",
+        "C": "Harrison Wheels",
+        "D": "Caitlin Snow",
+        "E": "Iris West"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-super-herois/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Qual era a melhor amiga do Super-Homem em sua juventude?",
+      "options": {
+        "A": "Lana Lang",
+        "B": "Marta Kent",
+        "C": "Tess Mercer",
+        "D": "Lois lane",
+        "E": "Chloe Sullivan"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-super-herois/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Qual dos seguintes cientistas faz parte do universo da DC Comics?",
+      "options": {
+        "A": "Tony Stark",
+        "B": "Emilton Hamilton",
+        "C": "Emil Hamilton",
+        "D": "Bruce Banner",
+        "E": "Reed Richards"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-super-herois/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Qual o verdadeiro nome do último sobrevivente de Marte, membro da Liga da Justiça?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "John Jones",
+        "D": "null",
+        "E": "null"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-super-herois/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Qual o outro nome dado ao super-herói também conhecido como Kal-Kent?",
+      "options": {
+        "A": "Superboy",
+        "B": "Superman Prime",
+        "C": "Superboy Prime",
+        "D": "Superman Prime 1 million",
+        "E": "Superman"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-super-herois/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Como Galactus, o devorador de mundos, quase venceu Thanos em uma batalha nos quadrinhos?",
+      "options": {
+        "A": "O congelando ao 0 absoluto",
+        "B": "Entrando em sua mente",
+        "C": "Destruindo suas gemas do poder",
+        "D": "O jogando em um buraco negro",
+        "E": "O prendendo em outra dimensão"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-super-herois/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Qual a fraqueza do Caçador Marciano?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "Fogo",
+        "D": "null",
+        "E": "null"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-super-herois/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "A qual figura Bíblica mais se assemelha Superman?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "null",
+        "D": "null",
+        "E": "Jesus"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-super-herois/quiz-1/q9.jpg"
+    }
+  ]
+}

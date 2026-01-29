@@ -1,0 +1,136 @@
+{
+  "id": "quiz-2",
+  "title": "Racha Cuca - universo — Jogo 2",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Qual é a estrela mais brilhante do céu?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "null",
+        "D": "null",
+        "E": "Sírius"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-universo/quiz-2/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Júpiter, Saturno, Urano e Netuno são planetas:",
+      "options": {
+        "A": "Rochosos.",
+        "B": "Anões.",
+        "C": "Gasosos.",
+        "D": "Menores do que a Terra.",
+        "E": "Que não possuem satélites naturais."
+      },
+      "correct": "C",
+      "image": "/images/games/rc-universo/quiz-2/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "O cometa Halley é visto da Terra de quando em quanto tempo?",
+      "options": {
+        "A": "105 anos",
+        "B": "22 anos",
+        "C": "87 anos",
+        "D": "15 anos",
+        "E": "76 anos"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-universo/quiz-2/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Os buracos negros \"morrem\"?",
+      "options": {
+        "A": "Sim, os buracos negros se contraem até uma hora em que desaparecem(mas isso demora milhões de anos).",
+        "B": "Não, os buracos negros nunca desaparecem, por isso são considerados \"prisões eternas\".",
+        "C": "Foram realizados estudos mas nenhum comprovou totalmente essa teoria.",
+        "D": "Isso nunca despertou o interesse dos astrônomos, então não existem estudos com dados que digam que sim ou que não.",
+        "E": "É possível, mas não muito provável."
+      },
+      "correct": "A",
+      "image": "/images/games/rc-universo/quiz-2/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Qual é o nome do lugar onde \"nascem\" as estrelas?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "null",
+        "D": "null",
+        "E": "nebulosa"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-universo/quiz-2/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Qual é o maior planeta do Sistema-Solar?",
+      "options": {
+        "A": "Urano",
+        "B": "Júpiter",
+        "C": "Terra",
+        "D": "Saturno",
+        "E": "Marte"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-universo/quiz-2/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Como são classificados os planetas que não orbitam o Sol?",
+      "options": {
+        "A": "Astros que orbitam outras estrela não são considerados planetas.",
+        "B": "Extraplanetas",
+        "C": "Planetas externos",
+        "D": "Exoplanetas",
+        "E": "Planetas"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-universo/quiz-2/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Qual é a estrela mais próxima do Sol?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "null",
+        "D": "Próxima do Centauro",
+        "E": "null"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-universo/quiz-2/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "O que são radiotelescópios?",
+      "options": {
+        "A": "Capta as ondas sonoras emitidas por algumas estrelas.",
+        "B": "Capta ondas de rádio.",
+        "C": "Funciona como um telescópio que emite ondas infravermelhas.",
+        "D": "Recebe imagens dos telescópios espacias.",
+        "E": "É um tipo de comunicador de longa distância."
+      },
+      "correct": "A",
+      "image": "/images/games/rc-universo/quiz-2/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Qual é o nome do astrônomo, matemático, físco, entre outros, que defendeu a ideia de que a Terra era redonda e que girava em torno do Sol?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "null",
+        "D": "Galileu Galilei",
+        "E": "null"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-universo/quiz-2/q10.jpg"
+    }
+  ]
+}

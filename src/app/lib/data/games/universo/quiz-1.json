@@ -1,0 +1,133 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - universo — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Quem foi o primeiro homem a ir até o espaço? E em que ano? E em que nave?",
+      "options": {
+        "A": "Nicolau Copérnico; em 1969; na nave Apollo 11.",
+        "B": "Neil Armstrong; em 1961; na nave Apollo 11.",
+        "C": "Iúri Gargárin; em 1969; na nave Vostok 1.",
+        "D": "Iúri Gargárin; em 1961; na nave Vostok 1.",
+        "E": "Neil Armstrong; em 1969; na nave Vostok 1."
+      },
+      "correct": "D",
+      "image": "/images/games/rc-universo/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Qual o nome da estrela que indica o \"pé\" da constelação do Cruzeiro do Sul?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "Alfa",
+        "D": "null",
+        "E": "null"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-universo/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Qual é o maior satélite do Sistema Solar?",
+      "options": {
+        "A": "Ganimedes",
+        "B": "null",
+        "C": "null",
+        "D": "null",
+        "E": "null"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-universo/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "A faixa de asteróides está situada entre as órbitas de quais planetas?",
+      "options": {
+        "A": "Marte e Júpiter",
+        "B": "Mercúrio e Vênus",
+        "C": "Terra e Marte",
+        "D": "Júpiter e Saturno",
+        "E": "Urano e Saturno"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-universo/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "O tempo de rotação da Lua é o mesmo tempo do de translação. Sabendo disso, em quantos dias ela dá uma volta ao redor da Terra?",
+      "options": {
+        "A": "null",
+        "B": "27",
+        "C": "null",
+        "D": "null",
+        "E": "null"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-universo/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Plutão, agora, é considerado um planeta anão, juntamente com dois planetas anões. Quais os nomes desses planetas anões?",
+      "options": {
+        "A": "Beta e Alfa",
+        "B": "Ceres e Sedna",
+        "C": "Epsilon e mimosa",
+        "D": "Deimos e titã",
+        "E": "Ceres e titã"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-universo/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Qual é o nome da maior estrela já descoberta até hoje?",
+      "options": {
+        "A": "null",
+        "B": "Alfa Centauri",
+        "C": "null",
+        "D": "null",
+        "E": "null"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-universo/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "O Sol está localizado a quantos milhões de quilômetros da terra?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "150",
+        "D": "null",
+        "E": "null"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-universo/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Qual é a velocidade da luz?",
+      "options": {
+        "A": "300 km/s",
+        "B": "300000 km/s",
+        "C": "300 km/h",
+        "D": "300000 km/h",
+        "E": "300000 m/s"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-universo/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Os únicos planetas que não possuem satélites são Mercúrio e Vênus. Essa afirmação é verdadeira ou falsa?",
+      "options": {
+        "A": "V",
+        "B": "F"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-universo/quiz-1/q10.jpg"
+    }
+  ]
+}

@@ -66,5 +66,5 @@ export type PublicState = {
 
   players: PublicPlayer[];
   answersCount: number;
-  playersCount: number; // connected players
+  playersCount: number; // players in match (includes disconnected during questions)
 };

@@ -88,6 +88,9 @@ function allConnectedPlayersReady() {
 }
 
 function playersWhoMustAnswerCount() {
+  if (STATE.phase === "question" || STATE.phase === "lockin") {
+    return Object.keys(STATE.players).length;
+  }
   return connectedPlayers().length;
 }
 

@@ -1,0 +1,136 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - deuses — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Qual foi o deus egípcio que matou Osíris?",
+      "options": {
+        "A": "Set",
+        "B": "Hórus",
+        "C": "Hathor",
+        "D": "Thot",
+        "E": "Anúbis"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-deuses/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Quem é a deusa devoradora dos pecodors reijatados durante a passagem dos mortos?",
+      "options": {
+        "A": "Osíris",
+        "B": "Anúbis",
+        "C": "Thot",
+        "D": "Hórus",
+        "E": "Amnut"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-deuses/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Quem é a deusa com forma de gato, que é ligada fertilidade?",
+      "options": {
+        "A": "Nut",
+        "B": "Hathor",
+        "C": "Bastet",
+        "D": "Ísis",
+        "E": "Nephthys"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-deuses/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Qual deus os egípcios acreditam o rei (que é o faraó) ser encarnado",
+      "options": {
+        "A": "Hórus",
+        "B": "Rá-Atut",
+        "C": "Anúbis",
+        "D": "Osíris",
+        "E": "Nenhum deles"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-deuses/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Qual é o deus escriba e da sabedoria, em forma de íbis?",
+      "options": {
+        "A": "Hórus",
+        "B": "Osíris",
+        "C": "Set",
+        "D": "Thot",
+        "E": "Não existia nenhum deus escriba ou da sabedoria"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-deuses/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Quais animais era misturado Amnut",
+      "options": {
+        "A": "Crocodilo, falcão e escorpião",
+        "B": "Leão, cobra naja e gato",
+        "C": "Hipopótamo, chacal e humano",
+        "D": "Falcão, cobra naja e chacal",
+        "E": "Crocodilo, leão e hipopótamo"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-deuses/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "O que Thot trouxe pro Egito?",
+      "options": {
+        "A": "Hieróglifos",
+        "B": "Escribas",
+        "C": "O primeiro faraó",
+        "D": "As terras",
+        "E": "Nada"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-deuses/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Qual é o deus protetor das famílias e do faraó?",
+      "options": {
+        "A": "Thot",
+        "B": "Anúbis",
+        "C": "Hórus",
+        "D": "Set",
+        "E": "Não existe"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-deuses/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Quem foi Osíris?",
+      "options": {
+        "A": "Rei do mundo dos mortos",
+        "B": "Escriba do deuses",
+        "C": "Deusa devoradora dos pecadores",
+        "D": "Irmão invejoso",
+        "E": "Nada"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-deuses/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Qual deles é da mitologia egípcia?",
+      "options": {
+        "A": "Posêidon",
+        "B": "Kinich-Ahau",
+        "C": "Zeus",
+        "D": "Tohil",
+        "E": "Wadjet"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-deuses/quiz-1/q10.jpg"
+    }
+  ]
+}

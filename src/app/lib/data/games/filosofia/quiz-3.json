@@ -1,0 +1,136 @@
+{
+  "id": "quiz-3",
+  "title": "Racha Cuca - filosofia — Jogo 3",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "O que significa a palavra \"filosofia\"?",
+      "options": {
+        "A": "Amor à edudação",
+        "B": "Amizade à educação",
+        "C": "Amor à pesquisa",
+        "D": "Amizade à sabedoria",
+        "E": "Amizade à ciência"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-filosofia/quiz-3/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Qual o filósofo grego escreveu o livro \"A república\"?",
+      "options": {
+        "A": "Sócrates",
+        "B": "Galileu",
+        "C": "Agostinho",
+        "D": "Aristóteles",
+        "E": "Platão"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-filosofia/quiz-3/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Qual filósofo foi professor de Alexandre, o Grande?",
+      "options": {
+        "A": "Sócrates",
+        "B": "Aristóteles",
+        "C": "Platão",
+        "D": "Tomás de Aquino",
+        "E": "Pitágoras"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-filosofia/quiz-3/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Qual filósofo escreveu a obra \"Confissões\"?",
+      "options": {
+        "A": "Platão",
+        "B": "Tomás de Aquino",
+        "C": "Santo Agostinho de Hipona",
+        "D": "Santo Ambrósio",
+        "E": "Cícero"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-filosofia/quiz-3/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Qual filósofo da Modernidade defendeu a tese do \"cogito ergo sum\" (penso, logo existo)?",
+      "options": {
+        "A": "Descartes",
+        "B": "Kant",
+        "C": "Hegel",
+        "D": "Marx",
+        "E": "Sêneca"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-filosofia/quiz-3/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Qual dos filósofos abaixo não pertence ao contratualismo moderno?",
+      "options": {
+        "A": "Hobbes",
+        "B": "Hegel",
+        "C": "Locke",
+        "D": "Kant",
+        "E": "Rousseau"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-filosofia/quiz-3/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Em que ano o filósofo Immanuel Kant publicou sua obra \"À paz perpétua\"?",
+      "options": {
+        "A": "1795",
+        "B": "1801",
+        "C": "1789",
+        "D": "1804",
+        "E": "1785"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-filosofia/quiz-3/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Qual destes filósofos teorizou o \"direito cosmopolita\"?",
+      "options": {
+        "A": "Hegel",
+        "B": "Nietzsche",
+        "C": "Adorno",
+        "D": "Kant",
+        "E": "Leibniz"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-filosofia/quiz-3/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Qual destes filósofos é conhecido como um dos expoentes da Ética do Discurso?",
+      "options": {
+        "A": "Hegel",
+        "B": "Karl Marx",
+        "C": "Wittgenstein",
+        "D": "Agamben",
+        "E": "Habermas"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-filosofia/quiz-3/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Qual filósofo abaixo é autor das obras \"Uma teoria da justiça\" e \"O direito dos povos\"?",
+      "options": {
+        "A": "Karl Marx",
+        "B": "Immanuel Kant",
+        "C": "John Rawls",
+        "D": "Michael Sandel",
+        "E": "Ronald Dworkin"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-filosofia/quiz-3/q10.jpg"
+    }
+  ]
+}

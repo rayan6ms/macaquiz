@@ -1,0 +1,175 @@
+{
+  "id": "quiz-1",
+  "title": "Racha Cuca - ingles — Jogo 1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Qual a alternativa que responde a seguinte pergunta: How old are you?",
+      "options": {
+        "A": "I have sixteen years old",
+        "B": "My name is Peter",
+        "C": "Yes, I'm eighteen",
+        "D": "I'm twenty years old",
+        "E": "I have twenty years old"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-ingles/quiz-1/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Qual o plural de \"batata\"?",
+      "options": {
+        "A": "Tomatos",
+        "B": "Potatos",
+        "C": "Apples",
+        "D": "Potatoes",
+        "E": "Tomatoes"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-ingles/quiz-1/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Qual a diferença entre \"good evening\" e \"good night\"?",
+      "options": {
+        "A": "Não há diferença.",
+        "B": "Good evening é usado antes das 6 da noite e good night é usado depois desse horário.",
+        "C": "Good evening é usado quando se chega à um local para o cumprimento, e good night é usado para se despedir, sendo os dois utilizados após as 6 da noite.",
+        "D": "Eles significam a mesma coisa.",
+        "E": "Nenhuma das anteriores."
+      },
+      "correct": "C",
+      "image": "/images/games/rc-ingles/quiz-1/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Qual a resposta da pergunta: Do you like ice-cream?",
+      "options": {
+        "A": "Yes, I don't like",
+        "B": "No, I like",
+        "C": "Yes, I like OU Yes, I do",
+        "D": "Yes, I liked ice-cream",
+        "E": "Nenhuma das alternativas anteriores"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-ingles/quiz-1/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "Qual a tradução de fish, horse, cow, cat, dog, bird e bear, respectivamente?",
+      "options": {
+        "A": "Peixe, vaca, cavalo, gato, cachorro, pássaro e urso",
+        "B": "Peixe, cavalo, pássaro, vaca, gato, cachorro e urso",
+        "C": "Peixe, cavalo, vaca, cachorro, gato, pássaro e urso",
+        "D": "Peixe, cavalo, vaca, gato, cachorro, pássaro e urso",
+        "E": "Cavalo, peixe, urso, pássaro, cachorro, gato e vaca"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-ingles/quiz-1/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "O que significa a sigla inglesa SOS?",
+      "options": {
+        "A": "Save our songs",
+        "B": "Save out souls",
+        "C": "Safe out songs",
+        "D": "Save our souls",
+        "E": "Saver out souls"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-ingles/quiz-1/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Nos caixões de língua inglesa, vêm escrito as letras RIP. O que elas querem dizer?",
+      "options": {
+        "A": "Rest in piece",
+        "B": "Rest in peace",
+        "C": "Restart in planet",
+        "D": "Resolve intelligence plant",
+        "E": "Rest in plant"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-ingles/quiz-1/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Como se diz 33 em inglês?",
+      "options": {
+        "A": "Twelve three",
+        "B": "Twenty three",
+        "C": "Thirty-three",
+        "D": "Forty three",
+        "E": "Three three"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-ingles/quiz-1/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Como se diz ''borracha'' em inglês?",
+      "options": {
+        "A": "Ruler",
+        "B": "Eraser",
+        "C": "Knife",
+        "D": "Borracha",
+        "E": "Watermelon"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-ingles/quiz-1/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Como se pergunta ''posso entrar?''",
+      "options": {
+        "A": "Can I came in?",
+        "B": "Can I come in?",
+        "C": "May I came in?",
+        "D": "May I come in?",
+        "E": "Can I to enter?"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-ingles/quiz-1/q10.jpg"
+    },
+    {
+      "id": "q11",
+      "title": "Qual a tradução mais correta de Backstreet Boys?",
+      "options": {
+        "A": "Garotos de volta à estrada",
+        "B": "Garotos voltam à rua",
+        "C": "Garotos voltaram à estrada",
+        "D": "Garotos da rua de trás",
+        "E": "Todas estão corretas"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-ingles/quiz-1/q11.jpg"
+    },
+    {
+      "id": "q12",
+      "title": "Qual a pergunta correta à resposta: \"Sim, existe uma lanchonete nesta rua\"?",
+      "options": {
+        "A": "Is there a snack bar on this street?",
+        "B": "Are there a bar in this street?",
+        "C": "Do are a snack bar on this street?",
+        "D": "There is a snack bar on this street?",
+        "E": "Nenhuma está correta"
+      },
+      "correct": "A",
+      "image": "/images/games/rc-ingles/quiz-1/q12.jpg"
+    },
+    {
+      "id": "q13",
+      "title": "O que Supernatural quer dizer em português?",
+      "options": {
+        "A": "Algo super-natural",
+        "B": "Algo sobrenatural",
+        "C": "Algo muito natural",
+        "D": "Algo muito incomum",
+        "E": "Nenhuma está correta"
+      },
+      "correct": "B",
+      "image": "/images/games/rc-ingles/quiz-1/q13.jpg"
+    }
+  ]
+}

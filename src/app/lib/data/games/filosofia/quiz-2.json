@@ -1,0 +1,136 @@
+{
+  "id": "quiz-2",
+  "title": "Racha Cuca - filosofia — Jogo 2",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "A frase \"penso, logo existo\" foi dita por quem?",
+      "options": {
+        "A": "Platão",
+        "B": "Aristóteles",
+        "C": "René Descartes",
+        "D": "Sócrates",
+        "E": "Confúcio"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-filosofia/quiz-2/q1.jpg"
+    },
+    {
+      "id": "q2",
+      "title": "Qual pensador iluminista fez a obra \"o homem de quarenta escudos\"?",
+      "options": {
+        "A": "John Locke",
+        "B": "Jean-Jacques Rousseau",
+        "C": "John Wilkes",
+        "D": "Voltaire",
+        "E": "James Boswell"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-filosofia/quiz-2/q2.jpg"
+    },
+    {
+      "id": "q3",
+      "title": "Qual das alternativas abaixo apresenta apenas filósofos gregos?",
+      "options": {
+        "A": "Voltaire, John Wilkes, Platão e Sócrates.",
+        "B": "Platão, Aristóteles, Sócrates e Epicuro.",
+        "C": "Descartes, Aristóteles, Rousseau e Platão.",
+        "D": "Montesquieu, Sócrates, James Boswell e Aristóteles.",
+        "E": "Rousseau, Montesquieu, John Locke e Descartes."
+      },
+      "correct": "B",
+      "image": "/images/games/rc-filosofia/quiz-2/q3.jpg"
+    },
+    {
+      "id": "q4",
+      "title": "Charles Montesquieu é um filosofo muito famoso, com qual teoria ele ficou famoso?",
+      "options": {
+        "A": "Separação dos poderes.",
+        "B": "Intolerância religiosa.",
+        "C": "Liberdade religiosa e liberdade civil.",
+        "D": "Romantismo.",
+        "E": "Comtemporâneos."
+      },
+      "correct": "A",
+      "image": "/images/games/rc-filosofia/quiz-2/q4.jpg"
+    },
+    {
+      "id": "q5",
+      "title": "René Descartes nasceu no(a):",
+      "options": {
+        "A": "Brasil",
+        "B": "Estados Unidos",
+        "C": "México",
+        "D": "Argentina",
+        "E": "França"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-filosofia/quiz-2/q5.jpg"
+    },
+    {
+      "id": "q6",
+      "title": "Em qual país Voltaire nasceu?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "null",
+        "D": "null",
+        "E": "França"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-filosofia/quiz-2/q6.jpg"
+    },
+    {
+      "id": "q7",
+      "title": "Em qual país Rousseau nasceu?",
+      "options": {
+        "A": "null",
+        "B": "null",
+        "C": "null",
+        "D": "Suíça",
+        "E": "null"
+      },
+      "correct": "D",
+      "image": "/images/games/rc-filosofia/quiz-2/q7.jpg"
+    },
+    {
+      "id": "q8",
+      "title": "Complete: Rousseau foi um filósofo ___.",
+      "options": {
+        "A": "Crítico",
+        "B": "Liberalista",
+        "C": "Romântico",
+        "D": "Político",
+        "E": "Comtemporâneo"
+      },
+      "correct": "C",
+      "image": "/images/games/rc-filosofia/quiz-2/q8.jpg"
+    },
+    {
+      "id": "q9",
+      "title": "Qual filósofo grego disse \"só sei que nada sei\"?",
+      "options": {
+        "A": "Epicuro",
+        "B": "Confúcio",
+        "C": "Platão",
+        "D": "Aristóteles",
+        "E": "Sócrates"
+      },
+      "correct": "E",
+      "image": "/images/games/rc-filosofia/quiz-2/q9.jpg"
+    },
+    {
+      "id": "q10",
+      "title": "Qual alternativa abaixo apresenta uma frase de Platão?",
+      "options": {
+        "A": "\"A paz do coração é o paraíso dos homens.\"",
+        "B": "\"Só sei que nada sei.\"",
+        "C": "\"Penso, logo existo.\"",
+        "D": "\"É preciso saber viver.\"",
+        "E": "\"Seja fiel nas suas pequenas coisas porque é nelas que mora sua força.\""
+      },
+      "correct": "A",
+      "image": "/images/games/rc-filosofia/quiz-2/q10.jpg"
+    }
+  ]
+}
