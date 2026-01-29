@@ -4,7 +4,7 @@
   "questions": [
     {
       "id": "q1",
-      "title": "Qual o maior e o menor planeta do Sistema Solar respectivamente?",
+      "title": "Qual o maior e o menor planeta do Sistema Solar, respectivamente?",
       "options": {
         "A": "Plutão e Júpiter",
         "B": "Júpiter e Vênus",
@@ -13,7 +13,7 @@
         "E": "Plutão e Mercúrio"
       },
       "correct": "D",
-      "image": "/images/games/rc-universo/quiz-3/q1.jpg"
+      "image": "/images/games/universo/quiz-3/q1.jpg"
     },
     {
       "id": "q2",
@@ -26,7 +26,7 @@
         "E": "6 planetas"
       },
       "correct": "B",
-      "image": "/images/games/rc-universo/quiz-3/q2.jpg"
+      "image": "/images/games/universo/quiz-3/q2.jpg"
     },
     {
       "id": "q3",
@@ -39,7 +39,7 @@
         "E": "41 satélites"
       },
       "correct": "C",
-      "image": "/images/games/rc-universo/quiz-3/q3.jpg"
+      "image": "/images/games/universo/quiz-3/q3.jpg"
     },
     {
       "id": "q4",
@@ -52,20 +52,20 @@
         "E": "Deimos e Ganimedes"
       },
       "correct": "B",
-      "image": "/images/games/rc-universo/quiz-3/q4.jpg"
+      "image": "/images/games/universo/quiz-3/q4.jpg"
     },
     {
       "id": "q5",
-      "title": "Qual são os dois principais componentes do Sol?",
+      "title": "Quais são os dois principais componentes do Sol?",
       "options": {
-        "A": "Gás Carbônico e Hélio",
-        "B": "Hidrogênio e Oxigênio",
-        "C": "Ferro e Níquel",
-        "D": "Oxigênio e Hélio",
-        "E": "Hidrogênio e Hélio"
+        "A": "Gás carbônico e hélio",
+        "B": "Hidrogênio e oxigênio",
+        "C": "Ferro e níquel",
+        "D": "Oxigênio e hélio",
+        "E": "Hidrogênio e hélio"
       },
       "correct": "E",
-      "image": "/images/games/rc-universo/quiz-3/q5.jpg"
+      "image": "/images/games/universo/quiz-3/q5.jpg"
     },
     {
       "id": "q6",
@@ -78,59 +78,59 @@
         "E": "930 ºC"
       },
       "correct": "B",
-      "image": "/images/games/rc-universo/quiz-3/q6.jpg"
+      "image": "/images/games/universo/quiz-3/q6.jpg"
     },
     {
       "id": "q7",
       "title": "Como são chamados os maiores satélites de Júpiter?",
       "options": {
-        "A": "null",
-        "B": "null",
-        "C": "null",
-        "D": "null",
+        "A": "Satélites Jovianos",
+        "B": "Satélites Titanianos",
+        "C": "Satélites Saturninos",
+        "D": "Satélites Troidanos",
         "E": "Satélites Galileanos"
       },
       "correct": "E",
-      "image": "/images/games/rc-universo/quiz-3/q7.jpg"
+      "image": "/images/games/universo/quiz-3/q7.jpg"
     },
     {
       "id": "q8",
       "title": "Complete: O núcleo interno da Terra é formado por ferro e ___ sólidos.",
       "options": {
-        "A": "null",
-        "B": "null",
-        "C": "null",
-        "D": "null",
-        "E": "Niquel"
+        "A": "cobre",
+        "B": "alumínio",
+        "C": "silício",
+        "D": "enxofre",
+        "E": "níquel"
       },
       "correct": "E",
-      "image": "/images/games/rc-universo/quiz-3/q8.jpg"
+      "image": "/images/games/universo/quiz-3/q8.jpg"
     },
     {
       "id": "q9",
       "title": "Qual a fórmula do oxigênio?",
       "options": {
-        "A": "null",
-        "B": "null",
+        "A": "O",
+        "B": "O3",
         "C": "O2",
-        "D": "null",
-        "E": "null"
+        "D": "CO2",
+        "E": "H2O"
       },
       "correct": "C",
-      "image": "/images/games/rc-universo/quiz-3/q9.jpg"
+      "image": "/images/games/universo/quiz-3/q9.jpg"
     },
     {
       "id": "q10",
-      "title": "Qual planeta que recentemente foi rebaixado a Planeta Anão?",
+      "title": "Qual planeta que recentemente foi rebaixado a planeta anão?",
       "options": {
-        "A": "null",
-        "B": "null",
-        "C": "null",
-        "D": "null",
+        "A": "Netuno",
+        "B": "Urano",
+        "C": "Saturno",
+        "D": "Marte",
         "E": "Plutão"
       },
       "correct": "E",
-      "image": "/images/games/rc-universo/quiz-3/q10.jpg"
+      "image": "/images/games/universo/quiz-3/q10.jpg"
     }
   ]
 }

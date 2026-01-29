@@ -13,7 +13,7 @@
         "E": "She makes me dream of that special place"
       },
       "correct": "A",
-      "image": "/images/games/exs-musicas/quiz-1/q1.jpg"
+      "image": "/images/games/musicas/quiz-1/q1.jpg"
     },
     {
       "id": "q2",
@@ -26,7 +26,7 @@
         "E": "AC/DC"
       },
       "correct": "E",
-      "image": "/images/games/exs-musicas/quiz-1/q2.jpg"
+      "image": "/images/games/musicas/quiz-1/q2.jpg"
     },
     {
       "id": "q3",
@@ -39,7 +39,7 @@
         "E": "I have the money, let's live it up"
       },
       "correct": "D",
-      "image": "/images/games/exs-musicas/quiz-1/q3.jpg"
+      "image": "/images/games/musicas/quiz-1/q3.jpg"
     },
     {
       "id": "q4",
@@ -52,7 +52,7 @@
         "E": "David Bowie"
       },
       "correct": "C",
-      "image": "/images/games/exs-musicas/quiz-1/q4.jpg"
+      "image": "/images/games/musicas/quiz-1/q4.jpg"
     },
     {
       "id": "q5",
@@ -65,7 +65,7 @@
         "E": "Lorde"
       },
       "correct": "B",
-      "image": "/images/games/exs-musicas/quiz-1/q5.jpg"
+      "image": "/images/games/musicas/quiz-1/q5.jpg"
     },
     {
       "id": "q6",
@@ -78,7 +78,7 @@
         "E": "Walkman"
       },
       "correct": "E",
-      "image": "/images/games/exs-musicas/quiz-1/q6.jpg"
+      "image": "/images/games/musicas/quiz-1/q6.jpg"
     },
     {
       "id": "q7",
@@ -91,7 +91,7 @@
         "E": "Gregory Isaacs"
       },
       "correct": "D",
-      "image": "/images/games/exs-musicas/quiz-1/q7.jpg"
+      "image": "/images/games/musicas/quiz-1/q7.jpg"
     },
     {
       "id": "q8",
@@ -104,7 +104,7 @@
         "E": "MTV Video Music Awards"
       },
       "correct": "A",
-      "image": "/images/games/exs-musicas/quiz-1/q8.jpg"
+      "image": "/images/games/musicas/quiz-1/q8.jpg"
     },
     {
       "id": "q9",
@@ -117,7 +117,7 @@
         "E": "tempo e estrada"
       },
       "correct": "C",
-      "image": "/images/games/exs-musicas/quiz-1/q9.jpg"
+      "image": "/images/games/musicas/quiz-1/q9.jpg"
     },
     {
       "id": "q10",
@@ -130,7 +130,7 @@
         "E": "proteger"
       },
       "correct": "E",
-      "image": "/images/games/exs-musicas/quiz-1/q10.jpg"
+      "image": "/images/games/musicas/quiz-1/q10.jpg"
     },
     {
       "id": "q11",
@@ -143,7 +143,7 @@
         "E": "Só mais tarde, ao amanhecer"
       },
       "correct": "A",
-      "image": "/images/games/exs-musicas/quiz-1/q11.jpg"
+      "image": "/images/games/musicas/quiz-1/q11.jpg"
     },
     {
       "id": "q12",
@@ -156,7 +156,7 @@
         "E": "Universo"
       },
       "correct": "C",
-      "image": "/images/games/exs-musicas/quiz-1/q12.jpg"
+      "image": "/images/games/musicas/quiz-1/q12.jpg"
     },
     {
       "id": "q13",
@@ -169,7 +169,7 @@
         "E": "Iggy Pop"
       },
       "correct": "D",
-      "image": "/images/games/exs-musicas/quiz-1/q13.jpg"
+      "image": "/images/games/musicas/quiz-1/q13.jpg"
     },
     {
       "id": "q14",
@@ -182,7 +182,7 @@
         "E": "Lynyrd Skynyrd"
       },
       "correct": "C",
-      "image": "/images/games/exs-musicas/quiz-1/q14.jpg"
+      "image": "/images/games/musicas/quiz-1/q14.jpg"
     },
     {
       "id": "q15",
@@ -195,7 +195,7 @@
         "E": "saudade"
       },
       "correct": "B",
-      "image": "/images/games/exs-musicas/quiz-1/q15.jpg"
+      "image": "/images/games/musicas/quiz-1/q15.jpg"
     }
   ]
 }

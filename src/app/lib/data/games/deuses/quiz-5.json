@@ -1,5 +1,5 @@
 {
-  "id": "quiz-4",
+  "id": "quiz-5",
   "title": "Quizur - Mitologia Grega — Jogo 4",
   "questions": [
     {
@@ -12,7 +12,7 @@
         "D": "Édipo"
       },
       "correct": "D",
-      "image": "/images/games/quizur-mitologia-grega/quiz-4/q1.jpg"
+      "image": "/images/games/deuses/quiz-5/q1.jpg"
     },
     {
       "id": "q2",
@@ -24,7 +24,7 @@
         "D": "Oceano"
       },
       "correct": "A",
-      "image": "/images/games/quizur-mitologia-grega/quiz-4/q2.jpg"
+      "image": "/images/games/deuses/quiz-5/q2.jpg"
     },
     {
       "id": "q3",
@@ -36,7 +36,7 @@
         "D": "Hades"
       },
       "correct": "A",
-      "image": "/images/games/quizur-mitologia-grega/quiz-4/q3.jpg"
+      "image": "/images/games/deuses/quiz-5/q3.jpg"
     },
     {
       "id": "q4",
@@ -48,7 +48,7 @@
         "D": "Ártemis"
       },
       "correct": "A",
-      "image": "/images/games/quizur-mitologia-grega/quiz-4/q4.jpg"
+      "image": "/images/games/deuses/quiz-5/q4.jpg"
     },
     {
       "id": "q5",
@@ -60,7 +60,7 @@
         "D": "Cavalo e homem"
       },
       "correct": "A",
-      "image": "/images/games/quizur-mitologia-grega/quiz-4/q5.jpg"
+      "image": "/images/games/deuses/quiz-5/q5.jpg"
     },
     {
       "id": "q6",
@@ -72,7 +72,7 @@
         "D": "Jasão"
       },
       "correct": "C",
-      "image": "/images/games/quizur-mitologia-grega/quiz-4/q6.jpg"
+      "image": "/images/games/deuses/quiz-5/q6.jpg"
     },
     {
       "id": "q7",
@@ -84,7 +84,7 @@
         "D": "Ida"
       },
       "correct": "A",
-      "image": "/images/games/quizur-mitologia-grega/quiz-4/q7.jpg"
+      "image": "/images/games/deuses/quiz-5/q7.jpg"
     },
     {
       "id": "q8",
@@ -96,7 +96,7 @@
         "D": "Três"
       },
       "correct": "B",
-      "image": "/images/games/quizur-mitologia-grega/quiz-4/q8.jpg"
+      "image": "/images/games/deuses/quiz-5/q8.jpg"
     },
     {
       "id": "q9",
@@ -108,7 +108,7 @@
         "D": "Hécate"
       },
       "correct": "B",
-      "image": "/images/games/quizur-mitologia-grega/quiz-4/q9.jpg"
+      "image": "/images/games/deuses/quiz-5/q9.jpg"
     },
     {
       "id": "q10",
@@ -120,7 +120,7 @@
         "D": "A Titanomaquia"
       },
       "correct": "B",
-      "image": "/images/games/quizur-mitologia-grega/quiz-4/q10.jpg"
+      "image": "/images/games/deuses/quiz-5/q10.jpg"
     },
     {
       "id": "q11",
@@ -132,7 +132,7 @@
         "D": "Aquiles"
       },
       "correct": "B",
-      "image": "/images/games/quizur-mitologia-grega/quiz-4/q11.jpg"
+      "image": "/images/games/deuses/quiz-5/q11.jpg"
     },
     {
       "id": "q12",
@@ -144,7 +144,7 @@
         "D": "Éris"
       },
       "correct": "C",
-      "image": "/images/games/quizur-mitologia-grega/quiz-4/q12.jpg"
+      "image": "/images/games/deuses/quiz-5/q12.jpg"
     },
     {
       "id": "q13",
@@ -156,7 +156,7 @@
         "D": "Colheitas"
       },
       "correct": "A",
-      "image": "/images/games/quizur-mitologia-grega/quiz-4/q13.jpg"
+      "image": "/images/games/deuses/quiz-5/q13.jpg"
     },
     {
       "id": "q14",
@@ -168,7 +168,7 @@
         "D": "Um titã"
       },
       "correct": "A",
-      "image": "/images/games/quizur-mitologia-grega/quiz-4/q14.jpg"
+      "image": "/images/games/deuses/quiz-5/q14.jpg"
     },
     {
       "id": "q15",
@@ -179,7 +179,7 @@
         "C": "Hermes Psicopompo"
       },
       "correct": "C",
-      "image": "/images/games/quizur-mitologia-grega/quiz-4/q15.jpg"
+      "image": "/images/games/deuses/quiz-5/q15.jpg"
     }
   ]
 }

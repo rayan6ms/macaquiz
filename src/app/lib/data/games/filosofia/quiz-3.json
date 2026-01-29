@@ -13,7 +13,7 @@
         "E": "Amizade à ciência"
       },
       "correct": "D",
-      "image": "/images/games/rc-filosofia/quiz-3/q1.jpg"
+      "image": "/images/games/filosofia/quiz-3/q1.jpg"
     },
     {
       "id": "q2",
@@ -26,7 +26,7 @@
         "E": "Platão"
       },
       "correct": "E",
-      "image": "/images/games/rc-filosofia/quiz-3/q2.jpg"
+      "image": "/images/games/filosofia/quiz-3/q2.jpg"
     },
     {
       "id": "q3",
@@ -39,7 +39,7 @@
         "E": "Pitágoras"
       },
       "correct": "B",
-      "image": "/images/games/rc-filosofia/quiz-3/q3.jpg"
+      "image": "/images/games/filosofia/quiz-3/q3.jpg"
     },
     {
       "id": "q4",
@@ -52,7 +52,7 @@
         "E": "Cícero"
       },
       "correct": "C",
-      "image": "/images/games/rc-filosofia/quiz-3/q4.jpg"
+      "image": "/images/games/filosofia/quiz-3/q4.jpg"
     },
     {
       "id": "q5",
@@ -65,7 +65,7 @@
         "E": "Sêneca"
       },
       "correct": "A",
-      "image": "/images/games/rc-filosofia/quiz-3/q5.jpg"
+      "image": "/images/games/filosofia/quiz-3/q5.jpg"
     },
     {
       "id": "q6",
@@ -78,7 +78,7 @@
         "E": "Rousseau"
       },
       "correct": "B",
-      "image": "/images/games/rc-filosofia/quiz-3/q6.jpg"
+      "image": "/images/games/filosofia/quiz-3/q6.jpg"
     },
     {
       "id": "q7",
@@ -91,7 +91,7 @@
         "E": "1785"
       },
       "correct": "A",
-      "image": "/images/games/rc-filosofia/quiz-3/q7.jpg"
+      "image": "/images/games/filosofia/quiz-3/q7.jpg"
     },
     {
       "id": "q8",
@@ -104,7 +104,7 @@
         "E": "Leibniz"
       },
       "correct": "D",
-      "image": "/images/games/rc-filosofia/quiz-3/q8.jpg"
+      "image": "/images/games/filosofia/quiz-3/q8.jpg"
     },
     {
       "id": "q9",
@@ -117,7 +117,7 @@
         "E": "Habermas"
       },
       "correct": "E",
-      "image": "/images/games/rc-filosofia/quiz-3/q9.jpg"
+      "image": "/images/games/filosofia/quiz-3/q9.jpg"
     },
     {
       "id": "q10",
@@ -130,7 +130,7 @@
         "E": "Ronald Dworkin"
       },
       "correct": "C",
-      "image": "/images/games/rc-filosofia/quiz-3/q10.jpg"
+      "image": "/images/games/filosofia/quiz-3/q10.jpg"
     }
   ]
 }

@@ -10,7 +10,7 @@
         "B": "Falso"
       },
       "correct": "A",
-      "image": "/images/games/rc-curiosidades-animais/quiz-1/q1.jpg"
+      "image": "/images/games/curiosidades-animais/quiz-1/q1.jpg"
     },
     {
       "id": "q2",
@@ -20,7 +20,7 @@
         "B": "Falso"
       },
       "correct": "B",
-      "image": "/images/games/rc-curiosidades-animais/quiz-1/q2.jpg"
+      "image": "/images/games/curiosidades-animais/quiz-1/q2.jpg"
     },
     {
       "id": "q3",
@@ -30,7 +30,7 @@
         "B": "Falso"
       },
       "correct": "B",
-      "image": "/images/games/rc-curiosidades-animais/quiz-1/q3.jpg"
+      "image": "/images/games/curiosidades-animais/quiz-1/q3.jpg"
     },
     {
       "id": "q4",
@@ -40,7 +40,7 @@
         "B": "Falso"
       },
       "correct": "A",
-      "image": "/images/games/rc-curiosidades-animais/quiz-1/q4.jpg"
+      "image": "/images/games/curiosidades-animais/quiz-1/q4.jpg"
     },
     {
       "id": "q5",
@@ -50,7 +50,7 @@
         "B": "Falso"
       },
       "correct": "B",
-      "image": "/images/games/rc-curiosidades-animais/quiz-1/q5.jpg"
+      "image": "/images/games/curiosidades-animais/quiz-1/q5.jpg"
     },
     {
       "id": "q6",
@@ -60,7 +60,7 @@
         "B": "Falso"
       },
       "correct": "B",
-      "image": "/images/games/rc-curiosidades-animais/quiz-1/q6.jpg"
+      "image": "/images/games/curiosidades-animais/quiz-1/q6.jpg"
     },
     {
       "id": "q7",
@@ -70,7 +70,7 @@
         "B": "Falso"
       },
       "correct": "B",
-      "image": "/images/games/rc-curiosidades-animais/quiz-1/q7.jpg"
+      "image": "/images/games/curiosidades-animais/quiz-1/q7.jpg"
     },
     {
       "id": "q8",
@@ -80,7 +80,7 @@
         "B": "Falso"
       },
       "correct": "B",
-      "image": "/images/games/rc-curiosidades-animais/quiz-1/q8.jpg"
+      "image": "/images/games/curiosidades-animais/quiz-1/q8.jpg"
     },
     {
       "id": "q9",
@@ -90,7 +90,7 @@
         "B": "Falso"
       },
       "correct": "B",
-      "image": "/images/games/rc-curiosidades-animais/quiz-1/q9.jpg"
+      "image": "/images/games/curiosidades-animais/quiz-1/q9.jpg"
     },
     {
       "id": "q10",
@@ -100,7 +100,7 @@
         "B": "Falso"
       },
       "correct": "A",
-      "image": "/images/games/rc-curiosidades-animais/quiz-1/q10.jpg"
+      "image": "/images/games/curiosidades-animais/quiz-1/q10.jpg"
     },
     {
       "id": "q11",
@@ -110,7 +110,7 @@
         "B": "Falso"
       },
       "correct": "B",
-      "image": "/images/games/rc-curiosidades-animais/quiz-1/q11.jpg"
+      "image": "/images/games/curiosidades-animais/quiz-1/q11.jpg"
     },
     {
       "id": "q12",
@@ -120,7 +120,7 @@
         "B": "Falso"
       },
       "correct": "B",
-      "image": "/images/games/rc-curiosidades-animais/quiz-1/q12.jpg"
+      "image": "/images/games/curiosidades-animais/quiz-1/q12.jpg"
     }
   ]
 }

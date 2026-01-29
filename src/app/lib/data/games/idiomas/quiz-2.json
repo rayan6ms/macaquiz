@@ -1,6 +1,6 @@
 {
-  "id": "quiz-1",
-  "title": "Racha Cuca - ingles — Jogo 1",
+  "id": "quiz-2",
+  "title": "Racha Cuca - idiomas — Jogo 2",
   "questions": [
     {
       "id": "q1",
@@ -13,7 +13,7 @@
         "E": "I have twenty years old"
       },
       "correct": "D",
-      "image": "/images/games/rc-ingles/quiz-1/q1.jpg"
+      "image": "/images/games/idiomas/quiz-2/q1.jpg"
     },
     {
       "id": "q2",
@@ -26,7 +26,7 @@
         "E": "Tomatoes"
       },
       "correct": "D",
-      "image": "/images/games/rc-ingles/quiz-1/q2.jpg"
+      "image": "/images/games/idiomas/quiz-2/q2.jpg"
     },
     {
       "id": "q3",
@@ -39,7 +39,7 @@
         "E": "Nenhuma das anteriores."
       },
       "correct": "C",
-      "image": "/images/games/rc-ingles/quiz-1/q3.jpg"
+      "image": "/images/games/idiomas/quiz-2/q3.jpg"
     },
     {
       "id": "q4",
@@ -52,7 +52,7 @@
         "E": "Nenhuma das alternativas anteriores"
       },
       "correct": "C",
-      "image": "/images/games/rc-ingles/quiz-1/q4.jpg"
+      "image": "/images/games/idiomas/quiz-2/q4.jpg"
     },
     {
       "id": "q5",
@@ -65,7 +65,7 @@
         "E": "Cavalo, peixe, urso, pássaro, cachorro, gato e vaca"
       },
       "correct": "D",
-      "image": "/images/games/rc-ingles/quiz-1/q5.jpg"
+      "image": "/images/games/idiomas/quiz-2/q5.jpg"
     },
     {
       "id": "q6",
@@ -78,7 +78,7 @@
         "E": "Saver out souls"
       },
       "correct": "D",
-      "image": "/images/games/rc-ingles/quiz-1/q6.jpg"
+      "image": "/images/games/idiomas/quiz-2/q6.jpg"
     },
     {
       "id": "q7",
@@ -91,7 +91,7 @@
         "E": "Rest in plant"
       },
       "correct": "B",
-      "image": "/images/games/rc-ingles/quiz-1/q7.jpg"
+      "image": "/images/games/idiomas/quiz-2/q7.jpg"
     },
     {
       "id": "q8",
@@ -104,7 +104,7 @@
         "E": "Three three"
       },
       "correct": "C",
-      "image": "/images/games/rc-ingles/quiz-1/q8.jpg"
+      "image": "/images/games/idiomas/quiz-2/q8.jpg"
     },
     {
       "id": "q9",
@@ -117,7 +117,7 @@
         "E": "Watermelon"
       },
       "correct": "B",
-      "image": "/images/games/rc-ingles/quiz-1/q9.jpg"
+      "image": "/images/games/idiomas/quiz-2/q9.jpg"
     },
     {
       "id": "q10",
@@ -130,7 +130,7 @@
         "E": "Can I to enter?"
       },
       "correct": "D",
-      "image": "/images/games/rc-ingles/quiz-1/q10.jpg"
+      "image": "/images/games/idiomas/quiz-2/q10.jpg"
     },
     {
       "id": "q11",
@@ -143,7 +143,7 @@
         "E": "Todas estão corretas"
       },
       "correct": "D",
-      "image": "/images/games/rc-ingles/quiz-1/q11.jpg"
+      "image": "/images/games/idiomas/quiz-2/q11.jpg"
     },
     {
       "id": "q12",
@@ -156,7 +156,7 @@
         "E": "Nenhuma está correta"
       },
       "correct": "A",
-      "image": "/images/games/rc-ingles/quiz-1/q12.jpg"
+      "image": "/images/games/idiomas/quiz-2/q12.jpg"
     },
     {
       "id": "q13",
@@ -169,7 +169,7 @@
         "E": "Nenhuma está correta"
       },
       "correct": "B",
-      "image": "/images/games/rc-ingles/quiz-1/q13.jpg"
+      "image": "/images/games/idiomas/quiz-2/q13.jpg"
     }
   ]
 }

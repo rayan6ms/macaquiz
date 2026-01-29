@@ -13,7 +13,7 @@
         "E": "Con Air: A Rota da Fuga"
       },
       "correct": "A",
-      "image": "/images/games/exs-filmes/quiz-1/q1.jpg"
+      "image": "/images/games/filmes/quiz-1/q1.jpg"
     },
     {
       "id": "q2",
@@ -26,7 +26,7 @@
         "E": "O Prestígio"
       },
       "correct": "A",
-      "image": "/images/games/exs-filmes/quiz-1/q2.jpg"
+      "image": "/images/games/filmes/quiz-1/q2.jpg"
     },
     {
       "id": "q3",
@@ -39,7 +39,7 @@
         "E": "Distrito 11"
       },
       "correct": "D",
-      "image": "/images/games/exs-filmes/quiz-1/q3.jpg"
+      "image": "/images/games/filmes/quiz-1/q3.jpg"
     },
     {
       "id": "q4",
@@ -52,7 +52,7 @@
         "E": "Filadélfia"
       },
       "correct": "C",
-      "image": "/images/games/exs-filmes/quiz-1/q4.jpg"
+      "image": "/images/games/filmes/quiz-1/q4.jpg"
     },
     {
       "id": "q5",
@@ -65,7 +65,7 @@
         "E": "Star Wars: Episódio I – A Ameaça Fantasma"
       },
       "correct": "B",
-      "image": "/images/games/exs-filmes/quiz-1/q5.jpg"
+      "image": "/images/games/filmes/quiz-1/q5.jpg"
     },
     {
       "id": "q6",
@@ -78,7 +78,7 @@
         "E": "Oppenheimer"
       },
       "correct": "E",
-      "image": "/images/games/exs-filmes/quiz-1/q6.jpg"
+      "image": "/images/games/filmes/quiz-1/q6.jpg"
     },
     {
       "id": "q7",
@@ -91,7 +91,7 @@
         "E": "Relógios"
       },
       "correct": "C",
-      "image": "/images/games/exs-filmes/quiz-1/q7.jpg"
+      "image": "/images/games/filmes/quiz-1/q7.jpg"
     },
     {
       "id": "q8",
@@ -104,7 +104,7 @@
         "E": "Curtindo a Vida Adoidado"
       },
       "correct": "C",
-      "image": "/images/games/exs-filmes/quiz-1/q8.jpg"
+      "image": "/images/games/filmes/quiz-1/q8.jpg"
     },
     {
       "id": "q9",
@@ -117,7 +117,7 @@
         "E": "Si vis pacem, para bellum"
       },
       "correct": "D",
-      "image": "/images/games/exs-filmes/quiz-1/q9.jpg"
+      "image": "/images/games/filmes/quiz-1/q9.jpg"
     },
     {
       "id": "q10",
@@ -130,7 +130,7 @@
         "E": "Ace Ventura"
       },
       "correct": "E",
-      "image": "/images/games/exs-filmes/quiz-1/q10.jpg"
+      "image": "/images/games/filmes/quiz-1/q10.jpg"
     },
     {
       "id": "q11",
@@ -143,7 +143,7 @@
         "E": "Up: Altas Aventuras"
       },
       "correct": "A",
-      "image": "/images/games/exs-filmes/quiz-1/q11.jpg"
+      "image": "/images/games/filmes/quiz-1/q11.jpg"
     },
     {
       "id": "q12",
@@ -156,7 +156,7 @@
         "E": "Marcus"
       },
       "correct": "C",
-      "image": "/images/games/exs-filmes/quiz-1/q12.jpg"
+      "image": "/images/games/filmes/quiz-1/q12.jpg"
     },
     {
       "id": "q13",
@@ -169,7 +169,7 @@
         "E": "Bilbo"
       },
       "correct": "D",
-      "image": "/images/games/exs-filmes/quiz-1/q13.jpg"
+      "image": "/images/games/filmes/quiz-1/q13.jpg"
     },
     {
       "id": "q14",
@@ -182,7 +182,7 @@
         "E": "La La Land"
       },
       "correct": "A",
-      "image": "/images/games/exs-filmes/quiz-1/q14.jpg"
+      "image": "/images/games/filmes/quiz-1/q14.jpg"
     },
     {
       "id": "q15",
@@ -195,7 +195,7 @@
         "E": "Wall-E"
       },
       "correct": "E",
-      "image": "/images/games/exs-filmes/quiz-1/q15.jpg"
+      "image": "/images/games/filmes/quiz-1/q15.jpg"
     },
     {
       "id": "q16",
@@ -208,7 +208,7 @@
         "E": "O Iluminado"
       },
       "correct": "B",
-      "image": "/images/games/exs-filmes/quiz-1/q16.jpg"
+      "image": "/images/games/filmes/quiz-1/q16.jpg"
     },
     {
       "id": "q17",
@@ -221,7 +221,7 @@
         "E": "A Origem"
       },
       "correct": "C",
-      "image": "/images/games/exs-filmes/quiz-1/q17.jpg"
+      "image": "/images/games/filmes/quiz-1/q17.jpg"
     },
     {
       "id": "q18",
@@ -234,7 +234,7 @@
         "E": "Guerra Civil"
       },
       "correct": "A",
-      "image": "/images/games/exs-filmes/quiz-1/q18.jpg"
+      "image": "/images/games/filmes/quiz-1/q18.jpg"
     }
   ]
 }

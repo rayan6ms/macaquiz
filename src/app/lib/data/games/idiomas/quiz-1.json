@@ -13,7 +13,7 @@
         "E": "Uzbequistão"
       },
       "correct": "D",
-      "image": "/images/games/rc-idiomas/quiz-1/q1.jpg"
+      "image": "/images/games/idiomas/quiz-1/q1.jpg"
     },
     {
       "id": "q2",
@@ -26,7 +26,7 @@
         "E": "Burkina Faso"
       },
       "correct": "B",
-      "image": "/images/games/rc-idiomas/quiz-1/q2.jpg"
+      "image": "/images/games/idiomas/quiz-1/q2.jpg"
     },
     {
       "id": "q3",
@@ -39,7 +39,7 @@
         "E": "Tailandês"
       },
       "correct": "A",
-      "image": "/images/games/rc-idiomas/quiz-1/q3.jpg"
+      "image": "/images/games/idiomas/quiz-1/q3.jpg"
     },
     {
       "id": "q4",
@@ -52,7 +52,7 @@
         "E": "Italiano"
       },
       "correct": "E",
-      "image": "/images/games/rc-idiomas/quiz-1/q4.jpg"
+      "image": "/images/games/idiomas/quiz-1/q4.jpg"
     },
     {
       "id": "q5",
@@ -65,7 +65,7 @@
         "E": "Punjabi"
       },
       "correct": "C",
-      "image": "/images/games/rc-idiomas/quiz-1/q5.jpg"
+      "image": "/images/games/idiomas/quiz-1/q5.jpg"
     },
     {
       "id": "q6",
@@ -78,7 +78,7 @@
         "E": "Peru"
       },
       "correct": "B",
-      "image": "/images/games/rc-idiomas/quiz-1/q6.jpg"
+      "image": "/images/games/idiomas/quiz-1/q6.jpg"
     },
     {
       "id": "q7",
@@ -91,7 +91,7 @@
         "E": "Mandarim"
       },
       "correct": "A",
-      "image": "/images/games/rc-idiomas/quiz-1/q7.jpg"
+      "image": "/images/games/idiomas/quiz-1/q7.jpg"
     },
     {
       "id": "q8",
@@ -101,7 +101,7 @@
         "B": "Falso"
       },
       "correct": "B",
-      "image": "/images/games/rc-idiomas/quiz-1/q8.jpg"
+      "image": "/images/games/idiomas/quiz-1/q8.jpg"
     },
     {
       "id": "q9",
@@ -114,7 +114,7 @@
         "E": "África do Sul"
       },
       "correct": "D",
-      "image": "/images/games/rc-idiomas/quiz-1/q9.jpg"
+      "image": "/images/games/idiomas/quiz-1/q9.jpg"
     },
     {
       "id": "q10",
@@ -127,7 +127,7 @@
         "E": "Sueco, dinamarquês e norueguês"
       },
       "correct": "C",
-      "image": "/images/games/rc-idiomas/quiz-1/q10.jpg"
+      "image": "/images/games/idiomas/quiz-1/q10.jpg"
     },
     {
       "id": "q11",
@@ -140,7 +140,7 @@
         "E": "São Tomé e Príncipe"
       },
       "correct": "C",
-      "image": "/images/games/rc-idiomas/quiz-1/q11.jpg"
+      "image": "/images/games/idiomas/quiz-1/q11.jpg"
     },
     {
       "id": "q12",
@@ -153,7 +153,7 @@
         "E": "Suriname"
       },
       "correct": "E",
-      "image": "/images/games/rc-idiomas/quiz-1/q12.jpg"
+      "image": "/images/games/idiomas/quiz-1/q12.jpg"
     },
     {
       "id": "q13",
@@ -166,7 +166,7 @@
         "E": "Amárico"
       },
       "correct": "A",
-      "image": "/images/games/rc-idiomas/quiz-1/q13.jpg"
+      "image": "/images/games/idiomas/quiz-1/q13.jpg"
     },
     {
       "id": "q14",
@@ -179,7 +179,7 @@
         "E": "Espanha"
       },
       "correct": "D",
-      "image": "/images/games/rc-idiomas/quiz-1/q14.jpg"
+      "image": "/images/games/idiomas/quiz-1/q14.jpg"
     },
     {
       "id": "q15",
@@ -192,7 +192,7 @@
         "E": "Inglês"
       },
       "correct": "E",
-      "image": "/images/games/rc-idiomas/quiz-1/q15.jpg"
+      "image": "/images/games/idiomas/quiz-1/q15.jpg"
     }
   ]
 }

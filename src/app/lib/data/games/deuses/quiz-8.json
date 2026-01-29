@@ -1,5 +1,5 @@
 {
-  "id": "quiz-7",
+  "id": "quiz-8",
   "title": "Quizur - Mitologia Grega — Jogo 7",
   "questions": [
     {
@@ -12,7 +12,7 @@
         "D": "Humanos"
       },
       "correct": "C",
-      "image": "/images/games/quizur-mitologia-grega/quiz-7/q1.jpg"
+      "image": "/images/games/deuses/quiz-8/q1.jpg"
     },
     {
       "id": "q2",
@@ -24,7 +24,7 @@
         "D": "A vida"
       },
       "correct": "A",
-      "image": "/images/games/quizur-mitologia-grega/quiz-7/q2.jpg"
+      "image": "/images/games/deuses/quiz-8/q2.jpg"
     },
     {
       "id": "q3",
@@ -36,7 +36,7 @@
         "D": "Atena"
       },
       "correct": "A",
-      "image": "/images/games/quizur-mitologia-grega/quiz-7/q3.jpg"
+      "image": "/images/games/deuses/quiz-8/q3.jpg"
     },
     {
       "id": "q4",
@@ -48,7 +48,7 @@
         "D": "Um templo"
       },
       "correct": "A",
-      "image": "/images/games/quizur-mitologia-grega/quiz-7/q4.jpg"
+      "image": "/images/games/deuses/quiz-8/q4.jpg"
     },
     {
       "id": "q5",
@@ -60,7 +60,7 @@
         "D": "A esperança"
       },
       "correct": "D",
-      "image": "/images/games/quizur-mitologia-grega/quiz-7/q5.jpg"
+      "image": "/images/games/deuses/quiz-8/q5.jpg"
     },
     {
       "id": "q6",
@@ -72,7 +72,7 @@
         "D": "Hermes"
       },
       "correct": "A",
-      "image": "/images/games/quizur-mitologia-grega/quiz-7/q6.jpg"
+      "image": "/images/games/deuses/quiz-8/q6.jpg"
     },
     {
       "id": "q7",
@@ -84,7 +84,7 @@
         "D": "Terremotos"
       },
       "correct": "C",
-      "image": "/images/games/quizur-mitologia-grega/quiz-7/q7.jpg"
+      "image": "/images/games/deuses/quiz-8/q7.jpg"
     },
     {
       "id": "q8",
@@ -96,7 +96,7 @@
         "D": "Aqueronte"
       },
       "correct": "A",
-      "image": "/images/games/quizur-mitologia-grega/quiz-7/q8.jpg"
+      "image": "/images/games/deuses/quiz-8/q8.jpg"
     },
     {
       "id": "q9",
@@ -108,7 +108,7 @@
         "D": "Lete"
       },
       "correct": "B",
-      "image": "/images/games/quizur-mitologia-grega/quiz-7/q9.jpg"
+      "image": "/images/games/deuses/quiz-8/q9.jpg"
     },
     {
       "id": "q10",
@@ -120,7 +120,7 @@
         "D": "A cultura ocidental"
       },
       "correct": "D",
-      "image": "/images/games/quizur-mitologia-grega/quiz-7/q10.jpg"
+      "image": "/images/games/deuses/quiz-8/q10.jpg"
     },
     {
       "id": "q11",
@@ -132,7 +132,7 @@
         "D": "Tártaro"
       },
       "correct": "A",
-      "image": "/images/games/quizur-mitologia-grega/quiz-7/q11.jpg"
+      "image": "/images/games/deuses/quiz-8/q11.jpg"
     }
   ]
 }

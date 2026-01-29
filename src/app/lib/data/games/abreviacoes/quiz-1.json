@@ -12,7 +12,7 @@
         "D": "null"
       },
       "correct": "A",
-      "image": "/images/games/rc-abreviacoes/quiz-1/q1.jpg"
+      "image": "/images/games/abreviacoes/quiz-1/q1.jpg"
     },
     {
       "id": "q2",
@@ -24,7 +24,7 @@
         "D": "Verdade"
       },
       "correct": "D",
-      "image": "/images/games/rc-abreviacoes/quiz-1/q2.jpg"
+      "image": "/images/games/abreviacoes/quiz-1/q2.jpg"
     },
     {
       "id": "q3",
@@ -36,7 +36,7 @@
         "D": "Por favor"
       },
       "correct": "D",
-      "image": "/images/games/rc-abreviacoes/quiz-1/q3.jpg"
+      "image": "/images/games/abreviacoes/quiz-1/q3.jpg"
     },
     {
       "id": "q4",
@@ -48,7 +48,7 @@
         "D": "null"
       },
       "correct": "C",
-      "image": "/images/games/rc-abreviacoes/quiz-1/q4.jpg"
+      "image": "/images/games/abreviacoes/quiz-1/q4.jpg"
     },
     {
       "id": "q5",
@@ -60,7 +60,7 @@
         "D": "null"
       },
       "correct": "A",
-      "image": "/images/games/rc-abreviacoes/quiz-1/q5.jpg"
+      "image": "/images/games/abreviacoes/quiz-1/q5.jpg"
     },
     {
       "id": "q6",
@@ -72,7 +72,7 @@
         "D": "null"
       },
       "correct": "B",
-      "image": "/images/games/rc-abreviacoes/quiz-1/q6.jpg"
+      "image": "/images/games/abreviacoes/quiz-1/q6.jpg"
     },
     {
       "id": "q7",
@@ -84,7 +84,7 @@
         "D": "Saudades"
       },
       "correct": "D",
-      "image": "/images/games/rc-abreviacoes/quiz-1/q7.jpg"
+      "image": "/images/games/abreviacoes/quiz-1/q7.jpg"
     },
     {
       "id": "q8",
@@ -96,7 +96,7 @@
         "D": "Valeu"
       },
       "correct": "D",
-      "image": "/images/games/rc-abreviacoes/quiz-1/q8.jpg"
+      "image": "/images/games/abreviacoes/quiz-1/q8.jpg"
     },
     {
       "id": "q9",
@@ -108,7 +108,7 @@
         "D": "null"
       },
       "correct": "C",
-      "image": "/images/games/rc-abreviacoes/quiz-1/q9.jpg"
+      "image": "/images/games/abreviacoes/quiz-1/q9.jpg"
     },
     {
       "id": "q10",
@@ -120,7 +120,7 @@
         "D": "LOL"
       },
       "correct": "C",
-      "image": "/images/games/rc-abreviacoes/quiz-1/q10.jpg"
+      "image": "/images/games/abreviacoes/quiz-1/q10.jpg"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "quiz-5",
+  "id": "quiz-6",
   "title": "Quizur - Mitologia Grega — Jogo 5",
   "questions": [
     {
@@ -12,7 +12,7 @@
         "D": "Os humanos"
       },
       "correct": "C",
-      "image": "/images/games/quizur-mitologia-grega/quiz-5/q1.jpg"
+      "image": "/images/games/deuses/quiz-6/q1.jpg"
     },
     {
       "id": "q2",
@@ -24,7 +24,7 @@
         "D": "A guerra entre deuses e gigantes"
       },
       "correct": "D",
-      "image": "/images/games/quizur-mitologia-grega/quiz-5/q2.jpg"
+      "image": "/images/games/deuses/quiz-6/q2.jpg"
     },
     {
       "id": "q3",
@@ -36,7 +36,7 @@
         "D": "Teseu"
       },
       "correct": "A",
-      "image": "/images/games/quizur-mitologia-grega/quiz-5/q3.jpg"
+      "image": "/images/games/deuses/quiz-6/q3.jpg"
     },
     {
       "id": "q4",
@@ -48,7 +48,7 @@
         "D": "Troianos"
       },
       "correct": "A",
-      "image": "/images/games/quizur-mitologia-grega/quiz-5/q4.jpg"
+      "image": "/images/games/deuses/quiz-6/q4.jpg"
     },
     {
       "id": "q5",
@@ -60,7 +60,7 @@
         "D": "Musa"
       },
       "correct": "A",
-      "image": "/images/games/quizur-mitologia-grega/quiz-5/q5.jpg"
+      "image": "/images/games/deuses/quiz-6/q5.jpg"
     },
     {
       "id": "q6",
@@ -72,7 +72,7 @@
         "D": "Scylla"
       },
       "correct": "C",
-      "image": "/images/games/quizur-mitologia-grega/quiz-5/q6.jpg"
+      "image": "/images/games/deuses/quiz-6/q6.jpg"
     },
     {
       "id": "q7",
@@ -84,7 +84,7 @@
         "D": "Titãs"
       },
       "correct": "A",
-      "image": "/images/games/quizur-mitologia-grega/quiz-5/q7.jpg"
+      "image": "/images/games/deuses/quiz-6/q7.jpg"
     },
     {
       "id": "q8",
@@ -96,7 +96,7 @@
         "D": "Prometeu"
       },
       "correct": "A",
-      "image": "/images/games/quizur-mitologia-grega/quiz-5/q8.jpg"
+      "image": "/images/games/deuses/quiz-6/q8.jpg"
     },
     {
       "id": "q9",
@@ -108,7 +108,7 @@
         "D": "Afrodite"
       },
       "correct": "A",
-      "image": "/images/games/quizur-mitologia-grega/quiz-5/q9.jpg"
+      "image": "/images/games/deuses/quiz-6/q9.jpg"
     },
     {
       "id": "q10",
@@ -120,7 +120,7 @@
         "D": "Morte"
       },
       "correct": "B",
-      "image": "/images/games/quizur-mitologia-grega/quiz-5/q10.jpg"
+      "image": "/images/games/deuses/quiz-6/q10.jpg"
     },
     {
       "id": "q11",
@@ -132,7 +132,7 @@
         "D": "Dionísio"
       },
       "correct": "D",
-      "image": "/images/games/quizur-mitologia-grega/quiz-5/q11.jpg"
+      "image": "/images/games/deuses/quiz-6/q11.jpg"
     },
     {
       "id": "q12",
@@ -144,7 +144,7 @@
         "D": "Delfos"
       },
       "correct": "D",
-      "image": "/images/games/quizur-mitologia-grega/quiz-5/q12.jpg"
+      "image": "/images/games/deuses/quiz-6/q12.jpg"
     },
     {
       "id": "q13",
@@ -156,7 +156,7 @@
         "D": "Hera"
       },
       "correct": "B",
-      "image": "/images/games/quizur-mitologia-grega/quiz-5/q13.jpg"
+      "image": "/images/games/deuses/quiz-6/q13.jpg"
     },
     {
       "id": "q14",
@@ -168,7 +168,7 @@
         "D": "Apolo"
       },
       "correct": "D",
-      "image": "/images/games/quizur-mitologia-grega/quiz-5/q14.jpg"
+      "image": "/images/games/deuses/quiz-6/q14.jpg"
     },
     {
       "id": "q15",
@@ -180,7 +180,7 @@
         "D": "Traição"
       },
       "correct": "B",
-      "image": "/images/games/quizur-mitologia-grega/quiz-5/q15.jpg"
+      "image": "/images/games/deuses/quiz-6/q15.jpg"
     }
   ]
 }

@@ -13,7 +13,7 @@
         "E": "Confúcio"
       },
       "correct": "C",
-      "image": "/images/games/rc-filosofia/quiz-2/q1.jpg"
+      "image": "/images/games/filosofia/quiz-2/q1.jpg"
     },
     {
       "id": "q2",
@@ -26,7 +26,7 @@
         "E": "James Boswell"
       },
       "correct": "D",
-      "image": "/images/games/rc-filosofia/quiz-2/q2.jpg"
+      "image": "/images/games/filosofia/quiz-2/q2.jpg"
     },
     {
       "id": "q3",
@@ -39,7 +39,7 @@
         "E": "Rousseau, Montesquieu, John Locke e Descartes."
       },
       "correct": "B",
-      "image": "/images/games/rc-filosofia/quiz-2/q3.jpg"
+      "image": "/images/games/filosofia/quiz-2/q3.jpg"
     },
     {
       "id": "q4",
@@ -52,7 +52,7 @@
         "E": "Comtemporâneos."
       },
       "correct": "A",
-      "image": "/images/games/rc-filosofia/quiz-2/q4.jpg"
+      "image": "/images/games/filosofia/quiz-2/q4.jpg"
     },
     {
       "id": "q5",
@@ -65,7 +65,7 @@
         "E": "França"
       },
       "correct": "E",
-      "image": "/images/games/rc-filosofia/quiz-2/q5.jpg"
+      "image": "/images/games/filosofia/quiz-2/q5.jpg"
     },
     {
       "id": "q6",
@@ -78,7 +78,7 @@
         "E": "França"
       },
       "correct": "E",
-      "image": "/images/games/rc-filosofia/quiz-2/q6.jpg"
+      "image": "/images/games/filosofia/quiz-2/q6.jpg"
     },
     {
       "id": "q7",
@@ -91,7 +91,7 @@
         "E": "null"
       },
       "correct": "D",
-      "image": "/images/games/rc-filosofia/quiz-2/q7.jpg"
+      "image": "/images/games/filosofia/quiz-2/q7.jpg"
     },
     {
       "id": "q8",
@@ -104,7 +104,7 @@
         "E": "Comtemporâneo"
       },
       "correct": "C",
-      "image": "/images/games/rc-filosofia/quiz-2/q8.jpg"
+      "image": "/images/games/filosofia/quiz-2/q8.jpg"
     },
     {
       "id": "q9",
@@ -117,7 +117,7 @@
         "E": "Sócrates"
       },
       "correct": "E",
-      "image": "/images/games/rc-filosofia/quiz-2/q9.jpg"
+      "image": "/images/games/filosofia/quiz-2/q9.jpg"
     },
     {
       "id": "q10",
@@ -130,7 +130,7 @@
         "E": "\"Seja fiel nas suas pequenas coisas porque é nelas que mora sua força.\""
       },
       "correct": "A",
-      "image": "/images/games/rc-filosofia/quiz-2/q10.jpg"
+      "image": "/images/games/filosofia/quiz-2/q10.jpg"
     }
   ]
 }

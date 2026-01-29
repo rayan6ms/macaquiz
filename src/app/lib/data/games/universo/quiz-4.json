@@ -1,6 +1,6 @@
 {
-  "id": "quiz-1",
-  "title": "Racha Cuca - astronomia — Jogo 1",
+  "id": "quiz-4",
+  "title": "Racha Cuca - universo — Jogo 4",
   "questions": [
     {
       "id": "q1",
@@ -13,7 +13,7 @@
         "E": "Saturno"
       },
       "correct": "A",
-      "image": "/images/games/rc-astronomia/quiz-1/q1.jpg"
+      "image": "/images/games/universo/quiz-4/q1.jpg"
     },
     {
       "id": "q2",
@@ -26,7 +26,7 @@
         "E": "Anã marrom"
       },
       "correct": "B",
-      "image": "/images/games/rc-astronomia/quiz-1/q2.jpg"
+      "image": "/images/games/universo/quiz-4/q2.jpg"
     },
     {
       "id": "q3",
@@ -39,7 +39,7 @@
         "E": "Antares e Arcturus"
       },
       "correct": "D",
-      "image": "/images/games/rc-astronomia/quiz-1/q3.jpg"
+      "image": "/images/games/universo/quiz-4/q3.jpg"
     },
     {
       "id": "q4",
@@ -52,7 +52,7 @@
         "E": "Espaço-tempo"
       },
       "correct": "C",
-      "image": "/images/games/rc-astronomia/quiz-1/q4.jpg"
+      "image": "/images/games/universo/quiz-4/q4.jpg"
     },
     {
       "id": "q5",
@@ -65,7 +65,7 @@
         "E": "Ceres"
       },
       "correct": "E",
-      "image": "/images/games/rc-astronomia/quiz-1/q5.jpg"
+      "image": "/images/games/universo/quiz-4/q5.jpg"
     },
     {
       "id": "q6",
@@ -78,7 +78,7 @@
         "E": "Anã branca"
       },
       "correct": "B",
-      "image": "/images/games/rc-astronomia/quiz-1/q6.jpg"
+      "image": "/images/games/universo/quiz-4/q6.jpg"
     },
     {
       "id": "q7",
@@ -91,7 +91,7 @@
         "E": "Verde"
       },
       "correct": "A",
-      "image": "/images/games/rc-astronomia/quiz-1/q7.jpg"
+      "image": "/images/games/universo/quiz-4/q7.jpg"
     },
     {
       "id": "q8",
@@ -104,7 +104,7 @@
         "E": "V616 Monocerotis (A0620-00)"
       },
       "correct": "A",
-      "image": "/images/games/rc-astronomia/quiz-1/q8.jpg"
+      "image": "/images/games/universo/quiz-4/q8.jpg"
     },
     {
       "id": "q9",
@@ -117,7 +117,7 @@
         "E": "Campo Ultra Profundo de Hubble"
       },
       "correct": "E",
-      "image": "/images/games/rc-astronomia/quiz-1/q9.jpg"
+      "image": "/images/games/universo/quiz-4/q9.jpg"
     },
     {
       "id": "q10",
@@ -130,7 +130,7 @@
         "E": "Aglomerado globular"
       },
       "correct": "A",
-      "image": "/images/games/rc-astronomia/quiz-1/q10.jpg"
+      "image": "/images/games/universo/quiz-4/q10.jpg"
     }
   ]
 }

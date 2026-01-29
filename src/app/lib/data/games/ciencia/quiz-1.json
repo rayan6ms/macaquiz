@@ -13,7 +13,7 @@
         "E": "Taumatrópio"
       },
       "correct": "A",
-      "image": "/images/games/rc-ciencia/quiz-1/q1.jpg"
+      "image": "/images/games/ciencia/quiz-1/q1.jpg"
     },
     {
       "id": "q2",
@@ -26,7 +26,7 @@
         "E": "1935"
       },
       "correct": "B",
-      "image": "/images/games/rc-ciencia/quiz-1/q2.jpg"
+      "image": "/images/games/ciencia/quiz-1/q2.jpg"
     },
     {
       "id": "q3",
@@ -39,7 +39,7 @@
         "E": "O Sol terá seu fim com uma supernova."
       },
       "correct": "B",
-      "image": "/images/games/rc-ciencia/quiz-1/q3.jpg"
+      "image": "/images/games/ciencia/quiz-1/q3.jpg"
     },
     {
       "id": "q4",
@@ -52,7 +52,7 @@
         "E": "Microondas"
       },
       "correct": "B",
-      "image": "/images/games/rc-ciencia/quiz-1/q4.jpg"
+      "image": "/images/games/ciencia/quiz-1/q4.jpg"
     },
     {
       "id": "q5",
@@ -65,7 +65,7 @@
         "E": "Centrípeta"
       },
       "correct": "D",
-      "image": "/images/games/rc-ciencia/quiz-1/q5.jpg"
+      "image": "/images/games/ciencia/quiz-1/q5.jpg"
     },
     {
       "id": "q6",
@@ -78,7 +78,7 @@
         "E": "O azul e o vermelho são apenas confusões da nossa mente, o brilho original de toda estrela é branco e não tem relação alguma com as explicações citadas acima."
       },
       "correct": "C",
-      "image": "/images/games/rc-ciencia/quiz-1/q6.jpg"
+      "image": "/images/games/ciencia/quiz-1/q6.jpg"
     },
     {
       "id": "q7",
@@ -91,7 +91,7 @@
         "E": "Charles Edouard Guillaume"
       },
       "correct": "B",
-      "image": "/images/games/rc-ciencia/quiz-1/q7.jpg"
+      "image": "/images/games/ciencia/quiz-1/q7.jpg"
     },
     {
       "id": "q8",
@@ -101,7 +101,7 @@
         "B": "F"
       },
       "correct": "A",
-      "image": "/images/games/rc-ciencia/quiz-1/q8.jpg"
+      "image": "/images/games/ciencia/quiz-1/q8.jpg"
     },
     {
       "id": "q9",
@@ -114,7 +114,7 @@
         "E": "Alan Heeger"
       },
       "correct": "E",
-      "image": "/images/games/rc-ciencia/quiz-1/q9.jpg"
+      "image": "/images/games/ciencia/quiz-1/q9.jpg"
     },
     {
       "id": "q10",
@@ -127,7 +127,7 @@
         "E": "Teoria Universal da Física (TUF)"
       },
       "correct": "A",
-      "image": "/images/games/rc-ciencia/quiz-1/q10.jpg"
+      "image": "/images/games/ciencia/quiz-1/q10.jpg"
     }
   ]
 }

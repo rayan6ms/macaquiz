@@ -1,6 +1,6 @@
 {
-  "id": "quiz-1",
-  "title": "Racha Cuca - Planetas — Jogo 1",
+  "id": "quiz-5",
+  "title": "Racha Cuca - universo — Jogo 5",
   "questions": [
     {
       "id": "q1",
@@ -13,7 +13,7 @@
         "E": "Ceres, Éris e Tétis"
       },
       "correct": "C",
-      "image": "/images/games/rc-planetas/quiz-1/q1.jpg"
+      "image": "/images/games/universo/quiz-5/q1.jpg"
     },
     {
       "id": "q2",
@@ -26,7 +26,7 @@
         "E": "Saturno, Urano e Netuno"
       },
       "correct": "D",
-      "image": "/images/games/rc-planetas/quiz-1/q2.jpg"
+      "image": "/images/games/universo/quiz-5/q2.jpg"
     },
     {
       "id": "q3",
@@ -39,7 +39,7 @@
         "E": "Mercúrio, Vênus e Terra"
       },
       "correct": "C",
-      "image": "/images/games/rc-planetas/quiz-1/q3.jpg"
+      "image": "/images/games/universo/quiz-5/q3.jpg"
     },
     {
       "id": "q4",
@@ -52,7 +52,7 @@
         "E": "Plutão"
       },
       "correct": "A",
-      "image": "/images/games/rc-planetas/quiz-1/q4.jpg"
+      "image": "/images/games/universo/quiz-5/q4.jpg"
     },
     {
       "id": "q5",
@@ -65,7 +65,7 @@
         "E": "Plutão"
       },
       "correct": "B",
-      "image": "/images/games/rc-planetas/quiz-1/q5.jpg"
+      "image": "/images/games/universo/quiz-5/q5.jpg"
     },
     {
       "id": "q6",
@@ -78,7 +78,7 @@
         "E": "Tritão"
       },
       "correct": "C",
-      "image": "/images/games/rc-planetas/quiz-1/q6.jpg"
+      "image": "/images/games/universo/quiz-5/q6.jpg"
     },
     {
       "id": "q7",
@@ -91,7 +91,7 @@
         "E": "Plutão"
       },
       "correct": "A",
-      "image": "/images/games/rc-planetas/quiz-1/q7.jpg"
+      "image": "/images/games/universo/quiz-5/q7.jpg"
     },
     {
       "id": "q8",
@@ -103,7 +103,7 @@
         "D": "Somente Urano e Netuno possuem muito hidrogênio"
       },
       "correct": "A",
-      "image": "/images/games/rc-planetas/quiz-1/q8.jpg"
+      "image": "/images/games/universo/quiz-5/q8.jpg"
     },
     {
       "id": "q9",
@@ -116,7 +116,7 @@
         "E": "A camada de ozônio"
       },
       "correct": "B",
-      "image": "/images/games/rc-planetas/quiz-1/q9.jpg"
+      "image": "/images/games/universo/quiz-5/q9.jpg"
     },
     {
       "id": "q10",
@@ -128,7 +128,7 @@
         "D": "Mercúrio é o planeta mais quente do Sistema Solar."
       },
       "correct": "D",
-      "image": "/images/games/rc-planetas/quiz-1/q10.jpg"
+      "image": "/images/games/universo/quiz-5/q10.jpg"
     },
     {
       "id": "q11",
@@ -141,7 +141,7 @@
         "E": "Mercúrio"
       },
       "correct": "D",
-      "image": "/images/games/rc-planetas/quiz-1/q11.jpg"
+      "image": "/images/games/universo/quiz-5/q11.jpg"
     },
     {
       "id": "q12",
@@ -154,7 +154,7 @@
         "E": "Ozônio"
       },
       "correct": "B",
-      "image": "/images/games/rc-planetas/quiz-1/q12.jpg"
+      "image": "/images/games/universo/quiz-5/q12.jpg"
     }
   ]
 }

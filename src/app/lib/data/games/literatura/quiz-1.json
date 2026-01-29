@@ -13,7 +13,7 @@
         "E": "Jorge Amado"
       },
       "correct": "B",
-      "image": "/images/games/rc-literatura/quiz-1/q1.jpg"
+      "image": "/images/games/literatura/quiz-1/q1.jpg"
     },
     {
       "id": "q2",
@@ -26,7 +26,7 @@
         "E": "\"Terras do Sem-Fim\" de Jorge Amado"
       },
       "correct": "D",
-      "image": "/images/games/rc-literatura/quiz-1/q2.jpg"
+      "image": "/images/games/literatura/quiz-1/q2.jpg"
     },
     {
       "id": "q3",
@@ -39,7 +39,7 @@
         "E": "\"O Mulato\" de Aluísio de Azevedo"
       },
       "correct": "C",
-      "image": "/images/games/rc-literatura/quiz-1/q3.jpg"
+      "image": "/images/games/literatura/quiz-1/q3.jpg"
     },
     {
       "id": "q4",
@@ -52,7 +52,7 @@
         "E": "Mário de Andrade"
       },
       "correct": "A",
-      "image": "/images/games/rc-literatura/quiz-1/q4.jpg"
+      "image": "/images/games/literatura/quiz-1/q4.jpg"
     },
     {
       "id": "q5",
@@ -65,7 +65,7 @@
         "E": "Manuel Bandeira"
       },
       "correct": "E",
-      "image": "/images/games/rc-literatura/quiz-1/q5.jpg"
+      "image": "/images/games/literatura/quiz-1/q5.jpg"
     },
     {
       "id": "q6",
@@ -78,7 +78,7 @@
         "E": "Clarice Lispector"
       },
       "correct": "B",
-      "image": "/images/games/rc-literatura/quiz-1/q6.jpg"
+      "image": "/images/games/literatura/quiz-1/q6.jpg"
     },
     {
       "id": "q7",
@@ -91,7 +91,7 @@
         "E": "\"Incidente em Antares\" — Érico Veríssimo"
       },
       "correct": "C",
-      "image": "/images/games/rc-literatura/quiz-1/q7.jpg"
+      "image": "/images/games/literatura/quiz-1/q7.jpg"
     },
     {
       "id": "q8",
@@ -104,7 +104,7 @@
         "E": "Olavo Bilac"
       },
       "correct": "D",
-      "image": "/images/games/rc-literatura/quiz-1/q8.jpg"
+      "image": "/images/games/literatura/quiz-1/q8.jpg"
     },
     {
       "id": "q9",
@@ -117,7 +117,7 @@
         "E": "Segunda Geração Modernista"
       },
       "correct": "B",
-      "image": "/images/games/rc-literatura/quiz-1/q9.jpg"
+      "image": "/images/games/literatura/quiz-1/q9.jpg"
     },
     {
       "id": "q10",
@@ -130,7 +130,7 @@
         "E": "Érico Veríssimo"
       },
       "correct": "E",
-      "image": "/images/games/rc-literatura/quiz-1/q10.jpg"
+      "image": "/images/games/literatura/quiz-1/q10.jpg"
     },
     {
       "id": "q11",
@@ -143,7 +143,7 @@
         "E": "Ana Maria Machado"
       },
       "correct": "C",
-      "image": "/images/games/rc-literatura/quiz-1/q11.jpg"
+      "image": "/images/games/literatura/quiz-1/q11.jpg"
     },
     {
       "id": "q12",
@@ -156,7 +156,7 @@
         "E": "Gonçalves Dias e Oswald de Andrade"
       },
       "correct": "D",
-      "image": "/images/games/rc-literatura/quiz-1/q12.jpg"
+      "image": "/images/games/literatura/quiz-1/q12.jpg"
     },
     {
       "id": "q13",
@@ -169,7 +169,7 @@
         "E": "Marcelo Rubens Paiva"
       },
       "correct": "A",
-      "image": "/images/games/rc-literatura/quiz-1/q13.jpg"
+      "image": "/images/games/literatura/quiz-1/q13.jpg"
     },
     {
       "id": "q14",
@@ -182,7 +182,7 @@
         "E": "Olavo Bilac"
       },
       "correct": "C",
-      "image": "/images/games/rc-literatura/quiz-1/q14.jpg"
+      "image": "/images/games/literatura/quiz-1/q14.jpg"
     },
     {
       "id": "q15",
@@ -195,7 +195,7 @@
         "E": "José de Alencar"
       },
       "correct": "E",
-      "image": "/images/games/rc-literatura/quiz-1/q15.jpg"
+      "image": "/images/games/literatura/quiz-1/q15.jpg"
     }
   ]
 }

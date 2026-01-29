@@ -1,5 +1,5 @@
 {
-  "id": "quiz-5",
+  "id": "quiz-11",
   "title": "Conhecimentos gerais (Toda Matéria) — Jogo 5",
   "questions": [
     {
@@ -13,7 +13,7 @@
         "E": "Seul"
       },
       "correct": "B",
-      "image": "/images/games/geral/quiz-5/q1.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-11/q1.jpg"
     },
     {
       "id": "q2",
@@ -26,7 +26,7 @@
         "E": "Eurípides"
       },
       "correct": "E",
-      "image": "/images/games/geral/quiz-5/q2.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-11/q2.jpg"
     },
     {
       "id": "q3",
@@ -39,7 +39,7 @@
         "E": "Dinamarca"
       },
       "correct": "B",
-      "image": "/images/games/geral/quiz-5/q3.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-11/q3.jpg"
     },
     {
       "id": "q4",
@@ -52,7 +52,7 @@
         "E": "egípcios"
       },
       "correct": "C",
-      "image": "/images/games/geral/quiz-5/q4.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-11/q4.jpg"
     },
     {
       "id": "q5",
@@ -65,7 +65,7 @@
         "E": "C4"
       },
       "correct": "D",
-      "image": "/images/games/geral/quiz-5/q5.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-11/q5.jpg"
     },
     {
       "id": "q6",
@@ -78,7 +78,7 @@
         "E": "Júpiter"
       },
       "correct": "D",
-      "image": "/images/games/geral/quiz-5/q6.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-11/q6.jpg"
     },
     {
       "id": "q7",
@@ -91,7 +91,7 @@
         "E": "Tártaro"
       },
       "correct": "A",
-      "image": "/images/games/geral/quiz-5/q7.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-11/q7.jpg"
     },
     {
       "id": "q8",
@@ -104,7 +104,7 @@
         "E": "Meridiano Internacional"
       },
       "correct": "C",
-      "image": "/images/games/geral/quiz-5/q8.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-11/q8.jpg"
     },
     {
       "id": "q9",
@@ -117,7 +117,7 @@
         "E": "Wile"
       },
       "correct": "C",
-      "image": "/images/games/geral/quiz-5/q9.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-11/q9.jpg"
     },
     {
       "id": "q10",
@@ -130,7 +130,7 @@
         "E": "o 8"
       },
       "correct": "E",
-      "image": "/images/games/geral/quiz-5/q10.jpg"
+      "image": "/images/games/conhecimentos-gerais/quiz-11/q10.jpg"
     }
   ]
 }
